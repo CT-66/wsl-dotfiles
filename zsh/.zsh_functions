@@ -1,0 +1,7 @@
+# Make a directory and switch to it immediately
+function mcd() {
+    mkdir $1
+    cd $1
+}
+
+

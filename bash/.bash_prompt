@@ -1,0 +1,22 @@
+# Custom
+
+# Colors
+
+orange=$(tput setaf 166);
+yellow=$(tput setaf 228);
+green=$(tput setaf 71);
+white=$(tput setaf 15);
+grey=$(tput setaf 250);
+bold=$(tput bold);
+reset=$(tput sgr0);
+
+# PS1="❯ ";
+# export PS1;
+#PS1="";
+PS1="\[${bold}\]";
+PS1+="\[${grey}\]\w "; # grey: working directory
+PS1+="\[${reset}\] "; # reset color
+PS1+="\[${bold}\]" # bold
+PS1+="\[${yellow}\]❯ "; # yellow: arrow
+PS1+="\[${reset}\]"; # reset color
+export PS1;

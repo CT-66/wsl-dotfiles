@@ -1,0 +1,80 @@
+alias -g c:='cd /mnt/c/users/iamsh'
+alias -g g:='cd /mnt/g/shyam'
+alias -g desktop='cd /mnt/c/users/iamsh/desktop'
+alias -g path='cd ~/.local/bin'
+alias -g ZZ='exit'
+# alias -g sudo!!="sudo !! "
+alias -g v=nvim
+# alias -g vim='vim -u ~/.config/vim/.vimrc'
+alias -g vim=nvim
+alias -g nf=neofetch
+
+alias -g cd..='cd ../'
+alias -g ..='cd ../../'
+alias -g .2='cd ../../'
+alias -g ...='cd ../../../'
+alias -g .3='cd ../../../'
+alias -g ....='cd ../../../../'
+alias -g .4='cd ../../../../'
+alias -g .....='cd ../../../../../'
+alias -g .5='cd ../../../../../'
+
+alias -g ll='ls -laFh --color=auto'
+alias -g la='ls -Ah --color=auto'
+alias -g l='ls -CFh --color=auto'
+alias -g ls='ls -h --color=auto'
+
+alias -g ping='ping -c 5'
+
+alias -g zshrc='nvim ~/.config/zsh/.zshrc'
+alias -g zsh_aliases='nvim ~/.config/zsh/.zsh_aliases'
+alias -g zsh_variables='nvim ~/.config/zsh/.zsh_variables'
+alias -g zsh_plugins='nvim ~/.config/zsh/.zsh_plugins'
+alias -g zsh_prompt='nvim ~/.config/zsh/.zsh_prompt'
+alias -g firefox_css='cd /mnt/c/Users/iamsh/AppData/Roaming/Mozilla/Firefox/Profiles/j9x9tbvr.default-release/chrome'
+alias -g wt_settings='nvim /mnt/c/Users/iamsh/AppData/Local/Packages/Microsoft.WindowsTerminalPreview_8wekyb3d8bbwe/LocalState/settings.json'
+
+alias bash='bash --rcfile ~/.config/bash/.bashrc' 
+# alias vim='vim -u <location>'
+
+alias -g cmd=cmd.exe
+alias -g powershell=powershell.exe
+alias -g pwsh=powershell.exe
+alias -g explorer=explorer.exe
+alias -g py=python.exe
+alias -g python=python.exe
+alias -g pip=pip.exe
+alias -g audacity=audacity.exe
+alias -g mechvibes=mechvibes.exe
+alias -g subl=subl.exe
+alias -g vlc=vlc.exe
+alias -g tclock=clock64.exe
+alias -g taskbarx=taskbarx.exe
+alias -g taskbarx_settings='/mnt/g/Shyam/Program Files/TaskbarX/TaskbarX Configurator.exe'
+alias -g greenshot=greenshot.exe
+# alias -g git=git.exe
+alias -g wa=wa.exe
+alias -g obs=obs64.exe
+alias -g brave=brave.exe
+alias -g firefox=firefox.exe
+alias -g chrome=chrome.exe
+alias -g y=y.exe
+alias -g g=g.exe
+alias -g cmder=cmder.exe
+alias -g keypirinha=keypirinha.exe
+alias -g ueli=ueli.exe
+alias -g wox=wox.exe
+alias -g 7z=7z.exe
+alias -g notepads="/mnt/c/Users/iamsh/AppData/Local/Microsoft/WindowsApps/19282JackieLiu.Notepads-Beta_echhpq9pdbte8/notepads.exe"
+alias -g c=c.exe
+alias -g calc=calc.exe
+
+alias -g wp='wslpath -u'
+alias -g wv='wslview'
+
+alias -g kill_vscode=kill_vscode.bat    
+
+# tmux
+alias -g tmux='tmux -f ~/.config/tmux/tmux.conf'
+alias -g tmux-ls='tmux list-sessions'
+alias -g tmux-ks='tmux kill-session'
