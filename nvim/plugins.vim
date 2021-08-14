@@ -15,6 +15,7 @@ Plug 'vim-airline/vim-airline'
 Plug 'preservim/nerdtree'
 Plug 'machakann/vim-highlightedyank'
 Plug 'sheerun/vim-polyglot'
+Plug 'kevinhwang91/nvim-bqf'
 Plug 'ryanoasis/vim-devicons' " Always last
 
 
