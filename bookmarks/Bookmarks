@@ -1,0 +1,2886 @@
+{
+   "checksum": "d38564af6cb833867834adb45ffd3c74",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13256278344754251",
+                  "guid": "aff20dbe-6535-418b-8bb8-e7a9279a04af",
+                  "id": "67",
+                  "name": "Project Euler",
+                  "type": "url",
+                  "url": "https://projecteuler.net/"
+               }, {
+                  "date_added": "13256278366349160",
+                  "guid": "706c8be3-63d3-4fd2-a06f-cf187ef801a7",
+                  "id": "71",
+                  "name": "CodingBat Python",
+                  "type": "url",
+                  "url": "https://codingbat.com/python"
+               }, {
+                  "date_added": "13256278368629675",
+                  "guid": "59fc054d-7227-404a-991a-b42f2b7a54dc",
+                  "id": "72",
+                  "name": "HackerRank",
+                  "type": "url",
+                  "url": "https://www.hackerrank.com/"
+               }, {
+                  "date_added": "13257533643182190",
+                  "guid": "c50acaac-b32f-448e-90ad-de523eeaa071",
+                  "id": "153",
+                  "name": "Home | Codewars",
+                  "type": "url",
+                  "url": "https://www.codewars.com/dashboard"
+               }, {
+                  "date_added": "13256392222177267",
+                  "guid": "1fb6cbdf-c2c8-4567-b256-4de936a5ccbf",
+                  "id": "134",
+                  "name": "Practice Python",
+                  "type": "url",
+                  "url": "https://www.practicepython.org/"
+               }, {
+                  "date_added": "13257499895001955",
+                  "guid": "453adc84-0262-4a7e-8cf4-f36dcd31cc5f",
+                  "id": "148",
+                  "name": "42 Exciting Python Project Ideas & Topics for Beginners [2021] | upGrad blog",
+                  "type": "url",
+                  "url": "https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/"
+               }, {
+                  "date_added": "13262421756662949",
+                  "guid": "ab3a74da-e227-4b73-b5cd-242900a8eb71",
+                  "id": "417",
+                  "name": "What about making trans?",
+                  "type": "url",
+                  "url": "http://www.pythonchallenge.com/pc/def/map.html"
+               }, {
+                  "date_added": "13265894024141075",
+                  "guid": "c9365f0f-7fee-418b-bc0f-5920c3111849",
+                  "id": "633",
+                  "name": "Dev Simulator - A Coding RPG & Bootcamp",
+                  "type": "url",
+                  "url": "https://simulator.dev/"
+               } ],
+               "date_added": "13256278463974417",
+               "date_modified": "13265978855852080",
+               "guid": "c1b3db16-9d98-498f-8d59-d2bd243d3209",
+               "id": "75",
+               "name": "Practice Websites",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13253373898614668",
+                  "guid": "bbffc8ef-a56e-48b2-bdb9-8611a2d75d2f",
+                  "id": "41",
+                  "name": "Design of Computer Programs - Udacity",
+                  "type": "url",
+                  "url": "https://classroom.udacity.com/courses/cs212"
+               }, {
+                  "date_added": "13255524640231847",
+                  "guid": "3d8b13b2-1576-4db6-bafd-926620113d5d",
+                  "id": "52",
+                  "name": "Computer Science Fundamentals MicroBachelors® Program | edX",
+                  "type": "url",
+                  "url": "https://www.edx.org/microbachelors/nyux-computer-science-fundamentals"
+               }, {
+                  "date_added": "13255524649895050",
+                  "guid": "16460d6d-b04f-43c2-bcc2-7be87f889da7",
+                  "id": "53",
+                  "name": "HarvardX Data Science Professional Certificate | edX",
+                  "type": "url",
+                  "url": "https://www.edx.org/professional-certificate/harvardx-data-science"
+               }, {
+                  "date_added": "13255629226074613",
+                  "guid": "6ecdbc7f-9344-46d9-b4f1-d52a84aa4002",
+                  "id": "55",
+                  "name": "Donut math: how donut.c works – a1k0n.net",
+                  "type": "url",
+                  "url": "https://www.a1k0n.net/2011/07/20/donut-math.html"
+               }, {
+                  "date_added": "13258986217296462",
+                  "guid": "b69e4653-d7f9-46c8-b0c5-6e63395b21fb",
+                  "id": "171",
+                  "name": "Your Purchases – Real Python",
+                  "type": "url",
+                  "url": "https://realpython.com/account/purchases/"
+               }, {
+                  "date_added": "13265208862343731",
+                  "guid": "48f30a3b-fc39-4fdd-97aa-e806d475cc13",
+                  "id": "559",
+                  "name": "Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.",
+                  "type": "url",
+                  "url": "https://commandlinepoweruser.com/"
+               } ],
+               "date_added": "13256278430975930",
+               "date_modified": "13265225815095279",
+               "guid": "74cf9e69-cde6-4576-9aeb-5abe8fd6685a",
+               "id": "74",
+               "name": "Courses",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13256391884873346",
+                     "guid": "337c1a04-763e-49bd-99f5-0a46abbcb972",
+                     "id": "129",
+                     "name": "Making Games with Python & Pygame",
+                     "type": "url",
+                     "url": "https://inventwithpython.com/pygame/"
+                  }, {
+                     "date_added": "13256391911604253",
+                     "guid": "b0a5f85c-771f-40b1-924e-0d0cfe8235ff",
+                     "id": "131",
+                     "name": "Hacking Secret Ciphers with Python",
+                     "type": "url",
+                     "url": "http://inventwithpython.com/hacking/chapters/"
+                  }, {
+                     "date_added": "13256391981446133",
+                     "guid": "4a48a9c5-0125-4109-a79d-0a423e644eeb",
+                     "id": "132",
+                     "name": "Invent Your Own Computer Games with Python",
+                     "type": "url",
+                     "url": "http://inventwithpython.com/invent4thed/"
+                  }, {
+                     "date_added": "13259215891777533",
+                     "guid": "4e071418-ac06-4ef9-b212-719ef4384ff3",
+                     "id": "208",
+                     "name": "Invent with Python",
+                     "type": "url",
+                     "url": "https://inventwithpython.com/"
+                  }, {
+                     "date_added": "13259215932366946",
+                     "guid": "9356249f-96de-492b-9f15-f7aadc530b9a",
+                     "id": "209",
+                     "name": "Beyond the Basic Stuff with Python",
+                     "type": "url",
+                     "url": "https://inventwithpython.com/beyond/"
+                  }, {
+                     "date_added": "13259215951580877",
+                     "guid": "2bb095c1-f3e8-4871-8f7b-940ab317efac",
+                     "id": "210",
+                     "name": "Cracking Codes with Python",
+                     "type": "url",
+                     "url": "http://inventwithpython.com/cracking/"
+                  }, {
+                     "date_added": "13256391986553496",
+                     "guid": "d8efa4c2-04c3-4929-8e63-638c347b3620",
+                     "id": "133",
+                     "name": "Coding with Minecraft",
+                     "type": "url",
+                     "url": "https://turtleappstore.com/book/"
+                  }, {
+                     "date_added": "13259215239551665",
+                     "guid": "4bc3709e-a529-4bcc-ab1b-4c474f3d391b",
+                     "id": "203",
+                     "name": "books - learnpython",
+                     "type": "url",
+                     "url": "https://www.reddit.com/r/learnpython/wiki/books"
+                  }, {
+                     "date_added": "13259215281701655",
+                     "guid": "70a02502-9e0f-4f83-8de0-163b90357d42",
+                     "id": "204",
+                     "name": "The Best Python Books – Real Python",
+                     "type": "url",
+                     "url": "https://realpython.com/best-python-books/"
+                  }, {
+                     "date_added": "13259215307581348",
+                     "guid": "e7db4a8b-0601-4172-a026-cc85b5933dfe",
+                     "id": "205",
+                     "name": "pamoroso/free-python-books: Python books free to read online or download",
+                     "type": "url",
+                     "url": "https://github.com/pamoroso/free-python-books"
+                  }, {
+                     "date_added": "13259215317578684",
+                     "guid": "81a2716e-c423-43e0-9641-51a52e749358",
+                     "id": "206",
+                     "name": "stephenh67/python-resources-2019: A curated list of Python 3 resources, books, websites, tutorials, code challenges",
+                     "type": "url",
+                     "url": "https://github.com/stephenh67/python-resources-2019"
+                  }, {
+                     "date_added": "13259215794974727",
+                     "guid": "cbf627d2-e6c9-48de-9ff0-efce462b43f8",
+                     "id": "207",
+                     "name": "Automate the Boring Stuff with Python",
+                     "type": "url",
+                     "url": "https://automatetheboringstuff.com/"
+                  }, {
+                     "date_added": "13259215995005348",
+                     "guid": "c3c1c58a-306c-4ace-9ff3-d9bf3f2cc520",
+                     "id": "211",
+                     "name": "The Hitchhiker’s Guide to Python! — The Hitchhiker's Guide to Python",
+                     "type": "url",
+                     "url": "https://docs.python-guide.org/"
+                  }, {
+                     "date_added": "13259216017422192",
+                     "guid": "06cfb9aa-5d0c-4db7-908e-b726bb8b4e4a",
+                     "id": "212",
+                     "name": "Learn MORE Python the Hard Way",
+                     "type": "url",
+                     "url": "https://learncodethehardway.org/more-python-book/"
+                  }, {
+                     "date_added": "13259216025986211",
+                     "guid": "c683a422-c5c2-44ce-922d-58f8996f38f7",
+                     "id": "213",
+                     "name": "NLTK Book",
+                     "type": "url",
+                     "url": "https://www.nltk.org/book/"
+                  }, {
+                     "date_added": "13259216035333288",
+                     "guid": "6223fb28-6dbe-453e-93c4-036d3237d17a",
+                     "id": "214",
+                     "name": "Programming Computer Vision with Python",
+                     "type": "url",
+                     "url": "http://programmingcomputervision.com/"
+                  } ],
+                  "date_added": "13260035654247953",
+                  "date_modified": "13260035673364246",
+                  "guid": "f6ad3645-34f6-40c8-bbf5-b32b7486e602",
+                  "id": "248",
+                  "name": "Python",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13260035793137365",
+                     "guid": "49072126-78e7-4548-bff5-1dfd0a2af663",
+                     "id": "250",
+                     "name": "Google C++ Style Guide",
+                     "type": "url",
+                     "url": "https://google.github.io/styleguide/cppguide.html"
+                  }, {
+                     "date_added": "13260035804791004",
+                     "guid": "b0133113-f028-46d8-84be-71f641a1c069",
+                     "id": "251",
+                     "name": "Introduction - How to make an Operating System",
+                     "type": "url",
+                     "url": "https://samypesse.gitbook.io/how-to-create-an-operating-system/"
+                  }, {
+                     "date_added": "13260035806950696",
+                     "guid": "71cd469c-d48c-426a-93ce-866f210c581a",
+                     "id": "252",
+                     "name": "Think C++",
+                     "type": "url",
+                     "url": "https://greenteapress.com/thinkcpp/index.html"
+                  }, {
+                     "date_added": "13260035809021248",
+                     "guid": "363567db-7187-4716-86db-0775b8824b19",
+                     "id": "253",
+                     "name": "Introduction to C++ | Electrical Engineering and Computer Science | MIT OpenCourseWare",
+                     "type": "url",
+                     "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/"
+                  }, {
+                     "date_added": "13260035811599083",
+                     "guid": "cab5939a-aa27-4b21-ad63-e6217079aa9b",
+                     "id": "254",
+                     "name": "Introduction  |  C++ Education  |  Google Developers",
+                     "type": "url",
+                     "url": "https://developers.google.com/edu/c++/"
+                  }, {
+                     "date_added": "13260035833773047",
+                     "guid": "59f82a8c-9715-4fcb-9641-9f5553469a2b",
+                     "id": "255",
+                     "name": "qt",
+                     "type": "url",
+                     "url": "https://ptgmedia.pearsoncmg.com/images/0131240722/downloads/blanchette_book.pdf"
+                  }, {
+                     "date_added": "13260291340650868",
+                     "guid": "81ebdd94-16f0-475f-b92a-193b89026acf",
+                     "id": "265",
+                     "name": "Solution",
+                     "type": "url",
+                     "url": "https://developers.google.com/edu/c++/solutions/1-1"
+                  }, {
+                     "date_added": "13260291344851683",
+                     "guid": "69704454-427b-43aa-8053-6a021edc8a55",
+                     "id": "266",
+                     "name": "Solution",
+                     "type": "url",
+                     "url": "https://developers.google.com/edu/c++/solutions/1-2"
+                  }, {
+                     "date_added": "13260442768282785",
+                     "guid": "9254f67d-0d92-46c3-955a-37d489322814",
+                     "id": "268",
+                     "name": "How to Make Your Own Programming Language: Writing a Simple Programming Language from Scratch - Part 1 - DEV Community",
+                     "type": "url",
+                     "url": "https://dev.to/evantypanski/writing-a-simple-programming-language-from-scratch-part-1-54a2"
+                  }, {
+                     "date_added": "13260442903263676",
+                     "guid": "8e1c890c-7cfe-4214-bb22-a3383f2d1f84",
+                     "id": "269",
+                     "name": "So, I Created a Programming Language | by Chirag Khandelwal | Young Coder | Medium",
+                     "type": "url",
+                     "url": "https://medium.com/young-coder/so-i-created-a-programming-language-4d9c11038d22"
+                  }, {
+                     "date_added": "13260442910027617",
+                     "guid": "c412bc4a-9cfc-404f-b3ae-f05be00b15fa",
+                     "id": "270",
+                     "name": "GitHub - Electrux/Ethereal: Ethereal Language Reference Implementation (archived). Currently working on Feral",
+                     "type": "url",
+                     "url": "https://github.com/Electrux/Ethereal"
+                  }, {
+                     "date_added": "13260544968830597",
+                     "guid": "7b25cab8-1e4d-4c19-a16f-2329011ac288",
+                     "id": "274",
+                     "name": "Learn C++",
+                     "type": "url",
+                     "url": "https://www.learncpp.com/"
+                  } ],
+                  "date_added": "13260035659560998",
+                  "date_modified": "13260544972376488",
+                  "guid": "dc3e42ff-995e-4899-bfd4-791e9e15a72f",
+                  "id": "249",
+                  "name": "C++",
+                  "type": "folder"
+               } ],
+               "date_added": "13256391901074387",
+               "date_modified": "13260035659561276",
+               "guid": "54bb5ee3-2b9a-4085-b337-7857dba78b35",
+               "id": "130",
+               "name": "Books",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13256210617829759",
+                  "guid": "c9a7f501-9599-4221-9385-13b034fcfd6d",
+                  "id": "62",
+                  "name": "Vim Tutorial - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=IiwGbcd8S7I&t=1289s"
+               }, {
+                  "date_added": "13256210621043606",
+                  "guid": "4aa9c4bd-f4ff-4c18-95bf-7bfa19e283d5",
+                  "id": "63",
+                  "name": "Vim: usr_01.txt",
+                  "type": "url",
+                  "url": "https://vimhelp.org/usr_01.txt.html#vimtutor"
+               }, {
+                  "date_added": "13256212516569191",
+                  "guid": "14c2012c-ea50-45fa-856b-31d4807dd508",
+                  "id": "64",
+                  "name": "Vim autocomplete for Python - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/7138039/vim-autocomplete-for-python"
+               }, {
+                  "date_added": "13256212520826303",
+                  "guid": "f4c63e39-341f-4545-968e-15d72fa190f0",
+                  "id": "65",
+                  "name": "davidhalter/jedi-vim: Using the jedi autocompletion library for VIM.",
+                  "type": "url",
+                  "url": "https://github.com/davidhalter/jedi-vim"
+               }, {
+                  "date_added": "13259209088042778",
+                  "guid": "9f1bc847-8689-49dd-bc74-7763d733df81",
+                  "id": "199",
+                  "name": "(20) Vim Crash Course For Beginners - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=jXud3JybsG4&list=WL&index=16"
+               }, {
+                  "date_added": "13259210127923647",
+                  "guid": "d07cf1cb-a767-43ed-a5d0-03bf69ba5838",
+                  "id": "200",
+                  "name": "(20) Vim in 100 Seconds - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=-txKSRn0qeA&list=WL&index=5&t=1s"
+               }, {
+                  "date_added": "13259251393817726",
+                  "guid": "fff2c26f-5f08-4e06-a439-99b83cdc63c3",
+                  "id": "219",
+                  "name": "Tech With TIm Vim",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=fDaPYJwuS6M"
+               }, {
+                  "date_added": "13262017276250083",
+                  "guid": "5463ac1d-c821-410c-ab21-ca42d3a4d846",
+                  "id": "389",
+                  "name": "Chiel92/vim-autoformat: Provide easy code formatting in Vim by integrating existing code formatters.",
+                  "type": "url",
+                  "url": "https://github.com/Chiel92/vim-autoformat"
+               }, {
+                  "date_added": "13264513131808772",
+                  "guid": "8c0d8210-a6ca-4ab2-b661-48c141b91c08",
+                  "id": "441",
+                  "name": "Boost Your Coding Fu With Visual Studio Code and Vim | Barbarian Meets Coding",
+                  "type": "url",
+                  "url": "https://www.barbarianmeetscoding.com/blog/boost-your-coding-fu-with-vscode-and-vim"
+               }, {
+                  "date_added": "13264513139744181",
+                  "guid": "06a18f79-5cff-4213-bc35-27a3352bd5fa",
+                  "id": "442",
+                  "name": "Vim - Visual Studio Marketplace",
+                  "type": "url",
+                  "url": "https://marketplace.visualstudio.com/items?itemName=vscodevim.vim"
+               }, {
+                  "date_added": "13264513204945097",
+                  "guid": "05b90c45-658e-437d-abb1-74d74b90a74a",
+                  "id": "443",
+                  "name": "The best of both worlds: Visual Studio Code + Vim | by Brandon Burrus | The Startup | Medium",
+                  "type": "url",
+                  "url": "https://medium.com/swlh/the-best-of-both-worlds-visual-studio-code-vim-f8e343eb070f"
+               }, {
+                  "date_added": "13264513209375166",
+                  "guid": "a61702b5-d343-4d3f-80e0-b930b742cc26",
+                  "id": "444",
+                  "name": "How to Configure Vim like VSCode - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=gnupOrSEikQ"
+               }, {
+                  "date_added": "13264513213385437",
+                  "guid": "fd20fa83-9703-41fe-b421-9edd0b4a13cf",
+                  "id": "445",
+                  "name": "8 Vim Tricks That Will Take You From Beginner to Expert | by Tyler Lum | The Startup | Medium",
+                  "type": "url",
+                  "url": "https://medium.com/swlh/8-vim-tricks-that-will-take-you-from-beginner-to-expert-817ff4870245"
+               }, {
+                  "date_added": "13264513216226794",
+                  "guid": "c2e375cf-1120-42f5-886a-e4f19a01b910",
+                  "id": "446",
+                  "name": "Using snippets · neoclide/coc.nvim Wiki",
+                  "type": "url",
+                  "url": "https://github.com/neoclide/coc.nvim/wiki/Using-snippets"
+               }, {
+                  "date_added": "13264513221381486",
+                  "guid": "29f42118-2bbe-46c2-94d6-08737cf28977",
+                  "id": "447",
+                  "name": "Application Error",
+                  "type": "url",
+                  "url": "https://www.dailysmarty.com/posts/how-to-setup-prettier-with-vim"
+               }, {
+                  "date_added": "13264513224738408",
+                  "guid": "fa178763-b0ec-4102-925d-120fc32d50ee",
+                  "id": "448",
+                  "name": "prettier/vim-prettier: A Vim plugin for Prettier",
+                  "type": "url",
+                  "url": "https://github.com/prettier/vim-prettier"
+               }, {
+                  "date_added": "13264513227044094",
+                  "guid": "b13c4866-a49a-4751-ae2a-e51ece00bffe",
+                  "id": "449",
+                  "name": "jiangmiao/auto-pairs: Vim plugin, insert or delete brackets, parens, quotes in pair",
+                  "type": "url",
+                  "url": "https://github.com/jiangmiao/auto-pairs"
+               }, {
+                  "date_added": "13264513229102140",
+                  "guid": "2d48a7d6-06a8-4a83-9317-0fd12cd1cdc7",
+                  "id": "450",
+                  "name": "neoclide/coc.nvim: Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.",
+                  "type": "url",
+                  "url": "https://github.com/neoclide/coc.nvim"
+               }, {
+                  "date_added": "13264513231057183",
+                  "guid": "e6bd75a2-fe3a-4c17-930c-9545091a96ce",
+                  "id": "451",
+                  "name": "(1) Using VSCode with the VIM Extension - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=44snngEzNMQ"
+               }, {
+                  "date_added": "13264588785779019",
+                  "guid": "f75f7988-24c4-4c41-a4bc-b89f21f1cb09",
+                  "id": "512",
+                  "name": "Vim Tutorial - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=IiwGbcd8S7I"
+               }, {
+                  "date_added": "13264616722884093",
+                  "guid": "eee3201a-c251-41cb-ac53-f360ababc898",
+                  "id": "543",
+                  "name": "Vim in 100 Seconds - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=-txKSRn0qeA"
+               }, {
+                  "date_added": "13264617391548524",
+                  "guid": "3652fd12-443b-4c38-a376-1b6400659866",
+                  "id": "544",
+                  "name": "Use in Visual Studio Code (Vim extension) CAPS instead of ESC - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/48369303/use-in-visual-studio-code-vim-extension-caps-instead-of-esc/50875402"
+               }, {
+                  "date_added": "13264619655629843",
+                  "guid": "e0a0891b-75e4-41f8-8108-2722cc466e58",
+                  "id": "546",
+                  "name": "Beginner Vim Walkthrough - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=R2pBWDnfJY8"
+               }, {
+                  "date_added": "13265208419563643",
+                  "guid": "cc575ce1-f558-4064-be12-4677185e85fd",
+                  "id": "556",
+                  "name": "Vim Awesome",
+                  "type": "url",
+                  "url": "https://vimawesome.com/"
+               }, {
+                  "date_added": "13265710917379975",
+                  "guid": "c278ea1b-b113-4848-ac4f-4ab913aa24e9",
+                  "id": "621",
+                  "name": "LFCS: How to Install and Use vi/vim as a Full Text Editor – Part 2",
+                  "type": "url",
+                  "url": "https://www.tecmint.com/vi-editor-usage/"
+               }, {
+                  "date_added": "13265710928993932",
+                  "guid": "ecef01e5-bac0-48df-a939-1c1db757db8f",
+                  "id": "622",
+                  "name": "Learn Useful 'Vi/Vim' Editor Tips and Tricks to Enhance Your Skills - Part 1",
+                  "type": "url",
+                  "url": "https://www.tecmint.com/learn-vi-and-vim-editor-tips-and-tricks-in-linux/"
+               }, {
+                  "date_added": "13265710935644449",
+                  "guid": "73876e3f-1ec5-47fd-9dd0-9ae02ff859be",
+                  "id": "623",
+                  "name": "8 Interesting ‘Vi/Vim’ Editor Tips and Tricks for Every Linux Administrator - Part 2",
+                  "type": "url",
+                  "url": "https://www.tecmint.com/how-to-use-vi-and-vim-editor-in-linux/"
+               }, {
+                  "date_added": "13265710942702380",
+                  "guid": "affc86dc-ea7b-4223-b5ac-c6e5ab31a2a2",
+                  "id": "624",
+                  "name": "VimGolf - real Vim ninjas count every keystroke!",
+                  "type": "url",
+                  "url": "http://www.vimgolf.com/"
+               }, {
+                  "date_added": "13265715480001618",
+                  "guid": "cd4c9c4a-8e59-4215-8b98-55a3438501cb",
+                  "id": "625",
+                  "name": "Disable beeping | Vim Tips Wiki | Fandom",
+                  "type": "url",
+                  "url": "https://vim.fandom.com/wiki/Disable_beeping#:~:text=Enter%20the%20command%20%3Aset%20vb,so%20it%20will%20do%20nothing)."
+               }, {
+                  "date_added": "13265715489981856",
+                  "guid": "7f57fb17-6371-4fed-ac38-e555a20faa11",
+                  "id": "626",
+                  "name": "error suppression - How to disable Vim bells sounds? - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/18589352/how-to-disable-vim-bells-sounds"
+               }, {
+                  "date_added": "13265715513121320",
+                  "guid": "8b43eb4b-0ffb-468b-97f7-612d96d5bb81",
+                  "id": "627",
+                  "name": "How to disable beep in vim on Bash for Windows 10? : bashonubuntuonwindows",
+                  "type": "url",
+                  "url": "https://www.reddit.com/r/bashonubuntuonwindows/comments/4vz3sr/how_to_disable_beep_in_vim_on_bash_for_windows_10/"
+               }, {
+                  "date_added": "13265978855852080",
+                  "guid": "c90e1ffa-ea5d-489e-b2b2-7380d96915cb",
+                  "id": "635",
+                  "name": "(1) [nvim] nord is nice : vimporn",
+                  "type": "url",
+                  "url": "https://www.reddit.com/r/vimporn/comments/naja68/nvim_nord_is_nice/"
+               }, {
+                  "date_added": "13265981469944927",
+                  "guid": "bc30cac5-abb3-4a80-a712-7ffd21f9c8dd",
+                  "id": "636",
+                  "name": "Windows: disable Vim's start or intro screen - Vi and Vim Stack Exchange",
+                  "type": "url",
+                  "url": "https://vi.stackexchange.com/questions/26563/windows-disable-vims-start-or-intro-screen"
+               }, {
+                  "date_added": "13266239099409762",
+                  "guid": "b13f0e1a-d348-42de-bbc3-144e0e5b34dd",
+                  "id": "647",
+                  "name": "mhinz/vim-galore: All things Vim!",
+                  "type": "url",
+                  "url": "https://github.com/mhinz/vim-galore"
+               }, {
+                  "date_added": "13266239155286184",
+                  "guid": "31b2c09a-d531-41bc-af1b-52f8d9da46a9",
+                  "id": "648",
+                  "name": "akrawchyk/awesome-vim: The Vim plugin shortlist",
+                  "type": "url",
+                  "url": "https://github.com/akrawchyk/awesome-vim"
+               }, {
+                  "date_added": "13266239191157706",
+                  "guid": "98254952-0e2f-4dfa-829e-3eaedc548d28",
+                  "id": "649",
+                  "name": "amix/vimrc: The ultimate Vim configuration (vimrc)",
+                  "type": "url",
+                  "url": "https://github.com/amix/vimrc"
+               }, {
+                  "date_added": "13266841667630631",
+                  "guid": "8e27df19-c3bf-4801-b7cc-5655a60934a6",
+                  "id": "651",
+                  "name": "808.Ninja - Using VSCode When You're Used to Vim & NerdTree",
+                  "type": "url",
+                  "url": "https://808.ninja/coder/vscode-when-youre-used-to-vim-and-nerdtree/"
+               }, {
+                  "date_added": "13267015950646065",
+                  "guid": "e8996004-b254-46aa-abf1-c5bd660ca0c5",
+                  "id": "654",
+                  "name": "Step Up Your Game with Neovim. Why do I switch to VIM and use Neovim? | by Roderick Samuel Halim | Life At Moka | Medium",
+                  "type": "url",
+                  "url": "https://medium.com/life-at-moka/step-up-your-game-with-neovim-62ba814166d7#:~:text=Adding%20Plug%20(VIM%20Plugin%20Manager,located%20at%20the%20config%20directory.&text=Copy%20and%20paste%20the%20following,file%20location%20might%20be%20different."
+               }, {
+                  "date_added": "13267015961388274",
+                  "guid": "97662f02-fb49-4e18-a6f9-1f6101fafe18",
+                  "id": "656",
+                  "name": "My Life with NeoVim",
+                  "type": "url",
+                  "url": "https://thoughtbot.com/blog/my-life-with-neovim"
+               }, {
+                  "date_added": "13267015965908768",
+                  "guid": "6c1d092e-f367-482b-8e29-49efd6b2fa54",
+                  "id": "657",
+                  "name": "vimrc - How to share config between vim and Neovim - Vi and Vim Stack Exchange",
+                  "type": "url",
+                  "url": "https://vi.stackexchange.com/questions/12794/how-to-share-config-between-vim-and-neovim"
+               }, {
+                  "date_added": "13267015971114994",
+                  "guid": "37bd7ee0-9d8c-4298-bfe0-6103b21962a3",
+                  "id": "658",
+                  "name": "(1) How to Switch to NeoVim? : neovim",
+                  "type": "url",
+                  "url": "https://www.reddit.com/r/neovim/comments/5i73gf/how_to_switch_to_neovim/"
+               }, {
+                  "date_added": "13269798548832625",
+                  "guid": "f938431a-d09e-4a1d-b62c-8ff8bda3d18b",
+                  "id": "727",
+                  "name": "Vim - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/playlist?list=PLz8l62B_3hyQqr2Fkb3-S9IS2FFZqPa14"
+               } ],
+               "date_added": "13256278401239909",
+               "date_modified": "13270062629800224",
+               "guid": "21b054ff-d6f3-4a1b-b857-b0d86844aec0",
+               "id": "73",
+               "name": "Vim",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13256284222237881",
+                  "guid": "b9e46b78-b355-4639-b02f-038246d45023",
+                  "id": "115",
+                  "name": "An Elementary Introduction to the Wolfram Language by Stephen Wolfram",
+                  "type": "url",
+                  "url": "https://www.wolfram.com/language/elementary-introduction/2nd-ed/"
+               }, {
+                  "date_added": "13256284228367407",
+                  "guid": "8846f3eb-8810-4583-b49d-aeea899c7606",
+                  "id": "116",
+                  "name": "Wolfram Programming Language Quick Start - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=EMgPL0roVHI"
+               }, {
+                  "date_added": "13256284230173853",
+                  "guid": "f1e7a838-c273-4c31-a8fc-7da845883e7a",
+                  "id": "117",
+                  "name": "Wolfram Language Tutorial: Fast Introduction for Programmers",
+                  "type": "url",
+                  "url": "https://www.wolfram.com/language/fast-introduction-for-programmers/en/"
+               }, {
+                  "date_added": "13256284231626505",
+                  "guid": "7d93ecbb-7b28-48ee-bc41-85cd354eee2f",
+                  "id": "118",
+                  "name": "Introduction to the Wolfram Language Part 1 - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=DLUOgXGouVY"
+               }, {
+                  "date_added": "13256284233224463",
+                  "guid": "8ab23e97-756d-451a-9d33-42d76833e61d",
+                  "id": "119",
+                  "name": "Stephen Wolfram's Introduction to the Wolfram Language - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=_P9HqHVPeik"
+               }, {
+                  "date_added": "13256284235319891",
+                  "guid": "930d7074-c819-4d6a-b9e2-0c76d2b071ac",
+                  "id": "120",
+                  "name": "Learning Wolfram: From Zero to Hero | by Arnoud Buzing | Towards Data Science",
+                  "type": "url",
+                  "url": "https://towardsdatascience.com/learning-wolfram-from-zero-to-hero-2ac4fd6914d9"
+               } ],
+               "date_added": "13256284218025153",
+               "date_modified": "13256284235319891",
+               "guid": "e1351246-c6ea-4082-8aee-a8e8b25990f0",
+               "id": "114",
+               "name": "Wolfram Language",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13259164498542715",
+                     "guid": "0f0ea88d-0534-463d-9167-6ae766842826",
+                     "id": "181",
+                     "name": "Traditional Face Detection With Python – Real Python",
+                     "type": "url",
+                     "url": "https://realpython.com/courses/traditional-face-detection-python/"
+                  }, {
+                     "date_added": "13259164506978848",
+                     "guid": "1aaa7208-d029-412e-a118-fffe49c595c4",
+                     "id": "182",
+                     "name": "OpenCV Python Tutorial #2 - Image Fundamentals and Manipulation - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=wlYPhdTbRmk&t=0s"
+                  } ],
+                  "date_added": "13259164434119882",
+                  "date_modified": "13259164529600450",
+                  "guid": "2c0a0a7b-68cb-4ef9-ab0c-6d1d37b69ded",
+                  "id": "176",
+                  "name": "OpenCV",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13259164529600450",
+                     "guid": "37df864d-c007-472e-a504-7d8fba1888ea",
+                     "id": "183",
+                     "name": "Learning pygame by creating Snake [python tutorial] - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=QFvqStqPCRU&list=PLz8l62B_3hySONfePCPIDc7CQhSWAfSQP&index=65&t=92s"
+                  }, {
+                     "date_added": "13259164537531285",
+                     "guid": "ce638b63-fe70-42f1-8ade-63102e37c4c6",
+                     "id": "184",
+                     "name": "pygame real python - Google Search",
+                     "type": "url",
+                     "url": "https://www.google.com/search?newwindow=1&q=pygame+real+python"
+                  }, {
+                     "date_added": "13259164539884025",
+                     "guid": "322827ff-f12f-46b3-a254-275ff6396b75",
+                     "id": "185",
+                     "name": "Snake Game in Python | Snake Game Program using Pygame | Edureka",
+                     "type": "url",
+                     "url": "https://www.edureka.co/blog/snake-game-with-pygame/"
+                  }, {
+                     "date_added": "13259164541877138",
+                     "guid": "eead0a9d-6522-49e8-b4cd-f60593c01727",
+                     "id": "186",
+                     "name": "Snake with Pygame - Python Tutorial",
+                     "type": "url",
+                     "url": "https://pythonspot.com/snake-with-pygame/"
+                  }, {
+                     "date_added": "13259164545023177",
+                     "guid": "9159afe0-ed15-44d1-8913-5106b722b6df",
+                     "id": "187",
+                     "name": "PyGame: A Primer on Game Programming in Python – Real Python",
+                     "type": "url",
+                     "url": "https://realpython.com/pygame-a-primer/"
+                  }, {
+                     "date_added": "13259164547712613",
+                     "guid": "1013cf4b-5828-4ed2-8170-2825903c9fd1",
+                     "id": "188",
+                     "name": "Create a Snake-Game using Turtle in Python - GeeksforGeeks",
+                     "type": "url",
+                     "url": "https://www.geeksforgeeks.org/create-a-snake-game-using-turtle-in-python/"
+                  }, {
+                     "date_added": "13259216739668099",
+                     "guid": "52292b90-58d5-41a3-8eb0-b4e8594de5ac",
+                     "id": "216",
+                     "name": "Making Games with Python & Pygame",
+                     "type": "url",
+                     "url": "https://inventwithpython.com/pygame/"
+                  }, {
+                     "date_added": "13259216778273068",
+                     "guid": "80fab220-4ac0-42d5-adff-41bb59915593",
+                     "id": "217",
+                     "name": "Invent Your Own Computer Games with Python",
+                     "type": "url",
+                     "url": "http://inventwithpython.com/invent4thed/"
+                  }, {
+                     "date_added": "13259420914621443",
+                     "guid": "6b638bb9-8836-41ab-930c-e40294080a3e",
+                     "id": "227",
+                     "name": "(5) Learning Pygame by making Pong - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=Qf3-aDXG8q4&list=PL8ui5HK3oSiEk9HaKoVPxSZA03rmr9Z0k"
+                  }, {
+                     "date_added": "13259420928340610",
+                     "guid": "ffd600bf-6df2-45fb-830f-24513bb243dc",
+                     "id": "228",
+                     "name": "(5) Learning pygame by making Flappy Bird - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=UZg49z76cLw&list=PL8ui5HK3oSiF7ZFfwYokCD5myWYhGH24A"
+                  }, {
+                     "date_added": "13260985935598691",
+                     "guid": "fbd07bae-66c9-4dfc-8e9e-8dd93363b94f",
+                     "id": "290",
+                     "name": "Build an Asteroids Game With Python and Pygame – Real Python",
+                     "type": "url",
+                     "url": "https://realpython.com/asteroids-game-python/"
+                  }, {
+                     "date_added": "13261156314373966",
+                     "guid": "6aca38b9-b81b-4c83-991e-fbef687a1831",
+                     "id": "302",
+                     "name": "Make a 2D Side-Scroller Game With PyGame (Overview) – Real Python",
+                     "type": "url",
+                     "url": "https://realpython.com/lessons/pygame-primer-overview/"
+                  }, {
+                     "date_added": "13262154915943926",
+                     "guid": "3073bfd7-629f-45f2-ada1-b3e46e65d303",
+                     "id": "409",
+                     "name": "(18) Coding A Snake Game in Python - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=PHdZdrMCKuY"
+                  }, {
+                     "date_added": "13262471755101736",
+                     "guid": "c4905239-a7fa-45f5-b545-f25bf1e6c52d",
+                     "id": "419",
+                     "name": "Make a 2D Side-Scroller Game With PyGame – Real Python",
+                     "type": "url",
+                     "url": "https://realpython.com/courses/pygame-primer/"
+                  } ],
+                  "date_added": "13259164438154673",
+                  "date_modified": "13262536405592826",
+                  "guid": "58b699ce-cc55-416d-b176-937f5a9019b4",
+                  "id": "177",
+                  "name": "Pygame",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13259164568414470",
+                     "guid": "9662a11b-ff9c-485c-b73c-3684f5ef76aa",
+                     "id": "189",
+                     "name": "Python Tutorial for Beginners 2: Strings - Working with Textual Data - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=k9TUPpGqYTo&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7&index=2&t=0s"
+                  }, {
+                     "date_added": "13259164574269885",
+                     "guid": "5b3bdee9-9b06-4072-85d9-e1b127d45f02",
+                     "id": "190",
+                     "name": "JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour [2020] - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=W6NZfCO5SIk&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax&index=2&t=0s"
+                  }, {
+                     "date_added": "13259169164325968",
+                     "guid": "3cd0e662-06e4-443e-937f-b214c68eb86f",
+                     "id": "195",
+                     "name": "(13) Learn Python Programming - Python Course - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=f79MRyMsjrQ&list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f&index=2"
+                  }, {
+                     "date_added": "13259173748194158",
+                     "guid": "24e4df3d-09f3-41d4-920b-e6787ad9114b",
+                     "id": "197",
+                     "name": "(14) Introduction to Programming and Computer Science - Full Course - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=zOjov-2OZ0E&t=0s"
+                  }, {
+                     "date_added": "13259215111320047",
+                     "guid": "3ec603db-0aac-4c4f-a94a-86cfa17adc6c",
+                     "id": "202",
+                     "name": "Tech With Tim - Intermediate Python Tutorials - techwithtim.net",
+                     "type": "url",
+                     "url": "https://www.techwithtim.net/tutorials/python-programming/intermediate-python-tutorials/"
+                  }, {
+                     "date_added": "13259529494088539",
+                     "guid": "b9c26da4-3b89-45fc-a54a-167503a62d3c",
+                     "id": "230",
+                     "name": "Node.js Tutorial for Beginners: Learn Node in 1 Hour | Mosh - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=TlB_eWDSMt4&t=0s"
+                  }, {
+                     "date_added": "13259592697283410",
+                     "guid": "6464a51d-a5f1-48f5-bff0-6901797969fc",
+                     "id": "232",
+                     "name": "(3) JavaScript Tutorial for Beginners - Full Course in 8 Hours [2020] - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=Qqx_wzMmFeA"
+                  } ],
+                  "date_added": "13259164451612921",
+                  "date_modified": "13259596052935396",
+                  "guid": "724300b3-da0c-405a-bf2a-2a8bda153c4d",
+                  "id": "179",
+                  "name": "Tutorials",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13256284131011360",
+                     "guid": "ed093ccf-a33e-4417-a222-7fdf1e851f60",
+                     "id": "102",
+                     "name": "PyQt5 Tutorial - Setup and a Basic GUI Application - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=Vde5SH8e1OQ&list=PLzMcBGfZo4-lB8MZfHPLTEHO9zJDDLpYj&t=2s"
+                  }, {
+                     "date_added": "13256284136223358",
+                     "guid": "431df69d-02bb-4192-b972-eab5279dd0ce",
+                     "id": "103",
+                     "name": "PyQt5 Tutorial - Basic GUI Application - techwithtim.net",
+                     "type": "url",
+                     "url": "https://www.techwithtim.net/tutorials/pyqt5-tutorial/basic-gui-application/"
+                  }, {
+                     "date_added": "13256284138077332",
+                     "guid": "2191adeb-f6e4-40cd-89a8-e34d22c99d90",
+                     "id": "104",
+                     "name": "Python and PyQt: Building a GUI Desktop Calculator – Real Python",
+                     "type": "url",
+                     "url": "https://realpython.com/python-pyqt-gui-calculator/"
+                  }, {
+                     "date_added": "13256284139943628",
+                     "guid": "1fc05a97-831b-44f4-91cf-2629fbd2f0ea",
+                     "id": "105",
+                     "name": "PyQt - QSlider Widget & Signal - Tutorialspoint",
+                     "type": "url",
+                     "url": "https://www.tutorialspoint.com/pyqt/pyqt_qslider_widget_signal.htm"
+                  }, {
+                     "date_added": "13256284141548144",
+                     "guid": "3ad450db-9e53-41a0-8afb-107c02f74ebe",
+                     "id": "106",
+                     "name": "PyQt - Using Qt Designer - Tutorialspoint",
+                     "type": "url",
+                     "url": "https://www.tutorialspoint.com/pyqt/pyqt_using_qt_designer.htm"
+                  }, {
+                     "date_added": "13257006972667987",
+                     "guid": "765f0d35-bbe4-42d1-b603-c43a7e0d2f77",
+                     "id": "139",
+                     "name": "Qt Designer and Python: Build Your GUI Applications Faster – Real Python",
+                     "type": "url",
+                     "url": "https://realpython.com/qt-designer-python/"
+                  }, {
+                     "date_added": "13259420810363816",
+                     "guid": "7aa2f124-463a-4654-8cdf-7e08bfe8aada",
+                     "id": "226",
+                     "name": "Introduction to GUIs in Python with PyQt5 - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=8jrEVihl-E4"
+                  } ],
+                  "date_added": "13256284125754872",
+                  "date_modified": "13259919822878143",
+                  "guid": "2d938bdb-0d61-4f2b-be85-b5eec0c2c3d2",
+                  "id": "101",
+                  "name": "PyQt",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13259164621058466",
+                     "guid": "23bf7c1a-21b9-4eea-b4d2-a11267a85941",
+                     "id": "193",
+                     "name": "Secrets | Python module to Generate secure random numbers - GeeksforGeeks",
+                     "type": "url",
+                     "url": "https://www.geeksforgeeks.org/secrets-python-module-generate-secure-random-numbers/"
+                  }, {
+                     "date_added": "13259164627079262",
+                     "guid": "cefee130-b338-4fa2-b03f-2a8a69de1765",
+                     "id": "194",
+                     "name": "string — Common string operations — Python 3.9.2 documentation",
+                     "type": "url",
+                     "url": "https://docs.python.org/3/library/string.html"
+                  } ],
+                  "date_added": "13259164613172801",
+                  "date_modified": "13260035727048130",
+                  "guid": "86cd6621-55c0-4cd2-b96f-394f01ee6a27",
+                  "id": "192",
+                  "name": "Random Password Generator",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13259919816676340",
+                     "guid": "016b9b25-9e98-492e-99ad-b00c72d7c0fe",
+                     "id": "239",
+                     "name": "c++ qt - Google Search",
+                     "type": "url",
+                     "url": "https://www.google.com/search?newwindow=1&iflsig=AINFCbYAAAAAYEnO0VJbb7jWgK-oQ51zoyTLuNI_xDjS&q=c%2B%2B+qt"
+                  }, {
+                     "date_added": "13259923410938539",
+                     "guid": "d582e4d8-d6f8-4eac-97e4-3502125f3cf8",
+                     "id": "241",
+                     "name": "(51) Qt Tutorial : C++ Notepad App - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=I96uPDifZ1w"
+                  }, {
+                     "date_added": "13259927948097442",
+                     "guid": "5037c97a-28e6-4a99-80a4-6d189c5f7605",
+                     "id": "242",
+                     "name": "c++ - Understanding While(true) loop - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/28269611/understanding-whiletrue-loop"
+                  }, {
+                     "date_added": "13259930591004209",
+                     "guid": "b63dc6d4-3426-4fbb-ba3b-a6ec26397fa1",
+                     "id": "243",
+                     "name": "C++ Snake Game (Simple!) - Instructables",
+                     "type": "url",
+                     "url": "https://www.instructables.com/C-Snake-Game-Simple/"
+                  }, {
+                     "date_added": "13259935292316764",
+                     "guid": "8b21edbe-7c1a-45cd-b8a9-1bde15d2ff88",
+                     "id": "244",
+                     "name": "Convert userinput to lowercase - C++ Forum",
+                     "type": "url",
+                     "url": "https://www.cplusplus.com/forum/general/28440/"
+                  } ],
+                  "date_added": "13259919832582689",
+                  "date_modified": "13259935292316764",
+                  "guid": "c60069ed-bf7b-4ccf-95b2-2106133a3271",
+                  "id": "240",
+                  "name": "C++",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13260130029988305",
+                     "guid": "6c4f79b8-bdd8-46a3-876a-a8fc2b9de467",
+                     "id": "261",
+                     "name": "Getting started - Chrome Developers",
+                     "type": "url",
+                     "url": "https://developer.chrome.com/docs/extensions/mv2/getstarted/"
+                  }, {
+                     "date_added": "13260651462235760",
+                     "guid": "557b2b1e-ca1d-4bff-b2c2-381a8d022f9c",
+                     "id": "277",
+                     "name": "API Reference - Chrome Developers",
+                     "type": "url",
+                     "url": "https://developer.chrome.com/docs/extensions/reference/"
+                  }, {
+                     "date_added": "13260651464023833",
+                     "guid": "993e645f-e09a-4dac-a6d8-8353008494db",
+                     "id": "278",
+                     "name": "Extension development overview - Chrome Developers",
+                     "type": "url",
+                     "url": "https://developer.chrome.com/docs/extensions/mv3/devguide/"
+                  }, {
+                     "date_added": "13260651469281911",
+                     "guid": "2abfd7bf-aad1-4dd6-aa4e-91e6acf30bfe",
+                     "id": "279",
+                     "name": "GoogleChrome/chrome-extensions-samples: Chrome Extensions Samples",
+                     "type": "url",
+                     "url": "https://github.com/GoogleChrome/chrome-extensions-samples"
+                  } ],
+                  "date_added": "13260651451466965",
+                  "date_modified": "13260701603491456",
+                  "guid": "7256584d-aa6a-4f2b-9f9c-8617ce59cab1",
+                  "id": "276",
+                  "name": "Chrome Extension",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13261462938280462",
+                     "guid": "80b203b0-ff67-4d79-8798-035f922c02f0",
+                     "id": "308",
+                     "name": "Weather App In Flutter. Let's make a simple weather app using… | by Anubhav Gupta | FlutterDevs | Medium",
+                     "type": "url",
+                     "url": "https://medium.com/flutterdevs/weather-app-using-api-4e26bff0d1d1"
+                  }, {
+                     "date_added": "13261464392049589",
+                     "guid": "1c03553a-b1e8-4b4f-b33d-a717faee5b15",
+                     "id": "311",
+                     "name": "Making a Todo App with Flutter | by Gearóid M | The Web Tub | Medium",
+                     "type": "url",
+                     "url": "https://medium.com/the-web-tub/making-a-todo-app-with-flutter-5c63dab88190"
+                  } ],
+                  "date_added": "13261462950606463",
+                  "date_modified": "13261493606236795",
+                  "guid": "8fc5c735-a71c-4bb8-9dfd-923226ce16de",
+                  "id": "309",
+                  "name": "Flutter",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13261493606236795",
+                     "guid": "e96baaa5-9386-4b3d-a82a-d5ea482a562a",
+                     "id": "313",
+                     "name": "Creating a Small-footprint Programming Language in C++ | Toptal",
+                     "type": "url",
+                     "url": "https://www.toptal.com/c-plus-plus/creating-programming-language-in-c-"
+                  }, {
+                     "date_added": "13262885076855303",
+                     "guid": "2f30ea94-5bbf-438f-bc14-d6f7188e01c1",
+                     "id": "432",
+                     "name": "Writing Your Own Toy Compiler Using Flex, Bison and LLVM (gnuu.org)",
+                     "type": "url",
+                     "url": "https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/"
+                  }, {
+                     "date_added": "13262885087155950",
+                     "guid": "d12f02af-2b89-476c-9682-cbda5f41aaf3",
+                     "id": "433",
+                     "name": "Parser and Lexer — How to Create a Compiler part 1/5 — Converting text into an Abstract Syntax Tree - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=eF9qWbuQLuw"
+                  }, {
+                     "date_added": "13262885106363210",
+                     "guid": "7189f45c-d322-4cab-b9d7-f4ab33bb868d",
+                     "id": "434",
+                     "name": "(4) Make YOUR OWN Programming Language in Python - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/playlist?list=PLZQftyCk7_SdoVexSmwy_tBgs7P0b97yD"
+                  } ],
+                  "date_added": "13261493613501968",
+                  "date_modified": "13262885106363210",
+                  "guid": "8141801f-5b41-463e-97c0-5475e8526218",
+                  "id": "314",
+                  "name": "myLang",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13264693848540268",
+                     "guid": "052143aa-f74b-4022-a757-91a3b4385c97",
+                     "id": "548",
+                     "name": "Building a Custom Right-Click (Context) Menu with JavaScript - SitePoint",
+                     "type": "url",
+                     "url": "https://www.sitepoint.com/building-custom-right-click-context-menu-javascript/"
+                  }, {
+                     "date_added": "13264967599279450",
+                     "guid": "7a5fea3a-7d7e-4f3a-a4ea-02ca3f1dfbd4",
+                     "id": "550",
+                     "name": "Build a Weather App using JavaScript - DEV Community",
+                     "type": "url",
+                     "url": "https://dev.to/fahadhassan1213/build-a-weather-app-using-javascript-2g3h"
+                  }, {
+                     "date_added": "13265000510124119",
+                     "guid": "f6f3afb2-3e4f-4c91-a5e0-0c35589913f3",
+                     "id": "552",
+                     "name": "React.js Meme Generator Tutorial - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=rtQKP1we-Dk"
+                  }, {
+                     "date_added": "13265208364799648",
+                     "guid": "5f2f0140-0800-4d0c-aa74-ad93a2278a19",
+                     "id": "554",
+                     "name": "How to create a dot loading animation - DEV Community",
+                     "type": "url",
+                     "url": "https://dev.to/stackfindover/how-to-create-a-dot-loading-animation-hc7"
+                  }, {
+                     "date_added": "13265208480258243",
+                     "guid": "695b1e1e-1e49-4f61-8049-c10624bcf2aa",
+                     "id": "557",
+                     "name": "bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
+                     "type": "url",
+                     "url": "https://github.com/bradtraversy/vanillawebprojects"
+                  }, {
+                     "date_added": "13265208643406832",
+                     "guid": "b80ce5c3-4f11-4420-bb66-454213fe48a2",
+                     "id": "558",
+                     "name": "Three.js – JavaScript 3D Library",
+                     "type": "url",
+                     "url": "https://threejs.org/"
+                  } ],
+                  "date_added": "13265208393019350",
+                  "date_modified": "13265208862343731",
+                  "guid": "102313bc-d8e0-404c-99eb-893a8a7d6063",
+                  "id": "555",
+                  "name": "Web Dev",
+                  "type": "folder"
+               }, {
+                  "date_added": "13261776570822694",
+                  "guid": "603d6a16-988a-4aaa-877f-a940ce631534",
+                  "id": "316",
+                  "name": "How to build an HTML calculator app from scratch using JavaScript",
+                  "type": "url",
+                  "url": "https://www.freecodecamp.org/news/how-to-build-an-html-calculator-app-from-scratch-using-javascript-4454b8714b98/"
+               }, {
+                  "date_added": "13265270119898351",
+                  "guid": "7a470a80-2e3c-47ef-90de-e4e1f7a09cc1",
+                  "id": "563",
+                  "name": "Keyboard Shortcut in HTML",
+                  "type": "url",
+                  "url": "https://www.c-sharpcorner.com/blogs/keyboard-shortcut-in-html1"
+               }, {
+                  "date_added": "13265270136032415",
+                  "guid": "5aa7cb1f-c53a-4799-a9ee-3d64dd72c1fa",
+                  "id": "564",
+                  "name": "jquery - How to create a keyboard shortcut for an input button - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/5061353/how-to-create-a-keyboard-shortcut-for-an-input-button"
+               }, {
+                  "date_added": "13265270150553510",
+                  "guid": "dd1b7873-9bb7-4fc4-8fa7-bff83b4e271b",
+                  "id": "565",
+                  "name": "HTML Global accesskey Attribute",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/tags/att_global_accesskey.asp"
+               }, {
+                  "date_added": "13265270169618079",
+                  "guid": "18242ae1-17fc-44c8-a7ac-808ae701dfc8",
+                  "id": "567",
+                  "name": "Add hot keys to your forms",
+                  "type": "url",
+                  "url": "https://www.chami.com/tips/internet/040698I.html"
+               }, {
+                  "date_added": "13265284844065890",
+                  "guid": "172043ec-eb20-4866-af65-4b038b7a986f",
+                  "id": "570",
+                  "name": "::selection | CSS-Tricks",
+                  "type": "url",
+                  "url": "https://css-tricks.com/almanac/selectors/s/selection/"
+               }, {
+                  "date_added": "13265293649525439",
+                  "guid": "d8d86194-4cee-414f-a790-c3a862cd11d4",
+                  "id": "572",
+                  "name": "How To Make a Modal Box With CSS and JavaScript",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/howto/howto_css_modals.asp"
+               }, {
+                  "date_added": "13265293660704801",
+                  "guid": "6bff83ad-f52f-4c35-9a4d-e90420492f95",
+                  "id": "573",
+                  "name": "How To Create Popups",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/howto/howto_js_popup.asp"
+               }, {
+                  "date_added": "13265301027921789",
+                  "guid": "e5c2e0f4-0698-4169-a9fb-c5a1126e8a7a",
+                  "id": "574",
+                  "name": "How To Create Tooltips",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/howto/howto_css_tooltip.asp"
+               }, {
+                  "date_added": "13265306143584512",
+                  "guid": "eed70d63-e762-4a6b-9395-689d7575b618",
+                  "id": "575",
+                  "name": "How To Display an Element on Hover",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/howto/howto_css_display_element_hover.asp"
+               }, {
+                  "date_added": "13265306169201177",
+                  "guid": "bf0699fa-3cd4-40fc-990c-116223f7f2f2",
+                  "id": "576",
+                  "name": "How To Create a Delete Confirmation Modal",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/howto/howto_css_delete_modal.asp"
+               }, {
+                  "date_added": "13265306201241444",
+                  "guid": "4ecda0c2-a16f-4df8-a25f-2e916532c0f0",
+                  "id": "577",
+                  "name": "How To Create a Scroll Indicator",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/howto/howto_js_scroll_indicator.asp"
+               }, {
+                  "date_added": "13265306212959807",
+                  "guid": "214b478b-7cd4-4316-a820-f91264ecc67b",
+                  "id": "578",
+                  "name": "How TO JS Progress Bar",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/howto/howto_js_progressbar.asp"
+               }, {
+                  "date_added": "13265306235281217",
+                  "guid": "dce7089a-5a05-4e9f-a2d7-df0b30b61796",
+                  "id": "579",
+                  "name": "How To Create a Collapsible",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/howto/howto_js_collapsible.asp"
+               }, {
+                  "date_added": "13265306251729695",
+                  "guid": "be13d16d-9283-48fa-a833-648408fa9a51",
+                  "id": "580",
+                  "name": "How To Create a To Do List",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/howto/howto_js_todolist.asp"
+               }, {
+                  "date_added": "13265306258950659",
+                  "guid": "0781daa0-da65-4a94-9202-56850545f222",
+                  "id": "581",
+                  "name": "How To Make a Loader",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/howto/howto_css_loader.asp"
+               }, {
+                  "date_added": "13265306847286972",
+                  "guid": "7f589e48-93e5-4b14-a671-adcd7ff2a7d9",
+                  "id": "582",
+                  "name": "How To Create an Alert Message Box",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/howto/howto_js_alert.asp"
+               }, {
+                  "date_added": "13265306861998231",
+                  "guid": "563485bd-f793-421b-b064-c8954c4802c2",
+                  "id": "583",
+                  "name": "How To Create a Callout Message Box",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/howto/howto_js_callout.asp"
+               }, {
+                  "date_added": "13265306908734617",
+                  "guid": "5370de2a-120f-42a1-9331-0c998ebe3bcb",
+                  "id": "584",
+                  "name": "How To Create a Snackbar / Toast",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/howto/howto_js_snackbar.asp"
+               }, {
+                  "date_added": "13265306930961518",
+                  "guid": "2f11b92c-e5f9-4464-a69c-65f641cf66c8",
+                  "id": "585",
+                  "name": "How To Create a Smooth Scrolling Effect",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/howto/howto_css_smooth_scroll.asp#section1"
+               }, {
+                  "date_added": "13265306939999254",
+                  "guid": "6d41ce20-49fa-451c-bc3b-c575c249515e",
+                  "id": "586",
+                  "name": "How To Change Background Gradient on Scroll",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/howto/howto_css_bg_gradient_scroll.asp"
+               }, {
+                  "date_added": "13265306951005839",
+                  "guid": "3bf932a2-8154-48c4-9f1c-5b7ff5b6bc69",
+                  "id": "587",
+                  "name": "How To Shrink a Header on Scroll",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/howto/howto_js_shrink_header_scroll.asp"
+               }, {
+                  "date_added": "13265306965680487",
+                  "guid": "e034f0fc-a81f-4d9d-b0dc-28e8898a7ca5",
+                  "id": "588",
+                  "name": "How To Toggle Between Dark and Light Mode",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/howto/howto_js_toggle_dark_mode.asp"
+               }, {
+                  "date_added": "13265306981397968",
+                  "guid": "d5961b4c-d9ab-413e-8e0f-bf689b5848ad",
+                  "id": "589",
+                  "name": "How To Detect Online Connectivity",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/howto/howto_js_offline_detection.asp"
+               }, {
+                  "date_added": "13265307060476609",
+                  "guid": "1ef0e09a-d243-4289-8d06-05283f563040",
+                  "id": "590",
+                  "name": "How To Create a Countdown Timer",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/howto/howto_js_countdown.asp"
+               }, {
+                  "date_added": "13265307074901500",
+                  "guid": "cefb51b1-d518-4827-bddf-ee9e14e1a955",
+                  "id": "591",
+                  "name": "How To Create a Typing Effect",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/howto/howto_js_typewriter.asp"
+               }, {
+                  "date_added": "13265307121067401",
+                  "guid": "bc4eae2f-4ca7-4f49-9497-4f32693cdc27",
+                  "id": "592",
+                  "name": "How To Create Chat Messages",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/howto/howto_css_chat.asp"
+               }, {
+                  "date_added": "13265307133692606",
+                  "guid": "b38e4b9c-2a88-4a58-8eba-f59b8bdce0af",
+                  "id": "593",
+                  "name": "How To Create a Popup Chat Window",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/howto/howto_js_popup_chat.asp"
+               }, {
+                  "date_added": "13265307168204087",
+                  "guid": "acb6b6d9-5982-4f58-a3f7-07385c367b75",
+                  "id": "594",
+                  "name": "W3Schools How TO - Code snippets for HTML, CSS and JavaScript",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/howto/default.asp"
+               }, {
+                  "date_added": "13265307578978952",
+                  "guid": "5ee485d1-b7d2-4d9f-ab2f-2d6321088e0f",
+                  "id": "595",
+                  "name": "Typewriter Effect | CSS-Tricks",
+                  "type": "url",
+                  "url": "https://css-tricks.com/snippets/css/typewriter-effect/"
+               }, {
+                  "date_added": "13265309497277060",
+                  "guid": "8b54dc42-6c81-4617-bab1-a778d3911b2d",
+                  "id": "596",
+                  "name": "How to Create Custom Keyboard Shortcuts using JavaScript | by Reema | Medium",
+                  "type": "url",
+                  "url": "https://ralzohairi.medium.com/adding-custom-keyboard-shortcuts-to-your-website-b4151fda2e7a"
+               }, {
+                  "date_added": "13265452844322946",
+                  "guid": "f5b23afd-cae7-484e-abd2-116fa774a2c1",
+                  "id": "598",
+                  "name": "Detect Internet Connection Status In Browser - DEV Community",
+                  "type": "url",
+                  "url": "https://dev.to/bibekkakati/detect-internet-connection-status-in-browser-2ab6"
+               }, {
+                  "date_added": "13265513955232629",
+                  "guid": "1824ea38-8d2c-493c-ad4f-c2b2336acac1",
+                  "id": "600",
+                  "name": "I made 100 CSS loaders for your next project - DEV Community",
+                  "type": "url",
+                  "url": "https://dev.to/afif/i-made-100-css-loaders-for-your-next-project-4eje"
+               }, {
+                  "date_added": "13265513975625715",
+                  "guid": "4e99fe01-d942-4691-a2c7-d9a60c2791bf",
+                  "id": "601",
+                  "name": "40+ High-Quality Free Resources for Web Development - DEV Community",
+                  "type": "url",
+                  "url": "https://dev.to/joserfelix/40-high-quality-free-resources-for-web-development-10o3"
+               }, {
+                  "date_added": "13265513989192945",
+                  "guid": "da3711b1-c337-4c0c-9ddb-95869c17591a",
+                  "id": "602",
+                  "name": "Best design 🎨 resources websites every developer 💻 should bookmark🔖 - DEV Community",
+                  "type": "url",
+                  "url": "https://dev.to/theme_selection/best-design-resources-websites-every-developer-should-bookmark-1p5d"
+               }, {
+                  "date_added": "13265513996229790",
+                  "guid": "a15a8f2c-9ca0-49d4-8e66-7bf4e9878eca",
+                  "id": "603",
+                  "name": "Best Typography ✒️ Resources & Tools 🛠️ for Every Developers and Designer 🤩 - DEV Community",
+                  "type": "url",
+                  "url": "https://dev.to/theme_selection/best-typography-resources-tools-for-every-developers-and-designer-49hp"
+               }, {
+                  "date_added": "13265514007956915",
+                  "guid": "3a7a9c81-5e3a-43d0-90fc-09ef78f2877b",
+                  "id": "604",
+                  "name": "Best free color 🌈 palette generator 🎨- Ready to use or generate your own!🤘 - DEV Community",
+                  "type": "url",
+                  "url": "https://dev.to/theme_selection/best-free-color-palette-generator-ready-to-use-or-generate-your-own-3hoo"
+               }, {
+                  "date_added": "13265514016177506",
+                  "guid": "1a36631d-6e0a-46fe-bc50-282531e1de42",
+                  "id": "605",
+                  "name": "The Ultimate Guide to Web Performance 🚀 - DEV Community",
+                  "type": "url",
+                  "url": "https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4"
+               }, {
+                  "date_added": "13265514027040122",
+                  "guid": "1f11aad5-8c3c-42f2-b43c-84f904076a1f",
+                  "id": "606",
+                  "name": "35+ Free React templates and themes - DEV Community",
+                  "type": "url",
+                  "url": "https://dev.to/davidepacilio/35-free-react-templates-and-themes-32ci"
+               }, {
+                  "date_added": "13265514045261724",
+                  "guid": "ad130811-4622-421e-bd42-71415fa0b625",
+                  "id": "607",
+                  "name": "10 GitHub Repositories every Developer should know - DEV Community",
+                  "type": "url",
+                  "url": "https://dev.to/pb/10-github-repositories-every-developer-should-know-ngm"
+               }, {
+                  "date_added": "13265514052570543",
+                  "guid": "6bc1f364-1c20-4c56-8600-13fe704e212f",
+                  "id": "608",
+                  "name": "Best GitHub Repos for Web Developers - DEV Community",
+                  "type": "url",
+                  "url": "https://dev.to/sayanide/best-github-repos-for-web-developers-9id"
+               }, {
+                  "date_added": "13265514062849979",
+                  "guid": "a30235ad-4751-4de5-92e1-eb06e02e50eb",
+                  "id": "609",
+                  "name": "50+ free tools and resources to create awesome user interfaces - DEV Community",
+                  "type": "url",
+                  "url": "https://dev.to/cruip/50-free-tools-and-resources-to-create-awesome-user-interfaces-1c1b"
+               }, {
+                  "date_added": "13265514071302948",
+                  "guid": "560e2dcd-89cd-45a9-96e9-5560b626e8d8",
+                  "id": "610",
+                  "name": "How to make a real-time in-browser editor with HTML5′s contenteditable - Simone Web Design",
+                  "type": "url",
+                  "url": "https://www.simonewebdesign.it/how-to-make-browser-editor-with-html5-contenteditable/"
+               }, {
+                  "date_added": "13265514082756041",
+                  "guid": "c19e7cfd-ecef-4ff1-9c49-b9e8e6bfa874",
+                  "id": "611",
+                  "name": "6 GitHub Repos For Instant Knowledge Boost - DEV Community",
+                  "type": "url",
+                  "url": "https://dev.to/mfarajewicz/6-github-repos-for-instant-knowledge-boost-3mo0"
+               }, {
+                  "date_added": "13265514103123450",
+                  "guid": "2c1d3092-6cde-439a-80ef-8b3edefe6339",
+                  "id": "612",
+                  "name": "{FREE} Ultimate Resources for Front-End Development in 2021 + Giveaway⚡ - DEV Community",
+                  "type": "url",
+                  "url": "https://dev.to/rahxuls/free-ultimate-resources-for-front-end-development-in-2021-giveaway-3838"
+               }, {
+                  "date_added": "13265549115184068",
+                  "guid": "b6083c23-3eb4-4b61-bae8-f8ee2061231b",
+                  "id": "615",
+                  "name": "bradtraversy/50projects50days: 50+ mini web projects using HTML, CSS & JS",
+                  "type": "url",
+                  "url": "https://github.com/bradtraversy/50projects50days"
+               }, {
+                  "date_added": "13265549135259777",
+                  "guid": "bcbb939c-dfdd-4e9f-8e60-fde18e3e09a2",
+                  "id": "616",
+                  "name": "bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
+                  "type": "url",
+                  "url": "https://github.com/bradtraversy/design-resources-for-developers"
+               }, {
+                  "date_added": "13265741877225040",
+                  "guid": "1f699c29-1582-4454-9704-46be734245a5",
+                  "id": "631",
+                  "name": "javascript - How to add a custom right-click menu to a webpage? - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/4909167/how-to-add-a-custom-right-click-menu-to-a-webpage?rq=1"
+               }, {
+                  "date_added": "13266237636677947",
+                  "guid": "2599ca2c-070c-40ec-8cb1-ba936dba6b81",
+                  "id": "638",
+                  "name": "vivekweb2013/toastmaker: ToastMaker is a light javascript library for showing toast notifications on web page.",
+                  "type": "url",
+                  "url": "https://github.com/vivekweb2013/toastmaker"
+               }, {
+                  "date_added": "13266237668064977",
+                  "guid": "f0449a92-dbce-4354-aa9c-15ccdee3695a",
+                  "id": "639",
+                  "name": "sButtons/sbuttons: Simple buttons you can use easily for your next project.",
+                  "type": "url",
+                  "url": "https://github.com/sButtons/sbuttons"
+               }, {
+                  "date_added": "13266238934049817",
+                  "guid": "955fff25-6661-4ca4-9e4b-c4ec13942192",
+                  "id": "641",
+                  "name": "stevemao/awesome-git-addons: A curated list of add-ons that extend/enhance the git CLI.",
+                  "type": "url",
+                  "url": "https://github.com/stevemao/awesome-git-addons"
+               }, {
+                  "date_added": "13266239008909291",
+                  "guid": "6c5dca9b-ffcc-4a97-b27f-363b93ba2cee",
+                  "id": "642",
+                  "name": "Learn CSS Layout",
+                  "type": "url",
+                  "url": "https://learnlayout.com/"
+               }, {
+                  "date_added": "13266239012488244",
+                  "guid": "28e67d1c-c032-4353-9d8c-c125b62ff7cd",
+                  "id": "643",
+                  "name": "GitHub Learning Lab",
+                  "type": "url",
+                  "url": "https://lab.github.com/"
+               }, {
+                  "date_added": "13266239016480153",
+                  "guid": "f0731684-4ce9-4a9a-be33-4428dfa06db4",
+                  "id": "644",
+                  "name": "Grid Garden - A game for learning CSS grid",
+                  "type": "url",
+                  "url": "https://cssgridgarden.com/"
+               }, {
+                  "date_added": "13266239020422300",
+                  "guid": "56fdcdf4-fde3-4bdd-9be5-ea1f384ee29d",
+                  "id": "645",
+                  "name": "kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2021",
+                  "type": "url",
+                  "url": "https://github.com/kamranahmedse/developer-roadmap"
+               }, {
+                  "date_added": "13266239022051912",
+                  "guid": "b368e362-be36-4d6b-b0c0-75b0b22a64de",
+                  "id": "646",
+                  "name": "adam-golab/react-developer-roadmap: Roadmap to becoming a React developer",
+                  "type": "url",
+                  "url": "https://github.com/adam-golab/react-developer-roadmap"
+               }, {
+                  "date_added": "13267094929757914",
+                  "guid": "f8b1f550-9389-48a3-aa5d-097216eeab0c",
+                  "id": "660",
+                  "name": "How to style select input in css - DEV Community",
+                  "type": "url",
+                  "url": "https://dev.to/kunaal438/how-to-make-a-custom-select-input-fully-working-custom-options-input-3734"
+               }, {
+                  "date_added": "13267385453734440",
+                  "guid": "5b05a5c3-9cdf-4936-a35f-0b2f6cbffdd4",
+                  "id": "662",
+                  "name": "wayou/t-rex-runner: the t-rex runner game extracted from chromium",
+                  "type": "url",
+                  "url": "https://github.com/wayou/t-rex-runner"
+               }, {
+                  "date_added": "13268413863687109",
+                  "guid": "49b0f086-e5f0-490b-969e-f89e3ff2024d",
+                  "id": "715",
+                  "name": "jaywcjlove/hotkeys: ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.",
+                  "type": "url",
+                  "url": "https://github.com/jaywcjlove/hotkeys"
+               }, {
+                  "date_added": "13268582191589296",
+                  "guid": "ad2e904c-d757-408b-8861-a8313e7eef9c",
+                  "id": "717",
+                  "name": "Perfect Tooltips With CSS Clipping and Masking | CSS-Tricks",
+                  "type": "url",
+                  "url": "https://css-tricks.com/perfect-tooltips-with-css-clipping-and-masking/"
+               }, {
+                  "date_added": "13268582198087707",
+                  "guid": "d041f542-846b-48f7-9154-fa9d4bb4ca18",
+                  "id": "718",
+                  "name": "Dark mode toggle animation using CSS ! - DEV Community",
+                  "type": "url",
+                  "url": "https://dev.to/murtuzaalisurti/dark-mode-toggle-animation-using-css-27il"
+               }, {
+                  "date_added": "13269789747237026",
+                  "guid": "e24cde4c-764d-4697-ba8d-22fe7585b630",
+                  "id": "725",
+                  "name": "Dark theme toggle",
+                  "type": "url",
+                  "url": "https://github.com/arcticicestudio/arctic"
+               } ],
+               "date_added": "13259164410255224",
+               "date_modified": "13270613595084116",
+               "guid": "b72072dc-3c13-44a8-bd4a-ef8cb1a43e6e",
+               "id": "175",
+               "name": "Programming",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13261835893988696",
+                  "guid": "2396c8fe-2fc9-47ff-b77c-3ea39eb73eaf",
+                  "id": "355",
+                  "name": "The ultimate guide to Linux for Windows users",
+                  "type": "url",
+                  "url": "https://www.dedoimedo.com/computers/ultimate-linux-guide-for-windows-users.html"
+               }, {
+                  "date_added": "13261835893988991",
+                  "guid": "e807978a-ce21-404b-8deb-611e743ef384",
+                  "id": "356",
+                  "name": "Plasma : KDE Community",
+                  "type": "url",
+                  "url": "https://kde.org/plasma-desktop/"
+               }, {
+                  "date_added": "13261835893989252",
+                  "guid": "f1e61760-e64c-401e-8a58-35fe52182953",
+                  "id": "357",
+                  "name": "10 Reasons to Use KDE as Linux Desktop Environment",
+                  "type": "url",
+                  "url": "https://www.fossmint.com/reasons-to-use-kde-as-linux-desktop-environment/"
+               }, {
+                  "date_added": "13261835893989492",
+                  "guid": "307e5390-0517-4e70-828e-e991f280c6c6",
+                  "id": "358",
+                  "name": "Top 10 reasons to use KDE as your Desktop Environment | FOSS Linux",
+                  "type": "url",
+                  "url": "https://www.fosslinux.com/41109/top-10-reasons-to-use-kde-as-your-desktop-environment.htm"
+               }, {
+                  "date_added": "13261835893989770",
+                  "guid": "96b864b0-894a-44ec-aa83-302e5df53711",
+                  "id": "359",
+                  "name": "Beginners Guide To Install Windows 10 With Ubuntu in Dual Boot",
+                  "type": "url",
+                  "url": "https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/"
+               }, {
+                  "date_added": "13261835893990045",
+                  "guid": "67e5acc9-ed8b-48c0-8f62-a929e2b768c7",
+                  "id": "360",
+                  "name": "How To Dual Boot Linux Mint And Windows 10 [Beginner's Guide]",
+                  "type": "url",
+                  "url": "https://itsfoss.com/guide-install-linux-mint-16-dual-boot-windows/"
+               }, {
+                  "date_added": "13261835893990272",
+                  "guid": "82f73fa1-baa6-45e1-b06e-8ed2a37224ef",
+                  "id": "361",
+                  "name": "21 Must-Have Apps for Ubuntu (2020 Edition) - OMG! Ubuntu!",
+                  "type": "url",
+                  "url": "https://www.omgubuntu.co.uk/2016/12/21-must-have-apps-ubuntu"
+               }, {
+                  "date_added": "13261835893990502",
+                  "guid": "7d67eb05-0601-4886-885b-6083adbfa16a",
+                  "id": "362",
+                  "name": "Best Linux apps of 2021: free and open source software | TechRadar",
+                  "type": "url",
+                  "url": "https://www.techradar.com/in/best/best-linux-apps"
+               }, {
+                  "date_added": "13261835893990727",
+                  "guid": "a5ba0780-6e7d-405b-9d2e-99e191b94d21",
+                  "id": "363",
+                  "name": "80 Most Used Essential Linux Applications of 2020",
+                  "type": "url",
+                  "url": "https://www.fossmint.com/most-used-linux-applications/"
+               }, {
+                  "date_added": "13261835893990950",
+                  "guid": "dd8719a8-d838-4798-b9c9-16f5c4d8a65e",
+                  "id": "364",
+                  "name": "The 20 Best Linux Apps Ever",
+                  "type": "url",
+                  "url": "https://helpdeskgeek.com/linux-tips/the-20-best-linux-apps-ever/"
+               }, {
+                  "date_added": "13261835893991170",
+                  "guid": "71aeaacb-0a77-4a08-baba-b2e7cfa5d1c2",
+                  "id": "365",
+                  "name": "Best Linux Software: 35 Essential Linux Apps [2020]",
+                  "type": "url",
+                  "url": "https://itsfoss.com/essential-linux-applications/"
+               }, {
+                  "date_added": "13261835893991386",
+                  "guid": "69765418-6206-4474-90c7-74d5f5566709",
+                  "id": "366",
+                  "name": "linux for beginners - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/results?search_query=linux+for+beginners"
+               }, {
+                  "date_added": "13261835893991599",
+                  "guid": "f089018f-6d0f-4946-b0b7-1ffc42a46637",
+                  "id": "367",
+                  "name": "Build Your Own First-Person Shooter in Unity — Wireframe Magazine",
+                  "type": "url",
+                  "url": "https://wireframe.raspberrypi.org/books/unity-fps"
+               }, {
+                  "date_added": "13261835893991823",
+                  "guid": "e1260a37-e8a5-4db9-a158-e0d808723da8",
+                  "id": "368",
+                  "name": "Bash Scripting Full Course 3 Hours - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=e7BufAVwDiM&t=0s"
+               }, {
+                  "date_added": "13261835893992312",
+                  "guid": "13933b1d-4cf7-4c12-be85-5665be677205",
+                  "id": "369",
+                  "name": "Bash Scripting: Everything you need to know about Bash-shell programming | by Uday Hiwarale | System Failure | Medium",
+                  "type": "url",
+                  "url": "https://medium.com/sysf/bash-scripting-everything-you-need-to-know-about-bash-shell-programming-cd08595f2fba"
+               }, {
+                  "date_added": "13261836488013834",
+                  "guid": "dab2d7d1-c539-4673-a350-5fbe14f8cd27",
+                  "id": "371",
+                  "name": "11 Reasons Why Linux Is Better Than Windows - It's FOSS",
+                  "type": "url",
+                  "url": "https://itsfoss.com/linux-better-than-windows/"
+               }, {
+                  "date_added": "13261836488014174",
+                  "guid": "1dcdc62b-6f11-4b67-8ba9-4d74594497b0",
+                  "id": "372",
+                  "name": "Here Is Why Linux Is a Good Choice of OS for Software Developers",
+                  "type": "url",
+                  "url": "https://interestingengineering.com/here-is-why-linux-is-a-good-choice-of-os-for-software-developers#:~:text=Linux%20tends%20to%20contain%20the,power%2C%20security%2C%20and%20speed."
+               }, {
+                  "date_added": "13261836488014502",
+                  "guid": "bfe177b6-e0c1-4018-97db-332e01a7f1e2",
+                  "id": "373",
+                  "name": "Why do some programmers prefer Linux OS instead of Windows or macOS? - Quora",
+                  "type": "url",
+                  "url": "https://www.quora.com/Why-do-some-programmers-prefer-Linux-OS-instead-of-Windows-or-macOS"
+               }, {
+                  "date_added": "13261836488014635",
+                  "guid": "96a69ca6-7901-493b-96cc-ad8ec2daeb73",
+                  "id": "374",
+                  "name": "Linux Vs Windows - Why Linux Is Better For Programming & Web Dev (A newbie experience) - DEV Community",
+                  "type": "url",
+                  "url": "https://dev.to/ajeet/linux-vs-windows-why-linux-is-better-for-programming-web-dev-a-newbie-experience-5eg1"
+               }, {
+                  "date_added": "13261836488014765",
+                  "guid": "9502fc10-3424-46af-87cb-dc3b25c91c4d",
+                  "id": "375",
+                  "name": "Is Linux better for programming? : learnprogramming",
+                  "type": "url",
+                  "url": "https://www.reddit.com/r/learnprogramming/comments/1ugvgh/is_linux_better_for_programming/"
+               }, {
+                  "date_added": "13261836488015098",
+                  "guid": "905e9a0a-7061-4d73-b835-cbba83c50e11",
+                  "id": "378",
+                  "name": "7 Superb Reasons Why You Should Use Linux For Programming",
+                  "type": "url",
+                  "url": "https://www.makeuseof.com/tag/6-superb-reasons-use-linux-programming/"
+               }, {
+                  "date_added": "13261836488015215",
+                  "guid": "42cd256b-641d-4a1a-8f35-7bed742e2c14",
+                  "id": "379",
+                  "name": "Why Linux is better for Programming | by Nokha Debbarma | Medium",
+                  "type": "url",
+                  "url": "https://medium.com/@nokha_debbarma/why-linux-is-better-for-programming-e6819a95f46"
+               }, {
+                  "date_added": "13261836488015326",
+                  "guid": "5806843f-3303-4b53-87db-3a121e092d3c",
+                  "id": "380",
+                  "name": "6 Reasons Why People Love to Use Arch Linux",
+                  "type": "url",
+                  "url": "https://itsfoss.com/why-arch-linux/"
+               }, {
+                  "date_added": "13261836488015425",
+                  "guid": "309ae466-0f00-474c-8f69-66c7b4b63166",
+                  "id": "381",
+                  "name": "Why is Arch Linux So Challenging and What are Its Pros & Cons?",
+                  "type": "url",
+                  "url": "https://www.fossmint.com/why-is-arch-linux-so-challenging-what-are-pros-cons/"
+               }, {
+                  "date_added": "13261836488015539",
+                  "guid": "85dcc31b-da1f-4d09-b799-335b769d4959",
+                  "id": "382",
+                  "name": "Switching to Arch Linux - DEV Community",
+                  "type": "url",
+                  "url": "https://dev.to/mauro_codes/switching-to-arch-linux-1hm"
+               }, {
+                  "date_added": "13261848367969810",
+                  "guid": "ea479b33-9c70-4ad8-82de-0300b3d2561b",
+                  "id": "384",
+                  "name": "index - unixporn",
+                  "type": "url",
+                  "url": "https://www.reddit.com/r/unixporn/wiki/index"
+               }, {
+                  "date_added": "13261848424032354",
+                  "guid": "eb42103e-d141-457f-b1e3-0faf72c9a6cd",
+                  "id": "385",
+                  "name": "5 Ways to Make Your Linux Desktop Look Fantastic",
+                  "type": "url",
+                  "url": "https://www.makeuseof.com/tag/linux-desktop-look-fantastic/"
+               }, {
+                  "date_added": "13261848427029681",
+                  "guid": "03e82924-8263-4e93-9a73-4e8e9e2fd92a",
+                  "id": "386",
+                  "name": "5 Gorgeous Examples Of Truly Customized Linux Desktops",
+                  "type": "url",
+                  "url": "https://www.forbes.com/sites/jasonevangelho/2019/02/14/5-gorgeous-examples-of-truly-customized-linux-desktops/?sh=680cdfb9572e"
+               }, {
+                  "date_added": "13261848429314095",
+                  "guid": "3486d370-36b1-4917-ad68-2bd8f2246601",
+                  "id": "387",
+                  "name": "How to customize linux? (as a noob) : linuxmasterrace",
+                  "type": "url",
+                  "url": "https://www.reddit.com/r/linuxmasterrace/comments/411keg/how_to_customize_linux_as_a_noob/"
+               }, {
+                  "date_added": "13262167668920999",
+                  "guid": "39b38fc4-64b0-48fb-a4bc-f3304b260166",
+                  "id": "411",
+                  "name": "Top 11 best Image Viewer for Ubuntu and other Linux",
+                  "type": "url",
+                  "url": "https://itsfoss.com/image-viewers-linux/"
+               }, {
+                  "date_added": "13262167676426887",
+                  "guid": "6bd1bc7a-6b6a-4d4b-a12f-7942920b9e6b",
+                  "id": "412",
+                  "name": "4 lightweight image viewers for the Linux desktop | Opensource.com",
+                  "type": "url",
+                  "url": "https://opensource.com/article/17/7/4-lightweight-image-viewers-linux-desktop"
+               }, {
+                  "date_added": "13263284486211634",
+                  "guid": "ab07d181-501e-4f4a-b773-aeb286b10816",
+                  "id": "436",
+                  "name": "Linux for Programmers - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/playlist?list=PLzMcBGfZo4-nUIIMsz040W_X-03QH5c5h"
+               }, {
+                  "date_added": "13263284533797947",
+                  "guid": "875cd9f2-e8d2-485b-be3e-c2ddc41d5230",
+                  "id": "437",
+                  "name": "Beginner's Guide to the Bash Terminal - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=oxuRxtrO2Ag&t=52s"
+               }, {
+                  "date_added": "13263284559082573",
+                  "guid": "aa88a8a0-7faf-44a2-86a5-0a8a541a0a18",
+                  "id": "438",
+                  "name": "Some bashrc recommendations and what I use - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=_UrDsbs0-OE&t=1s"
+               }, {
+                  "date_added": "13263284574192969",
+                  "guid": "9a87555c-2baa-4fe5-adec-da564688be1c",
+                  "id": "439",
+                  "name": "(35) Linux Tip | How to Customize Your BASH Environment - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=y_vAFd7Uk5U"
+               }, {
+                  "date_added": "13268224196892462",
+                  "guid": "57d54c55-948b-4cd8-bfd4-79f2e881ca77",
+                  "id": "703",
+                  "name": "albertlauncher/albert: A fast and flexible keyboard launcher",
+                  "type": "url",
+                  "url": "https://github.com/albertlauncher/albert"
+               }, {
+                  "date_added": "13268224205879909",
+                  "guid": "aad0ea0d-1526-4d27-88c6-03c15fff43c6",
+                  "id": "704",
+                  "name": "balsoft/lambda-launcher: Application launcher in haskell. Mostly Just For Fun.",
+                  "type": "url",
+                  "url": "https://github.com/balsoft/lambda-launcher"
+               }, {
+                  "date_added": "13268224208582261",
+                  "guid": "702a8686-7482-4575-841b-f3f0efa4711e",
+                  "id": "705",
+                  "name": "How to Back Up Your Linux System",
+                  "type": "url",
+                  "url": "https://www.howtogeek.com/427480/how-to-back-up-your-linux-system/"
+               }, {
+                  "date_added": "13268224210946662",
+                  "guid": "dc18457e-5477-4981-94dd-342136511e22",
+                  "id": "706",
+                  "name": "How to backup/sync all of your dotfiles​ with Github - DEV Community",
+                  "type": "url",
+                  "url": "https://dev.to/jeffshomali/how-to-backup-sync-all-of-your-dotfiles-with-github-e1c"
+               }, {
+                  "date_added": "13268224492468860",
+                  "guid": "219cb4ac-7d9a-463c-9f8d-8a609c9df462",
+                  "id": "708",
+                  "name": "Customize your Linux desktop with KDE Plasma | Opensource.com",
+                  "type": "url",
+                  "url": "https://opensource.com/article/19/12/linux-kde-plasma"
+               }, {
+                  "date_added": "13268224494219556",
+                  "guid": "2bd661d3-af2e-4234-bf53-3be563288c5b",
+                  "id": "709",
+                  "name": "KDE's Applications",
+                  "type": "url",
+                  "url": "https://apps.kde.org/"
+               }, {
+                  "date_added": "13268224497109805",
+                  "guid": "affd9798-de55-4631-aa2e-7427b0e9492b",
+                  "id": "710",
+                  "name": "KDE Store",
+                  "type": "url",
+                  "url": "https://store.kde.org/browse/cat/"
+               }, {
+                  "date_added": "13268224500104174",
+                  "guid": "e1c6d3ff-a5ce-4077-aed4-dab1ce042cbb",
+                  "id": "711",
+                  "name": "Plasma Mobile",
+                  "type": "url",
+                  "url": "https://www.plasma-mobile.org/"
+               }, {
+                  "date_added": "13268224501640307",
+                  "guid": "37e748d5-86cd-4451-ac77-635b04ef7da1",
+                  "id": "712",
+                  "name": "Elisa",
+                  "type": "url",
+                  "url": "https://elisa.kde.org/"
+               }, {
+                  "date_added": "13268582200943775",
+                  "guid": "4f0590f1-bde1-4d74-89ad-3fd23d89391f",
+                  "id": "719",
+                  "name": "kitty - the fast, featureful, GPU based terminal emulator — kitty 0.21.1 documentation",
+                  "type": "url",
+                  "url": "https://sw.kovidgoyal.net/kitty/"
+               }, {
+                  "date_added": "13268582514876811",
+                  "guid": "a303561f-e1a2-4977-8234-961e29840c13",
+                  "id": "720",
+                  "name": "akshat46/dotfiles",
+                  "type": "url",
+                  "url": "https://github.com/akshat46/dotfiles/"
+               }, {
+                  "date_added": "13269722721941629",
+                  "guid": "3db9aca1-9be7-4756-961b-162a369c359d",
+                  "id": "723",
+                  "name": "(23) Linux - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/playlist?list=PLz8l62B_3hySsP_ZvLUS7WLyqF4-vTm8m"
+               }, {
+                  "date_added": "13270613595084116",
+                  "guid": "596138ec-1159-443f-9d7e-3cec54f5b095",
+                  "id": "729",
+                  "name": "ful1e5/Bibata_Cursor: Material Based Cursors 🚀",
+                  "type": "url",
+                  "url": "https://github.com/ful1e5/Bibata_Cursor"
+               }, {
+                  "date_added": "13273077609399420",
+                  "guid": "2e8fa360-ca4d-403e-af37-bacef195d511",
+                  "id": "799",
+                  "name": "Guide to a better looking Linux lockscreen : linux",
+                  "type": "url",
+                  "url": "https://www.reddit.com/r/linux/comments/7nf3ro/guide_to_a_better_looking_linux_lockscreen/"
+               }, {
+                  "date_added": "13273077609399602",
+                  "guid": "3bd759ba-fe9b-4d68-a92a-e4985c878172",
+                  "id": "800",
+                  "name": "The Best Linux Lockscreen",
+                  "type": "url",
+                  "url": "https://www.devpy.me/the-best-linux-lockscreen/"
+               } ],
+               "date_added": "13261835893988182",
+               "date_modified": "13273430512839894",
+               "guid": "f9355904-beea-4532-9925-65f81afbc515",
+               "id": "353",
+               "name": "Linux",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13273077091280241",
+                  "guid": "82521e4b-a20e-4b12-8803-0950fafcf518",
+                  "id": "735",
+                  "name": "Quick Start — PRAW 7.4.0 documentation",
+                  "type": "url",
+                  "url": "https://praw.readthedocs.io/en/stable/getting_started/quick_start.html"
+               }, {
+                  "date_added": "13273077096642337",
+                  "guid": "7d434200-c667-4c16-9fd8-3bb7dce405ea",
+                  "id": "736",
+                  "name": "praw.ini Files — PRAW 7.4.0 documentation",
+                  "type": "url",
+                  "url": "https://praw.readthedocs.io/en/stable/getting_started/configuration/prawini.html#praw-ini"
+               }, {
+                  "date_added": "13273077105152946",
+                  "guid": "3e65c214-5890-4628-8f3c-90f8e039ee0d",
+                  "id": "737",
+                  "name": "Submission Stream Reply Bot — PRAW 7.4.1.dev0 documentation",
+                  "type": "url",
+                  "url": "https://praw.readthedocs.io/en/latest/tutorials/reply_bot.html"
+               }, {
+                  "date_added": "13273077107664568",
+                  "guid": "3245543c-e35f-4c4c-9bb1-be4468a9a85e",
+                  "id": "738",
+                  "name": "preferences (reddit.com)",
+                  "type": "url",
+                  "url": "https://ssl.reddit.com/prefs/apps"
+               }, {
+                  "date_added": "13273077109552255",
+                  "guid": "b839ec18-ece4-48ac-8a5e-3c587f1d473c",
+                  "id": "739",
+                  "name": "Reddit Reply Bot : 10 Steps - Instructables",
+                  "type": "url",
+                  "url": "https://www.instructables.com/Reddit-Reply-Bot/"
+               } ],
+               "date_added": "13273077087726331",
+               "date_modified": "13273077109552255",
+               "guid": "4dc676a2-a921-4f18-a1a3-ecd7e061f6f8",
+               "id": "734",
+               "name": "Reddit Bot",
+               "type": "folder"
+            } ],
+            "date_added": "13256325100935673",
+            "date_modified": "13273077091280241",
+            "guid": "f4834690-f207-4bb5-a20c-0205aec38286",
+            "id": "127",
+            "name": "",
+            "type": "folder"
+         }, {
+            "date_added": "13264618998720699",
+            "guid": "745948cc-6f0a-4ae6-af47-43d3a26e37a5",
+            "id": "545",
+            "name": "pausing/ Unpausing in Pygame - Stack Overflow",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/47761364/pausing-unpausing-in-pygame"
+         }, {
+            "date_added": "13265718305355161",
+            "guid": "1258a2e6-2a72-4144-9d86-cdd4515d000b",
+            "id": "629",
+            "name": "Building Beautiful Command Line Interfaces with Python | by Oyetoke Tobi Emmanuel | codeburst",
+            "type": "url",
+            "url": "https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df?gi=c98726ebcc10"
+         }, {
+            "date_added": "13268225368327052",
+            "guid": "66a7db8a-af91-4bb5-a723-62885b461a24",
+            "id": "713",
+            "name": "7 JavaScript Projects For Beginners - DEV Community",
+            "type": "url",
+            "url": "https://dev.to/fahimkabir/7-javascript-projects-for-beginners-d3m"
+         }, {
+            "children": [ {
+               "date_added": "13267435801172894",
+               "guid": "fbbc05b1-74fb-472a-9ce1-517d3dfbc4b8",
+               "id": "665",
+               "name": "blavejr/OrganiseDesktop: Python script that cleans up a messy desktop",
+               "type": "url",
+               "url": "https://github.com/blavejr/OrganiseDesktop"
+            }, {
+               "date_added": "13267435805826077",
+               "guid": "7eb04e8c-d7d7-4829-a2d3-fc9a55686833",
+               "id": "666",
+               "name": "[Feature Request] Open Web Search Terms in Private Window · Issue #310 · oliverschwendener/ueli",
+               "type": "url",
+               "url": "https://github.com/oliverschwendener/ueli/issues/310"
+            }, {
+               "date_added": "13267435808131414",
+               "guid": "8bf39aa4-98b8-42f8-afae-749502fc209b",
+               "id": "667",
+               "name": "willmcgugan/rich: Rich is a Python library for rich text and beautiful formatting in the terminal.",
+               "type": "url",
+               "url": "https://github.com/willmcgugan/rich"
+            }, {
+               "date_added": "13267435811252986",
+               "guid": "4e2f33ed-f681-47b6-a723-f86c74e3e340",
+               "id": "668",
+               "name": "Flask - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/playlist?list=PLz8l62B_3hyRvg0ylYP6ySM2APJ9zI_1X"
+            }, {
+               "date_added": "13267435814223763",
+               "guid": "222a478b-7d51-49ec-a173-6df44c93986c",
+               "id": "669",
+               "name": "Git Tutorial for Beginners: Command-Line Fundamentals - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=HVsySz-h9r4"
+            }, {
+               "date_added": "13267435817453432",
+               "guid": "2d81e74f-e543-4e25-a229-9547ad82bb62",
+               "id": "670",
+               "name": "Git Tutorial",
+               "type": "url",
+               "url": "https://www.w3schools.com/git/default.asp"
+            }, {
+               "date_added": "13267435820006177",
+               "guid": "761e5b9a-5bb0-440b-99d2-1965d1ab3c55",
+               "id": "671",
+               "name": "JavaScript for Beginners #13 - For Of /For Each Loops - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=uEKDSLwf2Gw"
+            }, {
+               "date_added": "13267435824609592",
+               "guid": "5d11af98-b3fa-4a11-b478-e9a4a709e77c",
+               "id": "672",
+               "name": "Python Selenium Tutorial #2 - Locating Elements From HTML - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=b5jt2bhSeXs"
+            }, {
+               "date_added": "13267435943270549",
+               "guid": "c4cd103f-8242-4fc4-945c-28bf1233776b",
+               "id": "674",
+               "name": "How to start contributing to open-source projects | by Dimitris Poulopoulos | Towards Data Science",
+               "type": "url",
+               "url": "https://towardsdatascience.com/how-to-start-contributing-to-open-source-projects-10d0517b13d8"
+            }, {
+               "date_added": "13267435950510252",
+               "guid": "14c2974e-dcf8-4dc2-866f-748235bbb5e4",
+               "id": "675",
+               "name": "How to Build Command Line Interfaces in Python With argparse – Real Python",
+               "type": "url",
+               "url": "https://realpython.com/command-line-interfaces-python-argparse/"
+            }, {
+               "date_added": "13267435954972292",
+               "guid": "50281ba5-eaef-475b-bf84-8f44e626c10d",
+               "id": "676",
+               "name": "francoischalifour/todo-cli: ✅ Command-line tool to manage Todo lists",
+               "type": "url",
+               "url": "https://github.com/francoischalifour/todo-cli/"
+            }, {
+               "date_added": "13267435958536494",
+               "guid": "411d46b0-ce87-456c-8744-2135bcdf4d93",
+               "id": "677",
+               "name": "Step-by-step guide to contributing on GitHub",
+               "type": "url",
+               "url": "https://www.dataschool.io/how-to-contribute-on-github/"
+            }, {
+               "date_added": "13267435961945641",
+               "guid": "ad308c3b-5de8-4b2c-9141-8ebbbca4c306",
+               "id": "678",
+               "name": "Welcome to Click — Click Documentation (8.1.x)",
+               "type": "url",
+               "url": "https://click.palletsprojects.com/en/latest/"
+            }, {
+               "date_added": "13267435965224527",
+               "guid": "5d16f539-1b9e-4391-934e-5fa2023f53cd",
+               "id": "679",
+               "name": "blessed/CONTRIBUTING.rst at master · jquast/blessed",
+               "type": "url",
+               "url": "https://github.com/jquast/blessed/blob/master/CONTRIBUTING.rst"
+            }, {
+               "date_added": "13267435968585169",
+               "guid": "7d36ca73-7fb8-4d87-9c1a-c4da8cf87d43",
+               "id": "681",
+               "name": "Building Beautiful Command Line Interfaces with Python | by Oyetoke Tobi Emmanuel | codeburst",
+               "type": "url",
+               "url": "https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df"
+            }, {
+               "date_added": "13267435971092394",
+               "guid": "b17d76b3-a69c-4abf-a9c4-eedcfeb350b4",
+               "id": "682",
+               "name": "git-tips/tips: Most commonly used git tips and tricks.",
+               "type": "url",
+               "url": "https://github.com/git-tips/tips"
+            }, {
+               "date_added": "13267437065327033",
+               "guid": "aae02887-33b8-4053-ad3a-99a7049263f8",
+               "id": "687",
+               "name": "Hackerrank 30 Days of Code",
+               "type": "url",
+               "url": "https://www.hackerrank.com/domains/tutorials/30-days-of-code"
+            }, {
+               "date_added": "13267437087089316",
+               "guid": "c2387b3a-2dee-4b53-91b3-c77225dd1d1a",
+               "id": "688",
+               "name": "Hackerrank 10 Days of JS",
+               "type": "url",
+               "url": "https://www.hackerrank.com/challenges/js10-data-types/problem?h_r=next-challenge&h_v=zen"
+            }, {
+               "children": [ {
+                  "date_added": "13267436804531975",
+                  "guid": "2fc9f841-ffa8-49e6-ad50-9ca153532623",
+                  "id": "683",
+                  "name": "su2187/Python-MorseCodeTranslator: A Morse Code Translator made in Python.",
+                  "type": "url",
+                  "url": "https://github.com/su2187/Python-MorseCodeTranslator"
+               }, {
+                  "date_added": "13267436916127571",
+                  "guid": "c5c05c73-d6a6-4bdb-8b76-0c9dc7744dd1",
+                  "id": "686",
+                  "name": "(2) Intermediate Python Programming Course - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=HGOBQPFzWKo"
+               }, {
+                  "date_added": "13267436911450233",
+                  "guid": "15448d68-18a5-423d-b505-89e0b70d31e3",
+                  "id": "685",
+                  "name": "(2) Intermediate Python Tutorial #1 - Optional Parameters - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=0VdzZQdaZ28&list=PLzMcBGfZo4-nhWva-6OVh1yKWHBs4o_tv"
+               }, {
+                  "date_added": "13267437101735215",
+                  "guid": "992a8e3b-e7d4-4cb7-a42c-395878f8afb8",
+                  "id": "689",
+                  "name": "Automate the Boring Stuff with Python Programming | Udemy",
+                  "type": "url",
+                  "url": "https://www.udemy.com/course/automate/learn/lecture/3662882#overview"
+               }, {
+                  "date_added": "13267437105482644",
+                  "guid": "28be69a6-83b5-42a1-b1b3-831d9e12cd5a",
+                  "id": "690",
+                  "name": "Introduction to JavaScript, programming language of the Web | Udemy",
+                  "type": "url",
+                  "url": "https://www.udemy.com/course/learn-javascript-from-zero/learn/lecture/21391398#questions"
+               }, {
+                  "date_added": "13267437107445155",
+                  "guid": "8586fe8f-75fb-41d7-aded-5e2b62602361",
+                  "id": "691",
+                  "name": "JavaScript Ultimate Course | Udemy",
+                  "type": "url",
+                  "url": "https://www.udemy.com/course/the-learn-javascript-course/learn/lecture/25333988#overview"
+               } ],
+               "date_added": "13267436821439670",
+               "date_modified": "13267437107445155",
+               "guid": "f3140847-0f7a-4d10-8d15-e1c2da9f3dba",
+               "id": "684",
+               "name": "More Tabs",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13259684973671726",
+                  "guid": "e0e1ca29-c711-49e4-9845-bdac060ac933",
+                  "id": "235",
+                  "name": "AHK Docs",
+                  "type": "url",
+                  "url": "https://www.autohotkey.com/docs/Tutorial.htm"
+               }, {
+                  "date_added": "13267437314133313",
+                  "guid": "24e81ef0-9adb-42df-a454-46bd3584c149",
+                  "id": "693",
+                  "name": "(2) The Many Uses of AutoHotKey - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=n_9-QkD-zJ4"
+               }, {
+                  "date_added": "13267437317066087",
+                  "guid": "6c91a173-9fce-4065-9ffb-b89fce8930ba",
+                  "id": "694",
+                  "name": "Learn AutoHotkey - #1 Full Course for Beginners [2021 best Tutorial] - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=hZRggm8RkhM"
+               }, {
+                  "date_added": "13267437320102259",
+                  "guid": "049b6fab-d989-41d7-8215-1232a9d9c110",
+                  "id": "695",
+                  "name": "Why you should learn AutoHotkey! Some most common uses of AutoHotkey - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=HXrqHr0ldI0"
+               }, {
+                  "date_added": "13267437323462363",
+                  "guid": "b3b3f4fd-62a7-449d-ba3a-9c14ce933933",
+                  "id": "696",
+                  "name": "AutoHotkey - Beginners tutorial (All the basic functions) - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=lxLNtBYjkjU"
+               }, {
+                  "date_added": "13267437326421309",
+                  "guid": "c0a90b9d-1aea-408c-bcd7-d5f60858c153",
+                  "id": "697",
+                  "name": "How to Automate ANYTHING on your computer using AutoHotKey - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=lQgx8dIflhI"
+               }, {
+                  "date_added": "13267437329599529",
+                  "guid": "85312361-d23a-4789-86e2-271f7fc9c869",
+                  "id": "698",
+                  "name": "The Beginner's Guide to AutoHotkey - AutoHotkey Basics Tutorial - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=AvzhaoDxd8Q"
+               }, {
+                  "date_added": "13267437332037550",
+                  "guid": "d747485a-1dad-4ce6-9bec-d01db14268e9",
+                  "id": "699",
+                  "name": "Simple example automating Chrome with AutoHotkey - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=btn1pSRE8es"
+               } ],
+               "date_added": "13267437125107620",
+               "date_modified": "13267447911157620",
+               "guid": "b7df1aac-0ab5-4505-82a5-a62cc793a7ee",
+               "id": "692",
+               "name": "AHK",
+               "type": "folder"
+            }, {
+               "date_added": "13267447911157620",
+               "guid": "6d1f3811-5d48-4aa3-a752-2717a165b9cb",
+               "id": "701",
+               "name": "Documentation for Visual Studio Code",
+               "type": "url",
+               "url": "https://code.visualstudio.com/docs"
+            } ],
+            "date_added": "13267435780521045",
+            "date_modified": "13268224196892462",
+            "guid": "8af92c5f-3c34-4e19-8b4b-6a215378ac63",
+            "id": "664",
+            "name": "Tabs",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13273077609387219",
+               "guid": "5b58abdc-d5bb-4b48-8ce9-82580c2c5806",
+               "id": "741",
+               "name": "Configuring the cursor | Vim Tips Wiki | Fandom",
+               "type": "url",
+               "url": "https://vim.fandom.com/wiki/Configuring_the_cursor#:~:text=Vim%20allows%20the%20cursor%20shape,and%20using%20a%20bland%20color."
+            }, {
+               "date_added": "13273077609387554",
+               "guid": "7e7ad9ee-58ee-4f26-bc89-020253aee24d",
+               "id": "742",
+               "name": "GitHub - auchenberg/vscode-browser-preview: A real browser preview inside your editor that you can debug.",
+               "type": "url",
+               "url": "https://github.com/auchenberg/vscode-browser-preview"
+            }, {
+               "date_added": "13273077609387828",
+               "guid": "be0bcdbe-e36d-4232-99da-5146909d85aa",
+               "id": "743",
+               "name": "Windows 10, can't edit hosts file - Super User",
+               "type": "url",
+               "url": "https://superuser.com/questions/958991/windows-10-cant-edit-hosts-file"
+            }, {
+               "date_added": "13273077609388064",
+               "guid": "3f21b45a-c653-4fce-91c7-532f150a09b5",
+               "id": "744",
+               "name": "How do you avoid key binding collisions between VS Code and vscodevim? - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/62405783/how-do-you-avoid-key-binding-collisions-between-vs-code-and-vscodevim"
+            }, {
+               "date_added": "13273077609388304",
+               "guid": "403ad4d3-2ac8-4828-9a4e-b86220677bc7",
+               "id": "745",
+               "name": "vscode nerdtree - Google Search",
+               "type": "url",
+               "url": "https://www.google.com/search?q=vscode+nerdtree"
+            }, {
+               "date_added": "13273077609388497",
+               "guid": "a691129e-66f0-43d1-84a4-48372f8204b4",
+               "id": "746",
+               "name": "Windows: Allow Alt-key bindings to override menus. · Issue #474 · electron/electron · GitHub",
+               "type": "url",
+               "url": "https://github.com/electron/electron/issues/474"
+            }, {
+               "date_added": "13273077609388709",
+               "guid": "091ffa75-2e51-48e4-905e-0ef904c36941",
+               "id": "747",
+               "name": "redo - How can I keep undo history after saving on Visual Studio Code - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/42020489/how-can-i-keep-undo-history-after-saving-on-visual-studio-code"
+            }, {
+               "date_added": "13273077609388935",
+               "guid": "69b4cc4d-9772-4dcd-b6be-6f32b65c2689",
+               "id": "748",
+               "name": "[Question] Is it possible to open a file in new tab from keyboard while in file explorer? · Issue #4976 · VSCodeVim/Vim · GitHub",
+               "type": "url",
+               "url": "https://github.com/VSCodeVim/Vim/issues/4976"
+            }, {
+               "date_added": "13273077609389152",
+               "guid": "b520acd7-b76c-41dc-b370-3b55d300894b",
+               "id": "749",
+               "name": "google chrome - VS Code Inspect Elements - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/60859020/vs-code-inspect-elements"
+            }, {
+               "date_added": "13273077609389343",
+               "guid": "b0a959ea-caac-4076-8993-e44ea972792a",
+               "id": "750",
+               "name": "Color Theme | Visual Studio Code Extension API",
+               "type": "url",
+               "url": "https://code.visualstudio.com/api/extension-guides/color-theme"
+            }, {
+               "date_added": "13273077609389539",
+               "guid": "2ede6584-fe82-44c3-ba60-d14ee2c39f5b",
+               "id": "751",
+               "name": "https://raw.githubusercontent.com/arcticicestudio/nord-visual-studio-code/develop/themes/nord-color-theme.json",
+               "type": "url",
+               "url": "https://raw.githubusercontent.com/arcticicestudio/nord-visual-studio-code/develop/themes/nord-color-theme.json"
+            }, {
+               "date_added": "13273077609389760",
+               "guid": "62396be0-45df-4cf9-82d8-b304604774a9",
+               "id": "752",
+               "name": "Home · cmus/cmus Wiki",
+               "type": "url",
+               "url": "https://github.com/cmus/cmus/wiki"
+            }, {
+               "date_added": "13273077609389929",
+               "guid": "e1620798-e5ba-4232-8dc6-016b12e8a5c0",
+               "id": "753",
+               "name": "cmus-tutorial(7): C* Music Player tutorial - Linux man page",
+               "type": "url",
+               "url": "https://linux.die.net/man/7/cmus-tutorial"
+            }, {
+               "date_added": "13273077609390123",
+               "guid": "3851c812-304b-42db-8513-634dfdd4a073",
+               "id": "754",
+               "name": "shared memfd open() failed: Function not implemented - Google Search",
+               "type": "url",
+               "url": "https://www.google.com/search?q=shared+memfd+open()+failed%3A+Function+not+implemented"
+            }, {
+               "date_added": "13273077609390338",
+               "guid": "d713b47f-064e-41df-88a1-38a0d16dd40d",
+               "id": "755",
+               "name": "Cmus via pulseaudio on WSL : bashonubuntuonwindows",
+               "type": "url",
+               "url": "https://www.reddit.com/r/bashonubuntuonwindows/comments/9nr2ki/cmus_via_pulseaudio_on_wsl/"
+            }, {
+               "date_added": "13273077609390539",
+               "guid": "9df98f49-f4f7-4d64-9d8e-eaf2cd514a6b",
+               "id": "756",
+               "name": "Enable Sound in the Linux Subsystem in Windows 10 | Patrick Wu's Blog",
+               "type": "url",
+               "url": "https://patrickwu.space/2017/05/10/wsl-enable-sound/"
+            }, {
+               "date_added": "13273077609390744",
+               "guid": "e62f2a96-d632-4896-9f8f-739199699e62",
+               "id": "757",
+               "name": "How To Stop \"This Website Uses Cookies\" Notice Pop Up In Your Browser | Gizmo's Freeware",
+               "type": "url",
+               "url": "https://www.techsupportalert.com/content/how-stop-website-uses-cookies-notice-your-browser.htm"
+            }, {
+               "date_added": "13273077609390951",
+               "guid": "aacf3a0e-2e58-4e6b-ab4f-ad1b20fef5d2",
+               "id": "758",
+               "name": "How to Avoid Those Infuriating Cookie Pop-Ups | WIRED",
+               "type": "url",
+               "url": "https://www.wired.com/story/avoid-cookie-popups-gdpr/"
+            }, {
+               "date_added": "13273077609391156",
+               "guid": "81e52323-d213-4dfc-9624-bc1bbb5b612f",
+               "id": "759",
+               "name": "Don't care about cookies? Turn annoying banners, pop ups and adverts off for good",
+               "type": "url",
+               "url": "https://www.transcendit.co.uk/blog/posts/don-t-care-about-cookies-turn-annoying-banners-pop-ups-and-adverts-off-for-good#:~:text=This%20is%20a%20great%20little,switch%20that%20to%20'Block'."
+            }, {
+               "date_added": "13273077609391440",
+               "guid": "451e4a6a-d9c4-4f63-8737-9f00c6bffe44",
+               "id": "760",
+               "name": "GitHub - hmml/awesome-zsh: ZSH is awesome, here's why...",
+               "type": "url",
+               "url": "https://github.com/hmml/awesome-zsh"
+            }, {
+               "date_added": "13273077609391642",
+               "guid": "925d3092-be66-4305-832d-de490a045df1",
+               "id": "761",
+               "name": "ohmyzsh/plugins/vi-mode at master · ohmyzsh/ohmyzsh · GitHub",
+               "type": "url",
+               "url": "https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/vi-mode"
+            }, {
+               "date_added": "13273077609391845",
+               "guid": "767286ce-7c48-4ee9-a77a-cfd07185609b",
+               "id": "762",
+               "name": "Zsh - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/title/zsh"
+            }, {
+               "date_added": "13273077609392025",
+               "guid": "91c53ec1-1e94-448e-b95e-bb03514bece0",
+               "id": "763",
+               "name": "A User's Guide to ZSH",
+               "type": "url",
+               "url": "https://zsh.sourceforge.io/Guide/"
+            }, {
+               "date_added": "13273077609392214",
+               "guid": "d9d706a1-204d-4cd3-839a-cf1fe11d0598",
+               "id": "764",
+               "name": "An Introduction to the Z Shell - Table of Contents",
+               "type": "url",
+               "url": "https://zsh.sourceforge.io/Intro/intro_toc.html"
+            }, {
+               "date_added": "13273077609392416",
+               "guid": "0cfec5cd-e7be-4f58-965c-339c0d9eee64",
+               "id": "765",
+               "name": "GitHub - cavi-au/Consent-O-Matic",
+               "type": "url",
+               "url": "https://github.com/cavi-au/Consent-O-Matic"
+            }, {
+               "date_added": "13273077609392620",
+               "guid": "b72437ad-75c3-422d-8fc8-8fa8b16d6bca",
+               "id": "766",
+               "name": "GitHub - zsh-users/zsh-autosuggestions: Fish-like autosuggestions for zsh",
+               "type": "url",
+               "url": "https://github.com/zsh-users/zsh-autosuggestions"
+            }, {
+               "date_added": "13273077609392828",
+               "guid": "a0ae5add-80be-46bb-ab23-23a3c2bbf93e",
+               "id": "767",
+               "name": "ohmyzsh/plugins at master · ohmyzsh/ohmyzsh · GitHub",
+               "type": "url",
+               "url": "https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins"
+            }, {
+               "date_added": "13273077609393024",
+               "guid": "f71ba52b-e1ee-40de-b7db-5c1c91c0c294",
+               "id": "768",
+               "name": "GitHub - unixorn/awesome-zsh-plugins: A collection of ZSH frameworks, plugins, themes and tutorials.",
+               "type": "url",
+               "url": "https://github.com/unixorn/awesome-zsh-plugins"
+            }, {
+               "date_added": "13273077609393239",
+               "guid": "af55c10d-3a1b-49c5-99ff-8394a969a4ba",
+               "id": "769",
+               "name": "Can't change back to default cursor shape after enter and exit out of neovim. · Issue #5904 · microsoft/terminal · GitHub",
+               "type": "url",
+               "url": "https://github.com/microsoft/terminal/issues/5904"
+            }, {
+               "date_added": "13273077609393466",
+               "guid": "c8005ab5-cfa7-45b8-a1fe-3bb79292f2bc",
+               "id": "770",
+               "name": "Z-Shell Frequently-Asked Questions",
+               "type": "url",
+               "url": "https://zsh.sourceforge.io/FAQ/zshfaq01.html#l4"
+            }, {
+               "date_added": "13273077609393664",
+               "guid": "dae74e6b-3f3d-48b8-a714-fcd81d2309ef",
+               "id": "771",
+               "name": "GitHub - jeffreytse/zsh-vi-mode: 💻 A better and friendly vi(vim) mode plugin for ZSH.",
+               "type": "url",
+               "url": "https://github.com/jeffreytse/zsh-vi-mode"
+            }, {
+               "date_added": "13273077609393883",
+               "guid": "caf13708-7cab-45db-9967-9c123c807729",
+               "id": "772",
+               "name": "https://raw.githubusercontent.com/LukeSmithxyz/voidrice/master/.config/zsh/.zshrc",
+               "type": "url",
+               "url": "https://raw.githubusercontent.com/LukeSmithxyz/voidrice/master/.config/zsh/.zshrc"
+            }, {
+               "date_added": "13273077609394102",
+               "guid": "fec2d8de-de0d-43cb-aac2-2d716fa7b5d1",
+               "id": "773",
+               "name": "zsh-vim-mode compatibility · Issue #396 · romkatv/powerlevel10k · GitHub",
+               "type": "url",
+               "url": "https://github.com/romkatv/powerlevel10k/issues/396"
+            }, {
+               "date_added": "13273077609394310",
+               "guid": "502862fd-efa7-480d-a87f-1d7717384794",
+               "id": "774",
+               "name": "icons don't display in VS code integrated terminal after setting terminal.integrated.fontFamily · Issue #671 · romkatv/powerlevel10k · GitHub",
+               "type": "url",
+               "url": "https://github.com/romkatv/powerlevel10k/issues/671"
+            }, {
+               "date_added": "13273077609394542",
+               "guid": "4d0d1d7f-8422-428f-9aa1-56e6e2e0315c",
+               "id": "775",
+               "name": "GitHub - sindresorhus/pure: Pretty, minimal and fast ZSH prompt",
+               "type": "url",
+               "url": "https://github.com/sindresorhus/pure"
+            }, {
+               "date_added": "13273077609394737",
+               "guid": "b521a8ac-6487-4839-b230-9dda811d74c7",
+               "id": "776",
+               "name": "GitHub - olets/zsh-abbr: The zsh manager for auto-expanding abbreviations, inspired by fish shell.",
+               "type": "url",
+               "url": "https://github.com/olets/zsh-abbr"
+            }, {
+               "date_added": "13273077609394950",
+               "guid": "5c17fab1-9841-4836-ab4d-4415be773232",
+               "id": "777",
+               "name": "ohmyzsh/themes at master · ohmyzsh/ohmyzsh · GitHub",
+               "type": "url",
+               "url": "https://github.com/ohmyzsh/ohmyzsh/tree/master/themes"
+            }, {
+               "date_added": "13273077609395146",
+               "guid": "c125f696-f50c-4e9c-903b-87c57a7881c4",
+               "id": "778",
+               "name": "GitHub - BrodieRobertson/dotfiles: Various configuration files for programs that I use",
+               "type": "url",
+               "url": "https://github.com/BrodieRobertson/dotfiles"
+            }, {
+               "date_added": "13273077609395345",
+               "guid": "6bee7a45-43e6-4b77-aaf1-776c170fac60",
+               "id": "779",
+               "name": "dotfiles/.zshrc at master · akshat46/dotfiles · GitHub",
+               "type": "url",
+               "url": "https://github.com/akshat46/dotfiles/blob/master/.zshrc"
+            }, {
+               "date_added": "13273077609395544",
+               "guid": "9fa2af05-4f80-4af5-859c-ad7380d5fcde",
+               "id": "780",
+               "name": "dotfiles/vim at master · akshat46/dotfiles · GitHub",
+               "type": "url",
+               "url": "https://github.com/akshat46/dotfiles/tree/master/vim"
+            }, {
+               "date_added": "13273077609395744",
+               "guid": "49dec254-11e6-4de1-9ad3-65a4510896db",
+               "id": "781",
+               "name": "zsh-autosuggestions/config.zsh at master · zsh-users/zsh-autosuggestions · GitHub",
+               "type": "url",
+               "url": "https://github.com/zsh-users/zsh-autosuggestions/blob/master/src/config.zsh"
+            }, {
+               "date_added": "13273077609399779",
+               "guid": "cd0fd99b-066d-467d-b2c2-dcf935cb4f08",
+               "id": "801",
+               "name": "how do I move close,max,min buttons location | Firefox Support Forum | Mozilla Support",
+               "type": "url",
+               "url": "https://support.mozilla.org/bm/questions/1222872"
+            }, {
+               "date_added": "13273077609399967",
+               "guid": "117e399f-d900-4b46-ac66-62b683818607",
+               "id": "802",
+               "name": "Automatically quit vim if NERDTree is last and only buffer - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/2066590/automatically-quit-vim-if-nerdtree-is-last-and-only-buffer"
+            }, {
+               "date_added": "13273077609400155",
+               "guid": "ab3e28c7-7ce5-48c8-82bd-465312fcb645",
+               "id": "803",
+               "name": "Vim Tab Madness. Buffers vs Tabs - Josh Davis",
+               "type": "url",
+               "url": "https://joshldavis.com/2014/04/05/vim-tab-madness-buffers-vs-tabs/"
+            }, {
+               "date_added": "13273077609400345",
+               "guid": "14e97097-631b-4a4d-86ed-72f324661ae6",
+               "id": "804",
+               "name": "editor - Using Vim's tabs like buffers - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/102384/using-vims-tabs-like-buffers"
+            }, {
+               "date_added": "13273077609400541",
+               "guid": "b07068c4-2169-4bad-bfce-b2108705412d",
+               "id": "805",
+               "name": "Why is Space slow when it is set as leader key? : vim",
+               "type": "url",
+               "url": "https://www.reddit.com/r/vim/comments/5xm78j/why_is_space_slow_when_it_is_set_as_leader_key/"
+            }, {
+               "date_added": "13273077609400721",
+               "guid": "dcf692c7-d125-4033-ad46-c379b34ce451",
+               "id": "806",
+               "name": "Mapping \u003Cleader>\u003Cleader>? : vim",
+               "type": "url",
+               "url": "https://www.reddit.com/r/vim/comments/4ac7tb/mapping_leaderleader/"
+            }, {
+               "date_added": "13273077609400885",
+               "guid": "5d93aed2-d7f5-4b6c-9533-374847501644",
+               "id": "807",
+               "name": "Convert Windows path for Windows Ubuntu Bash - Super User",
+               "type": "url",
+               "url": "https://superuser.com/questions/1113385/convert-windows-path-for-windows-ubuntu-bash"
+            }, {
+               "date_added": "13273077609401079",
+               "guid": "6f10890f-f1f2-4c88-aa4d-58054814f125",
+               "id": "808",
+               "name": "GitHub - preservim/nerdtree: A tree explorer plugin for vim.",
+               "type": "url",
+               "url": "https://github.com/preservim/nerdtree"
+            }, {
+               "date_added": "13273077609401245",
+               "guid": "3c4905df-7ae3-444f-bffa-b9fef117f14e",
+               "id": "809",
+               "name": "NERD Tree Guide | by Alex R. Young | usevim | Medium",
+               "type": "url",
+               "url": "https://medium.com/usevim/nerd-tree-guide-bb22c803dcd2"
+            }, {
+               "date_added": "13273077609401412",
+               "guid": "fb152e9b-bf53-480c-99e5-d0317b95679a",
+               "id": "810",
+               "name": "Error detected while processing function 211[2]..212[11]..222: - Google Search",
+               "type": "url",
+               "url": "https://www.google.com/search?q=Error+detected+while+processing+function+211%5B2%5D..212%5B11%5D..222%3A"
+            }, {
+               "date_added": "13273077609401628",
+               "guid": "a42afb8b-bb73-4271-8ad6-562b41f8c0cc",
+               "id": "811",
+               "name": "E444: Cannot close last window - Google Search",
+               "type": "url",
+               "url": "https://www.google.com/search?q=E444%3A+Cannot+close+last+window"
+            }, {
+               "date_added": "13273077609401814",
+               "guid": "24e0cb6c-0ce4-4469-b252-dbfed8749d62",
+               "id": "812",
+               "name": "NERDTree: Cannot close last window - Google Search",
+               "type": "url",
+               "url": "https://www.google.com/search?q=NERDTree%3A+Cannot+close+last+window"
+            }, {
+               "date_added": "13273077609401979",
+               "guid": "50bbc06e-825f-4db9-bbf1-43ac1b484a12",
+               "id": "813",
+               "name": "readme",
+               "type": "url",
+               "url": "https://github.com/neoclide/coc.nvim"
+            }, {
+               "date_added": "13273077609402122",
+               "guid": "3662087c-4425-43b8-9fe7-e3f8ba9ca53a",
+               "id": "814",
+               "name": "Language servers · neoclide/coc.nvim Wiki",
+               "type": "url",
+               "url": "https://github.com/neoclide/coc.nvim/wiki/Language-servers#python"
+            }, {
+               "date_added": "13273077609402304",
+               "guid": "e878e288-e47f-47ab-8e11-824b5049d649",
+               "id": "815",
+               "name": "pappasam/coc-jedi: coc.nvim wrapper for https://github.com/pappasam/jedi-language-server",
+               "type": "url",
+               "url": "https://github.com/pappasam/coc-jedi"
+            }, {
+               "date_added": "13273077609402482",
+               "guid": "2367a1e7-b28c-44c0-8b07-eaf189569620",
+               "id": "816",
+               "name": "fannheyward/coc-pyright: Pyright extension for coc.nvim",
+               "type": "url",
+               "url": "https://github.com/fannheyward/coc-pyright"
+            }, {
+               "date_added": "13273077609402642",
+               "guid": "784054ac-3173-45d8-973f-fe17169cc6cc",
+               "id": "817",
+               "name": "GitHub - fannheyward/coc-pyright: Pyright extension for coc.nvim",
+               "type": "url",
+               "url": "https://github.com/fannheyward/coc-pyright"
+            }, {
+               "date_added": "13273077609402797",
+               "guid": "e2a870d3-cc56-4124-b96e-8c2bf4fb1bc2",
+               "id": "818",
+               "name": "GitHub - pappasam/coc-jedi: coc.nvim wrapper for https://github.com/pappasam/jedi-language-server",
+               "type": "url",
+               "url": "https://github.com/pappasam/coc-jedi"
+            }, {
+               "date_added": "13273077609402981",
+               "guid": "7645fb0a-bdcf-4b42-8e44-4bcfd17f05c2",
+               "id": "819",
+               "name": "coc-python not working ModuleNotFoundError · Issue #193 · neoclide/coc-python · GitHub",
+               "type": "url",
+               "url": "https://github.com/neoclide/coc-python/issues/193"
+            }, {
+               "date_added": "13273077609403155",
+               "guid": "91a18206-5bf3-4116-a8e9-ef770b105df9",
+               "id": "820",
+               "name": "Configuring the cursor | Vim Tips Wiki | Fandom",
+               "type": "url",
+               "url": "https://vim.fandom.com/wiki/Configuring_the_cursor"
+            }, {
+               "date_added": "13273077609403315",
+               "guid": "b68cba06-b079-4498-8302-f03259bb894d",
+               "id": "821",
+               "name": "Change cursor shape in different modes | Vim Tips Wiki | Fandom",
+               "type": "url",
+               "url": "https://vim.fandom.com/wiki/Change_cursor_shape_in_different_modes"
+            }, {
+               "date_added": "13273077609403492",
+               "guid": "e00ee41a-efa3-44e2-baef-b6dac451922b",
+               "id": "822",
+               "name": "256 Colors - Cheat Sheet - Xterm, HEX, RGB, HSL",
+               "type": "url",
+               "url": "https://jonasjacek.github.io/colors/"
+            }, {
+               "date_added": "13273077609403680",
+               "guid": "2d9f94a0-1f1e-4b8b-94ae-eefb18919397",
+               "id": "823",
+               "name": "How do I change the cursor between Normal and Insert modes in Vim? - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/6488683/how-do-i-change-the-cursor-between-normal-and-insert-modes-in-vim#:~:text=You%20may%20try%20the%20Terminus,the%20standard%20%22block%22%20shape."
+            }, {
+               "date_added": "13273077609403921",
+               "guid": "ecc4eed0-aa95-43da-9df0-a135830ca4bf",
+               "id": "824",
+               "name": "A better NerdTree setup. NerdTree is one of the first plugins… | by Victor Mours | Medium",
+               "type": "url",
+               "url": "https://medium.com/@victormours/a-better-nerdtree-setup-3d3921abc0b9"
+            }, {
+               "date_added": "13273077609404108",
+               "guid": "0342a5b7-8884-44c8-8683-e6f7dcbef950",
+               "id": "825",
+               "name": "init.vim · GitHub",
+               "type": "url",
+               "url": "https://gist.github.com/benawad/b768f5a5bbd92c8baabd363b7e79786f"
+            }, {
+               "date_added": "13273077609404282",
+               "guid": "87a0407a-6d2b-4878-86f7-d129fcb9e99f",
+               "id": "826",
+               "name": "open source pdf editor - Google Search",
+               "type": "url",
+               "url": "https://www.google.com/search?q=open+source+pdf+editor&iflsig=AINFCbYAAAAAYN3ZZIcBc342ZGMDkmj7-XfD8fhCeYV5"
+            }, {
+               "date_added": "13273077609404474",
+               "guid": "4ae26dc0-3b1a-4467-ba6d-b94b38d5b780",
+               "id": "827",
+               "name": "windows - Installation appears to be corrupt [Unsupported] - Visual Studio Code - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/61028032/installation-appears-to-be-corrupt-unsupported-visual-studio-code"
+            }, {
+               "date_added": "13273077609404669",
+               "guid": "3a5266c5-e7d4-40fa-8429-62a05f133788",
+               "id": "828",
+               "name": "GitHub - ntpeters/vim-better-whitespace: Better whitespace highlighting for Vim",
+               "type": "url",
+               "url": "https://github.com/ntpeters/vim-better-whitespace"
+            }, {
+               "date_added": "13273077609404842",
+               "guid": "efdbe15d-34ae-46bc-bd71-826f7c706061",
+               "id": "829",
+               "name": "GitHub - 907th/vim-auto-save: Automatically save changes to disk in Vim",
+               "type": "url",
+               "url": "https://github.com/907th/vim-auto-save"
+            }, {
+               "date_added": "13273077609405034",
+               "guid": "7ebb3687-a6a8-4b66-8e64-bbe2bc0f48c4",
+               "id": "830",
+               "name": "syntax highlighting - How to change the color of the selected code (Vim scheme)? - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/3074068/how-to-change-the-color-of-the-selected-code-vim-scheme"
+            }, {
+               "date_added": "13273077609405227",
+               "guid": "10c3b55f-8d9b-4753-9551-2b4b50cd6e7c",
+               "id": "831",
+               "name": "Adjust visual (selection) colour · Issue #7 · arcticicestudio/nord-vim · GitHub",
+               "type": "url",
+               "url": "https://github.com/arcticicestudio/nord-vim/issues/7"
+            }, {
+               "date_added": "13273077609405400",
+               "guid": "5a56b471-7763-4e0d-bf77-e84dc008e4f2",
+               "id": "832",
+               "name": "GitHub - sagars007/Proton-UI-connected-rounded-tabs: Firefox Proton UI minimal changes with nav-bar-connected rounded tabs, reduced compact mode, nightly color gradient accents etc..",
+               "type": "url",
+               "url": "https://github.com/sagars007/Proton-UI-connected-rounded-tabs"
+            }, {
+               "date_added": "13273077609405629",
+               "guid": "387c5e6b-6c03-4980-aa9e-c820021c0ae6",
+               "id": "833",
+               "name": "html - What is the browser-default background color when selecting text? - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/16094837/what-is-the-browser-default-background-color-when-selecting-text"
+            }, {
+               "date_added": "13273077609405823",
+               "guid": "56be97e4-d359-4c00-8da4-8052344a31cc",
+               "id": "834",
+               "name": "firefox change text selection color - Google Search",
+               "type": "url",
+               "url": "https://www.google.com/search?q=firefox+change+text+selection+color"
+            }, {
+               "date_added": "13273077609405988",
+               "guid": "0a876e47-e1d6-48c9-b7a4-db2e356d077e",
+               "id": "835",
+               "name": "[SOLVED] Change Firefox text selection color - MX Linux Forum",
+               "type": "url",
+               "url": "https://forum.mxlinux.org/viewtopic.php?t=51545"
+            }, {
+               "date_added": "13272905001775739",
+               "guid": "b866a736-f1d8-48f2-95a7-7e5680dd19bc",
+               "id": "732",
+               "name": "Cursor color somehow set to background color in vim · Issue #704 · alacritty/alacritty · GitHub",
+               "type": "url",
+               "url": "https://github.com/alacritty/alacritty/issues/704"
+            }, {
+               "date_added": "13272904987301960",
+               "guid": "4f386cb2-4cef-4952-af98-559f7ed709d2",
+               "id": "731",
+               "name": "vim - How do I highlight the current line and the cursor in .vimrc? - Unix & Linux Stack Exchange",
+               "type": "url",
+               "url": "https://unix.stackexchange.com/questions/72797/how-do-i-highlight-the-current-line-and-the-cursor-in-vimrc"
+            } ],
+            "date_added": "13273077609386347",
+            "date_modified": "13273095299398928",
+            "guid": "5934a8fb-c902-4c38-8ac7-3e7b425f6b4c",
+            "id": "740",
+            "name": "todo",
+            "type": "folder"
+         }, {
+            "date_added": "13273077645130473",
+            "guid": "ca28d8b8-dccf-4e89-a214-a1fd21fccbc0",
+            "id": "836",
+            "name": "GitHub - infokiller/web-search-navigator: Chrome/Firefox extension that adds keyboard shortcuts to Google, YouTube, Github, Amazon, and others",
+            "type": "url",
+            "url": "https://github.com/infokiller/web-search-navigator/"
+         }, {
+            "date_added": "13273077645132214",
+            "guid": "72a5dde6-2698-4a61-890d-f2c3651688f7",
+            "id": "837",
+            "name": "GitHub - newsboat/newsboat: An RSS/Atom feed reader for text terminals",
+            "type": "url",
+            "url": "https://github.com/newsboat/newsboat"
+         }, {
+            "date_added": "13273077651518546",
+            "guid": "9aa0a634-05bf-4176-9dd7-5b6f1787973a",
+            "id": "838",
+            "name": "Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.",
+            "type": "url",
+            "url": "https://tailwindcss.com/"
+         }, {
+            "date_added": "13273077654795970",
+            "guid": "e0c55d4b-362e-4100-8588-00ab32ed2133",
+            "id": "839",
+            "name": "Documentation - Sublime Text",
+            "type": "url",
+            "url": "https://www.sublimetext.com/docs/"
+         }, {
+            "date_added": "13273141741103855",
+            "guid": "eaa7bf2c-f8b9-40c9-9322-894f1d789ef6",
+            "id": "844",
+            "name": "bookmarks directory",
+            "type": "url",
+            "url": "https://www.google.com/search?q=chrome+bookmarks+location"
+         } ],
+         "date_added": "13253039366923366",
+         "date_modified": "13273141741103855",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13253039366923373",
+         "date_modified": "13264967599279450",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13253039366923377",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
