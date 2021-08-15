@@ -19,7 +19,7 @@ alias -g .4='cd ../../../../'
 alias -g .....='cd ../../../../../'
 alias -g .5='cd ../../../../../'
 
-alias -g ll='ls -laFh --color=auto'
+alias -g ll='ls -lAFh --color=auto'
 alias -g la='ls -Ah --color=auto'
 alias -g l='ls -CFh --color=auto'
 alias -g ls='ls -h --color=auto'
