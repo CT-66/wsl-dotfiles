@@ -1,5 +1,5 @@
 {
-   "checksum": "d38564af6cb833867834adb45ffd3c74",
+   "checksum": "6f4af7e86859c453f0c5b12fb95b0abf",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2848,13 +2848,6 @@
             "name": "Documentation - Sublime Text",
             "type": "url",
             "url": "https://www.sublimetext.com/docs/"
-         }, {
-            "date_added": "13273141741103855",
-            "guid": "eaa7bf2c-f8b9-40c9-9322-894f1d789ef6",
-            "id": "844",
-            "name": "bookmarks directory",
-            "type": "url",
-            "url": "https://www.google.com/search?q=chrome+bookmarks+location"
          } ],
          "date_added": "13253039366923366",
          "date_modified": "13273141741103855",
