@@ -1,2 +1,9 @@
 .zcompdump-*
+.zcompdump
 .remindme.md
+.bash_history
+.bash_logout
+
+coc/
+pulse/
+wslu/
