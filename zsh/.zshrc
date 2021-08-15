@@ -37,4 +37,12 @@ if [ -f ".viminfo" ]; then
     rm ".viminfo"
 fi
 
+if [ -f ".bash_history" ]; then
+    rm ".bash_history"
+fi
+
+
+
 cat ~/.config/zsh/.remindme.md
+
+
