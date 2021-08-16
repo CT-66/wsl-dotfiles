@@ -8,7 +8,7 @@ blocks:
 color:
     when: always
 
-date: date # day-month-year hour-minute
+date:  +"%d %b, %Y | %I:%M %p"
 
 icons:
     when: always
