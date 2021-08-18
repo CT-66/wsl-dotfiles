@@ -75,6 +75,5 @@ alias -g wv='wslview'
 alias -g kill_vscode=kill_vscode.bat    
 
 # tmux
-alias -g tmux='tmux -f ~/.config/tmux/tmux.conf'
 alias -g tmux-ls='tmux list-sessions'
 alias -g tmux-ks='tmux kill-session'

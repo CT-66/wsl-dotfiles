@@ -27,7 +27,7 @@ let g:deoplete#enable_at_startup = 1
 let g:rainbow_active = 1
 " let g:jedi#completions_command = "<C-Space>"
 " let g:jedi#environment_path = "python.exe"
-" let g:airline_theme='onedark'
+let g:airline_theme='onedark'
 " let g:airline_theme='one'
 let g:onedark_termcolors=256
 

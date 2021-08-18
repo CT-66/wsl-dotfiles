@@ -11,7 +11,7 @@ set cmdheight=2
 set updatetime=300
 filetype plugin indent on
 let $NVIM_TUI_ENABLE_TRUE_COLOR=1
- set termguicolors
+set termguicolors
 " set mouse=a
 " set clipboard=unnamed
 

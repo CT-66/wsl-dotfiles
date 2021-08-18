@@ -138,7 +138,8 @@
         "defaults": 
         {
               // "colorScheme": "Nord",
-              "colorScheme": "One Half Dark_Old",
+              //"colorScheme": "One Half Dark_Old",
+              "colorScheme": "One Half Dark",
             "cursorColor": "#7EC2CF",
             "fontSize": 10,
             // "fontFace": "CaskaydiaCove NF",

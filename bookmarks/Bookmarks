@@ -1,5 +1,5 @@
 {
-   "checksum": "6f4af7e86859c453f0c5b12fb95b0abf",
+   "checksum": "dcdfc5cf8693efe3562403d0f833071a",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1933,9 +1933,16 @@
                   "name": "The Best Linux Lockscreen",
                   "type": "url",
                   "url": "https://www.devpy.me/the-best-linux-lockscreen/"
+               }, {
+                  "date_added": "13273687492478844",
+                  "guid": "901aed57-9d86-4291-acfd-f554088ecb67",
+                  "id": "841",
+                  "name": "Should I remap my caps lock to escape or control? : commandline",
+                  "type": "url",
+                  "url": "https://www.reddit.com/r/commandline/comments/p5b3yn/should_i_remap_my_caps_lock_to_escape_or_control/h94v1h1/"
                } ],
                "date_added": "13261835893988182",
-               "date_modified": "13273430512839894",
+               "date_modified": "13273687492478844",
                "guid": "f9355904-beea-4532-9925-65f81afbc515",
                "id": "353",
                "name": "Linux",
