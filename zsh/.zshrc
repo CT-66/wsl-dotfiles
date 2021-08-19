@@ -29,16 +29,16 @@ setopt SHARE_HISTORY
 
 bindkey -v
 
-if [ -f ".sudo_as_admin_successful" ]; then
-    rm ".sudo_as_admin_successful"
+if [ -f "~/.sudo_as_admin_successful" ]; then
+    rm "~/.sudo_as_admin_successful"
 fi
 
-if [ -f ".viminfo" ]; then
-    rm ".viminfo"
+if [ -f "~/.viminfo" ]; then
+    rm "~/.viminfo"
 fi
 
-if [ -f ".bash_history" ]; then
-    rm ".bash_history"
+if [ -f "~/.bash_history" ]; then
+    rm "~/.bash_history"
 fi
 
 
