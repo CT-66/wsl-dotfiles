@@ -4,4 +4,5 @@ g=/mnt/g/shyam
 programs=/mnt/g/shyam/program\ files
 music=/mnt/g/shyam/music
 trash=~/.Trash
+t=~/.Trash
 recycle_bin=~/.Trash
