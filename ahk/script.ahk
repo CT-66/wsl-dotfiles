@@ -11,11 +11,11 @@ return
 Capslock::Esc
 return
 
-;#N::Run "C:\Users\iamsh\AppData\Local\Microsoft\WindowsApps\19282JackieLiu.Notepads-Beta_echhpq9pdbte8\notepads.exe"
-;return
-
-#N::Run "C:\Users\iamsh\AppData\Local\Microsoft\WindowsApps\Microsoft.WindowsTerminalPreview_8wekyb3d8bbwe\\wt.exe" wsl.exe vim
+#N::Run "C:\Users\iamsh\AppData\Local\Microsoft\WindowsApps\19282JackieLiu.Notepads-Beta_echhpq9pdbte8\notepads.exe"
 return
+
+;#N::Run "C:\Users\iamsh\AppData\Local\Microsoft\WindowsApps\Microsoft.WindowsTerminalPreview_8wekyb3d8bbwe\\wt.exe" wsl.exe vim
+;return
 
 ;^!T::Run "C:\Users\iamsh\AppData\Local\Microsoft\WindowsApps\Microsoft.WindowsTerminal_8wekyb3d8bbwe\wt.exe"
 ^!T::Run "C:\Users\iamsh\AppData\Local\Microsoft\WindowsApps\Microsoft.WindowsTerminalPreview_8wekyb3d8bbwe\wt.exe"

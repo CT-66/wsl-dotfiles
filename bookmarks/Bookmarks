@@ -1,5 +1,5 @@
 {
-   "checksum": "dcdfc5cf8693efe3562403d0f833071a",
+   "checksum": "f05d9416fc1609fe98bb20a1759d552b",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1575,98 +1575,6 @@
                   "name": "Dark theme toggle",
                   "type": "url",
                   "url": "https://github.com/arcticicestudio/arctic"
-               } ],
-               "date_added": "13259164410255224",
-               "date_modified": "13270613595084116",
-               "guid": "b72072dc-3c13-44a8-bd4a-ef8cb1a43e6e",
-               "id": "175",
-               "name": "Programming",
-               "type": "folder"
-            }, {
-               "children": [ {
-                  "date_added": "13261835893988696",
-                  "guid": "2396c8fe-2fc9-47ff-b77c-3ea39eb73eaf",
-                  "id": "355",
-                  "name": "The ultimate guide to Linux for Windows users",
-                  "type": "url",
-                  "url": "https://www.dedoimedo.com/computers/ultimate-linux-guide-for-windows-users.html"
-               }, {
-                  "date_added": "13261835893988991",
-                  "guid": "e807978a-ce21-404b-8deb-611e743ef384",
-                  "id": "356",
-                  "name": "Plasma : KDE Community",
-                  "type": "url",
-                  "url": "https://kde.org/plasma-desktop/"
-               }, {
-                  "date_added": "13261835893989252",
-                  "guid": "f1e61760-e64c-401e-8a58-35fe52182953",
-                  "id": "357",
-                  "name": "10 Reasons to Use KDE as Linux Desktop Environment",
-                  "type": "url",
-                  "url": "https://www.fossmint.com/reasons-to-use-kde-as-linux-desktop-environment/"
-               }, {
-                  "date_added": "13261835893989492",
-                  "guid": "307e5390-0517-4e70-828e-e991f280c6c6",
-                  "id": "358",
-                  "name": "Top 10 reasons to use KDE as your Desktop Environment | FOSS Linux",
-                  "type": "url",
-                  "url": "https://www.fosslinux.com/41109/top-10-reasons-to-use-kde-as-your-desktop-environment.htm"
-               }, {
-                  "date_added": "13261835893989770",
-                  "guid": "96b864b0-894a-44ec-aa83-302e5df53711",
-                  "id": "359",
-                  "name": "Beginners Guide To Install Windows 10 With Ubuntu in Dual Boot",
-                  "type": "url",
-                  "url": "https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/"
-               }, {
-                  "date_added": "13261835893990045",
-                  "guid": "67e5acc9-ed8b-48c0-8f62-a929e2b768c7",
-                  "id": "360",
-                  "name": "How To Dual Boot Linux Mint And Windows 10 [Beginner's Guide]",
-                  "type": "url",
-                  "url": "https://itsfoss.com/guide-install-linux-mint-16-dual-boot-windows/"
-               }, {
-                  "date_added": "13261835893990272",
-                  "guid": "82f73fa1-baa6-45e1-b06e-8ed2a37224ef",
-                  "id": "361",
-                  "name": "21 Must-Have Apps for Ubuntu (2020 Edition) - OMG! Ubuntu!",
-                  "type": "url",
-                  "url": "https://www.omgubuntu.co.uk/2016/12/21-must-have-apps-ubuntu"
-               }, {
-                  "date_added": "13261835893990502",
-                  "guid": "7d67eb05-0601-4886-885b-6083adbfa16a",
-                  "id": "362",
-                  "name": "Best Linux apps of 2021: free and open source software | TechRadar",
-                  "type": "url",
-                  "url": "https://www.techradar.com/in/best/best-linux-apps"
-               }, {
-                  "date_added": "13261835893990727",
-                  "guid": "a5ba0780-6e7d-405b-9d2e-99e191b94d21",
-                  "id": "363",
-                  "name": "80 Most Used Essential Linux Applications of 2020",
-                  "type": "url",
-                  "url": "https://www.fossmint.com/most-used-linux-applications/"
-               }, {
-                  "date_added": "13261835893990950",
-                  "guid": "dd8719a8-d838-4798-b9c9-16f5c4d8a65e",
-                  "id": "364",
-                  "name": "The 20 Best Linux Apps Ever",
-                  "type": "url",
-                  "url": "https://helpdeskgeek.com/linux-tips/the-20-best-linux-apps-ever/"
-               }, {
-                  "date_added": "13261835893991170",
-                  "guid": "71aeaacb-0a77-4a08-baba-b2e7cfa5d1c2",
-                  "id": "365",
-                  "name": "Best Linux Software: 35 Essential Linux Apps [2020]",
-                  "type": "url",
-                  "url": "https://itsfoss.com/essential-linux-applications/"
-               }, {
-                  "date_added": "13261835893991386",
-                  "guid": "69765418-6206-4474-90c7-74d5f5566709",
-                  "id": "366",
-                  "name": "linux for beginners - YouTube",
-                  "type": "url",
-                  "url": "https://www.youtube.com/results?search_query=linux+for+beginners"
                }, {
                   "date_added": "13261835893991599",
                   "guid": "f089018f-6d0f-4946-b0b7-1ffc42a46637",
@@ -1674,6 +1582,171 @@
                   "name": "Build Your Own First-Person Shooter in Unity — Wireframe Magazine",
                   "type": "url",
                   "url": "https://wireframe.raspberrypi.org/books/unity-fps"
+               } ],
+               "date_added": "13259164410255224",
+               "date_modified": "13273873675521690",
+               "guid": "b72072dc-3c13-44a8-bd4a-ef8cb1a43e6e",
+               "id": "175",
+               "name": "Programming",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13261835893990272",
+                     "guid": "82f73fa1-baa6-45e1-b06e-8ed2a37224ef",
+                     "id": "361",
+                     "name": "21 Must-Have Apps for Ubuntu (2020 Edition) - OMG! Ubuntu!",
+                     "type": "url",
+                     "url": "https://www.omgubuntu.co.uk/2016/12/21-must-have-apps-ubuntu"
+                  }, {
+                     "date_added": "13261835893990502",
+                     "guid": "7d67eb05-0601-4886-885b-6083adbfa16a",
+                     "id": "362",
+                     "name": "Best Linux apps of 2021: free and open source software | TechRadar",
+                     "type": "url",
+                     "url": "https://www.techradar.com/in/best/best-linux-apps"
+                  }, {
+                     "date_added": "13261835893990727",
+                     "guid": "a5ba0780-6e7d-405b-9d2e-99e191b94d21",
+                     "id": "363",
+                     "name": "80 Most Used Essential Linux Applications of 2020",
+                     "type": "url",
+                     "url": "https://www.fossmint.com/most-used-linux-applications/"
+                  }, {
+                     "date_added": "13261835893990950",
+                     "guid": "dd8719a8-d838-4798-b9c9-16f5c4d8a65e",
+                     "id": "364",
+                     "name": "The 20 Best Linux Apps Ever",
+                     "type": "url",
+                     "url": "https://helpdeskgeek.com/linux-tips/the-20-best-linux-apps-ever/"
+                  }, {
+                     "date_added": "13261835893991170",
+                     "guid": "71aeaacb-0a77-4a08-baba-b2e7cfa5d1c2",
+                     "id": "365",
+                     "name": "Best Linux Software: 35 Essential Linux Apps [2020]",
+                     "type": "url",
+                     "url": "https://itsfoss.com/essential-linux-applications/"
+                  }, {
+                     "date_added": "13262167668920999",
+                     "guid": "39b38fc4-64b0-48fb-a4bc-f3304b260166",
+                     "id": "411",
+                     "name": "Top 11 best Image Viewer for Ubuntu and other Linux",
+                     "type": "url",
+                     "url": "https://itsfoss.com/image-viewers-linux/"
+                  }, {
+                     "date_added": "13262167676426887",
+                     "guid": "6bd1bc7a-6b6a-4d4b-a12f-7942920b9e6b",
+                     "id": "412",
+                     "name": "4 lightweight image viewers for the Linux desktop | Opensource.com",
+                     "type": "url",
+                     "url": "https://opensource.com/article/17/7/4-lightweight-image-viewers-linux-desktop"
+                  }, {
+                     "date_added": "13268224196892462",
+                     "guid": "57d54c55-948b-4cd8-bfd4-79f2e881ca77",
+                     "id": "703",
+                     "name": "albertlauncher/albert: A fast and flexible keyboard launcher",
+                     "type": "url",
+                     "url": "https://github.com/albertlauncher/albert"
+                  }, {
+                     "date_added": "13268224205879909",
+                     "guid": "aad0ea0d-1526-4d27-88c6-03c15fff43c6",
+                     "id": "704",
+                     "name": "balsoft/lambda-launcher: Application launcher in haskell. Mostly Just For Fun.",
+                     "type": "url",
+                     "url": "https://github.com/balsoft/lambda-launcher"
+                  }, {
+                     "date_added": "13268224492468860",
+                     "guid": "219cb4ac-7d9a-463c-9f8d-8a609c9df462",
+                     "id": "708",
+                     "name": "Customize your Linux desktop with KDE Plasma | Opensource.com",
+                     "type": "url",
+                     "url": "https://opensource.com/article/19/12/linux-kde-plasma"
+                  }, {
+                     "date_added": "13268224494219556",
+                     "guid": "2bd661d3-af2e-4234-bf53-3be563288c5b",
+                     "id": "709",
+                     "name": "KDE's Applications",
+                     "type": "url",
+                     "url": "https://apps.kde.org/"
+                  }, {
+                     "date_added": "13268224497109805",
+                     "guid": "affd9798-de55-4631-aa2e-7427b0e9492b",
+                     "id": "710",
+                     "name": "KDE Store",
+                     "type": "url",
+                     "url": "https://store.kde.org/browse/cat/"
+                  }, {
+                     "date_added": "13268582200943775",
+                     "guid": "4f0590f1-bde1-4d74-89ad-3fd23d89391f",
+                     "id": "719",
+                     "name": "kitty - the fast, featureful, GPU based terminal emulator — kitty 0.21.1 documentation",
+                     "type": "url",
+                     "url": "https://sw.kovidgoyal.net/kitty/"
+                  }, {
+                     "date_added": "13270613595084116",
+                     "guid": "596138ec-1159-443f-9d7e-3cec54f5b095",
+                     "id": "729",
+                     "name": "ful1e5/Bibata_Cursor: Material Based Cursors 🚀",
+                     "type": "url",
+                     "url": "https://github.com/ful1e5/Bibata_Cursor"
+                  }, {
+                     "date_added": "13273687492478844",
+                     "guid": "901aed57-9d86-4291-acfd-f554088ecb67",
+                     "id": "841",
+                     "name": "Should I remap my caps lock to escape or control? : commandline",
+                     "type": "url",
+                     "url": "https://www.reddit.com/r/commandline/comments/p5b3yn/should_i_remap_my_caps_lock_to_escape_or_control/h94v1h1/"
+                  } ],
+                  "date_added": "13273873471231201",
+                  "date_modified": "13273873859448938",
+                  "guid": "862ede73-df33-4df1-89cd-803d50a3c255",
+                  "id": "843",
+                  "name": "Software",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13261848429314095",
+                     "guid": "3486d370-36b1-4917-ad68-2bd8f2246601",
+                     "id": "387",
+                     "name": "How to customize linux? (as a noob) : linuxmasterrace",
+                     "type": "url",
+                     "url": "https://www.reddit.com/r/linuxmasterrace/comments/411keg/how_to_customize_linux_as_a_noob/"
+                  }, {
+                     "date_added": "13273077609399420",
+                     "guid": "2e8fa360-ca4d-403e-af37-bacef195d511",
+                     "id": "799",
+                     "name": "Guide to a better looking Linux lockscreen : linux",
+                     "type": "url",
+                     "url": "https://www.reddit.com/r/linux/comments/7nf3ro/guide_to_a_better_looking_linux_lockscreen/"
+                  }, {
+                     "date_added": "13273077609399602",
+                     "guid": "3bd759ba-fe9b-4d68-a92a-e4985c878172",
+                     "id": "800",
+                     "name": "The Best Linux Lockscreen",
+                     "type": "url",
+                     "url": "https://www.devpy.me/the-best-linux-lockscreen/"
+                  } ],
+                  "date_added": "13273873815388362",
+                  "date_modified": "13273873854815426",
+                  "guid": "3dc6fb42-5196-4d30-be34-91d41dcc09fb",
+                  "id": "844",
+                  "name": "Ricing",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13268582514876811",
+                     "guid": "a303561f-e1a2-4977-8234-961e29840c13",
+                     "id": "720",
+                     "name": "akshat46/dotfiles",
+                     "type": "url",
+                     "url": "https://github.com/akshat46/dotfiles/"
+                  } ],
+                  "date_added": "13273873972730777",
+                  "date_modified": "13273873977704974",
+                  "guid": "ba388084-6d0e-4614-a9f6-e2cf9072e2c2",
+                  "id": "845",
+                  "name": "Dotfiles",
+                  "type": "folder"
                }, {
                   "date_added": "13261835893991823",
                   "guid": "e1260a37-e8a5-4db9-a158-e0d808723da8",
@@ -1682,124 +1755,12 @@
                   "type": "url",
                   "url": "https://www.youtube.com/watch?v=e7BufAVwDiM&t=0s"
                }, {
-                  "date_added": "13261835893992312",
-                  "guid": "13933b1d-4cf7-4c12-be85-5665be677205",
-                  "id": "369",
-                  "name": "Bash Scripting: Everything you need to know about Bash-shell programming | by Uday Hiwarale | System Failure | Medium",
-                  "type": "url",
-                  "url": "https://medium.com/sysf/bash-scripting-everything-you-need-to-know-about-bash-shell-programming-cd08595f2fba"
-               }, {
-                  "date_added": "13261836488013834",
-                  "guid": "dab2d7d1-c539-4673-a350-5fbe14f8cd27",
-                  "id": "371",
-                  "name": "11 Reasons Why Linux Is Better Than Windows - It's FOSS",
-                  "type": "url",
-                  "url": "https://itsfoss.com/linux-better-than-windows/"
-               }, {
-                  "date_added": "13261836488014174",
-                  "guid": "1dcdc62b-6f11-4b67-8ba9-4d74594497b0",
-                  "id": "372",
-                  "name": "Here Is Why Linux Is a Good Choice of OS for Software Developers",
-                  "type": "url",
-                  "url": "https://interestingengineering.com/here-is-why-linux-is-a-good-choice-of-os-for-software-developers#:~:text=Linux%20tends%20to%20contain%20the,power%2C%20security%2C%20and%20speed."
-               }, {
-                  "date_added": "13261836488014502",
-                  "guid": "bfe177b6-e0c1-4018-97db-332e01a7f1e2",
-                  "id": "373",
-                  "name": "Why do some programmers prefer Linux OS instead of Windows or macOS? - Quora",
-                  "type": "url",
-                  "url": "https://www.quora.com/Why-do-some-programmers-prefer-Linux-OS-instead-of-Windows-or-macOS"
-               }, {
-                  "date_added": "13261836488014635",
-                  "guid": "96a69ca6-7901-493b-96cc-ad8ec2daeb73",
-                  "id": "374",
-                  "name": "Linux Vs Windows - Why Linux Is Better For Programming & Web Dev (A newbie experience) - DEV Community",
-                  "type": "url",
-                  "url": "https://dev.to/ajeet/linux-vs-windows-why-linux-is-better-for-programming-web-dev-a-newbie-experience-5eg1"
-               }, {
-                  "date_added": "13261836488014765",
-                  "guid": "9502fc10-3424-46af-87cb-dc3b25c91c4d",
-                  "id": "375",
-                  "name": "Is Linux better for programming? : learnprogramming",
-                  "type": "url",
-                  "url": "https://www.reddit.com/r/learnprogramming/comments/1ugvgh/is_linux_better_for_programming/"
-               }, {
-                  "date_added": "13261836488015098",
-                  "guid": "905e9a0a-7061-4d73-b835-cbba83c50e11",
-                  "id": "378",
-                  "name": "7 Superb Reasons Why You Should Use Linux For Programming",
-                  "type": "url",
-                  "url": "https://www.makeuseof.com/tag/6-superb-reasons-use-linux-programming/"
-               }, {
-                  "date_added": "13261836488015215",
-                  "guid": "42cd256b-641d-4a1a-8f35-7bed742e2c14",
-                  "id": "379",
-                  "name": "Why Linux is better for Programming | by Nokha Debbarma | Medium",
-                  "type": "url",
-                  "url": "https://medium.com/@nokha_debbarma/why-linux-is-better-for-programming-e6819a95f46"
-               }, {
-                  "date_added": "13261836488015326",
-                  "guid": "5806843f-3303-4b53-87db-3a121e092d3c",
-                  "id": "380",
-                  "name": "6 Reasons Why People Love to Use Arch Linux",
-                  "type": "url",
-                  "url": "https://itsfoss.com/why-arch-linux/"
-               }, {
-                  "date_added": "13261836488015425",
-                  "guid": "309ae466-0f00-474c-8f69-66c7b4b63166",
-                  "id": "381",
-                  "name": "Why is Arch Linux So Challenging and What are Its Pros & Cons?",
-                  "type": "url",
-                  "url": "https://www.fossmint.com/why-is-arch-linux-so-challenging-what-are-pros-cons/"
-               }, {
-                  "date_added": "13261836488015539",
-                  "guid": "85dcc31b-da1f-4d09-b799-335b769d4959",
-                  "id": "382",
-                  "name": "Switching to Arch Linux - DEV Community",
-                  "type": "url",
-                  "url": "https://dev.to/mauro_codes/switching-to-arch-linux-1hm"
-               }, {
-                  "date_added": "13261848367969810",
-                  "guid": "ea479b33-9c70-4ad8-82de-0300b3d2561b",
-                  "id": "384",
-                  "name": "index - unixporn",
-                  "type": "url",
-                  "url": "https://www.reddit.com/r/unixporn/wiki/index"
-               }, {
-                  "date_added": "13261848424032354",
-                  "guid": "eb42103e-d141-457f-b1e3-0faf72c9a6cd",
-                  "id": "385",
-                  "name": "5 Ways to Make Your Linux Desktop Look Fantastic",
-                  "type": "url",
-                  "url": "https://www.makeuseof.com/tag/linux-desktop-look-fantastic/"
-               }, {
                   "date_added": "13261848427029681",
                   "guid": "03e82924-8263-4e93-9a73-4e8e9e2fd92a",
                   "id": "386",
                   "name": "5 Gorgeous Examples Of Truly Customized Linux Desktops",
                   "type": "url",
                   "url": "https://www.forbes.com/sites/jasonevangelho/2019/02/14/5-gorgeous-examples-of-truly-customized-linux-desktops/?sh=680cdfb9572e"
-               }, {
-                  "date_added": "13261848429314095",
-                  "guid": "3486d370-36b1-4917-ad68-2bd8f2246601",
-                  "id": "387",
-                  "name": "How to customize linux? (as a noob) : linuxmasterrace",
-                  "type": "url",
-                  "url": "https://www.reddit.com/r/linuxmasterrace/comments/411keg/how_to_customize_linux_as_a_noob/"
-               }, {
-                  "date_added": "13262167668920999",
-                  "guid": "39b38fc4-64b0-48fb-a4bc-f3304b260166",
-                  "id": "411",
-                  "name": "Top 11 best Image Viewer for Ubuntu and other Linux",
-                  "type": "url",
-                  "url": "https://itsfoss.com/image-viewers-linux/"
-               }, {
-                  "date_added": "13262167676426887",
-                  "guid": "6bd1bc7a-6b6a-4d4b-a12f-7942920b9e6b",
-                  "id": "412",
-                  "name": "4 lightweight image viewers for the Linux desktop | Opensource.com",
-                  "type": "url",
-                  "url": "https://opensource.com/article/17/7/4-lightweight-image-viewers-linux-desktop"
                }, {
                   "date_added": "13263284486211634",
                   "guid": "ab07d181-501e-4f4a-b773-aeb286b10816",
@@ -1808,41 +1769,6 @@
                   "type": "url",
                   "url": "https://www.youtube.com/playlist?list=PLzMcBGfZo4-nUIIMsz040W_X-03QH5c5h"
                }, {
-                  "date_added": "13263284533797947",
-                  "guid": "875cd9f2-e8d2-485b-be3e-c2ddc41d5230",
-                  "id": "437",
-                  "name": "Beginner's Guide to the Bash Terminal - YouTube",
-                  "type": "url",
-                  "url": "https://www.youtube.com/watch?v=oxuRxtrO2Ag&t=52s"
-               }, {
-                  "date_added": "13263284559082573",
-                  "guid": "aa88a8a0-7faf-44a2-86a5-0a8a541a0a18",
-                  "id": "438",
-                  "name": "Some bashrc recommendations and what I use - YouTube",
-                  "type": "url",
-                  "url": "https://www.youtube.com/watch?v=_UrDsbs0-OE&t=1s"
-               }, {
-                  "date_added": "13263284574192969",
-                  "guid": "9a87555c-2baa-4fe5-adec-da564688be1c",
-                  "id": "439",
-                  "name": "(35) Linux Tip | How to Customize Your BASH Environment - YouTube",
-                  "type": "url",
-                  "url": "https://www.youtube.com/watch?v=y_vAFd7Uk5U"
-               }, {
-                  "date_added": "13268224196892462",
-                  "guid": "57d54c55-948b-4cd8-bfd4-79f2e881ca77",
-                  "id": "703",
-                  "name": "albertlauncher/albert: A fast and flexible keyboard launcher",
-                  "type": "url",
-                  "url": "https://github.com/albertlauncher/albert"
-               }, {
-                  "date_added": "13268224205879909",
-                  "guid": "aad0ea0d-1526-4d27-88c6-03c15fff43c6",
-                  "id": "704",
-                  "name": "balsoft/lambda-launcher: Application launcher in haskell. Mostly Just For Fun.",
-                  "type": "url",
-                  "url": "https://github.com/balsoft/lambda-launcher"
-               }, {
                   "date_added": "13268224208582261",
                   "guid": "702a8686-7482-4575-841b-f3f0efa4711e",
                   "id": "705",
@@ -1850,99 +1776,15 @@
                   "type": "url",
                   "url": "https://www.howtogeek.com/427480/how-to-back-up-your-linux-system/"
                }, {
-                  "date_added": "13268224210946662",
-                  "guid": "dc18457e-5477-4981-94dd-342136511e22",
-                  "id": "706",
-                  "name": "How to backup/sync all of your dotfiles​ with Github - DEV Community",
-                  "type": "url",
-                  "url": "https://dev.to/jeffshomali/how-to-backup-sync-all-of-your-dotfiles-with-github-e1c"
-               }, {
-                  "date_added": "13268224492468860",
-                  "guid": "219cb4ac-7d9a-463c-9f8d-8a609c9df462",
-                  "id": "708",
-                  "name": "Customize your Linux desktop with KDE Plasma | Opensource.com",
-                  "type": "url",
-                  "url": "https://opensource.com/article/19/12/linux-kde-plasma"
-               }, {
-                  "date_added": "13268224494219556",
-                  "guid": "2bd661d3-af2e-4234-bf53-3be563288c5b",
-                  "id": "709",
-                  "name": "KDE's Applications",
-                  "type": "url",
-                  "url": "https://apps.kde.org/"
-               }, {
-                  "date_added": "13268224497109805",
-                  "guid": "affd9798-de55-4631-aa2e-7427b0e9492b",
-                  "id": "710",
-                  "name": "KDE Store",
-                  "type": "url",
-                  "url": "https://store.kde.org/browse/cat/"
-               }, {
-                  "date_added": "13268224500104174",
-                  "guid": "e1c6d3ff-a5ce-4077-aed4-dab1ce042cbb",
-                  "id": "711",
-                  "name": "Plasma Mobile",
-                  "type": "url",
-                  "url": "https://www.plasma-mobile.org/"
-               }, {
-                  "date_added": "13268224501640307",
-                  "guid": "37e748d5-86cd-4451-ac77-635b04ef7da1",
-                  "id": "712",
-                  "name": "Elisa",
-                  "type": "url",
-                  "url": "https://elisa.kde.org/"
-               }, {
-                  "date_added": "13268582200943775",
-                  "guid": "4f0590f1-bde1-4d74-89ad-3fd23d89391f",
-                  "id": "719",
-                  "name": "kitty - the fast, featureful, GPU based terminal emulator — kitty 0.21.1 documentation",
-                  "type": "url",
-                  "url": "https://sw.kovidgoyal.net/kitty/"
-               }, {
-                  "date_added": "13268582514876811",
-                  "guid": "a303561f-e1a2-4977-8234-961e29840c13",
-                  "id": "720",
-                  "name": "akshat46/dotfiles",
-                  "type": "url",
-                  "url": "https://github.com/akshat46/dotfiles/"
-               }, {
                   "date_added": "13269722721941629",
                   "guid": "3db9aca1-9be7-4756-961b-162a369c359d",
                   "id": "723",
                   "name": "(23) Linux - YouTube",
                   "type": "url",
                   "url": "https://www.youtube.com/playlist?list=PLz8l62B_3hySsP_ZvLUS7WLyqF4-vTm8m"
-               }, {
-                  "date_added": "13270613595084116",
-                  "guid": "596138ec-1159-443f-9d7e-3cec54f5b095",
-                  "id": "729",
-                  "name": "ful1e5/Bibata_Cursor: Material Based Cursors 🚀",
-                  "type": "url",
-                  "url": "https://github.com/ful1e5/Bibata_Cursor"
-               }, {
-                  "date_added": "13273077609399420",
-                  "guid": "2e8fa360-ca4d-403e-af37-bacef195d511",
-                  "id": "799",
-                  "name": "Guide to a better looking Linux lockscreen : linux",
-                  "type": "url",
-                  "url": "https://www.reddit.com/r/linux/comments/7nf3ro/guide_to_a_better_looking_linux_lockscreen/"
-               }, {
-                  "date_added": "13273077609399602",
-                  "guid": "3bd759ba-fe9b-4d68-a92a-e4985c878172",
-                  "id": "800",
-                  "name": "The Best Linux Lockscreen",
-                  "type": "url",
-                  "url": "https://www.devpy.me/the-best-linux-lockscreen/"
-               }, {
-                  "date_added": "13273687492478844",
-                  "guid": "901aed57-9d86-4291-acfd-f554088ecb67",
-                  "id": "841",
-                  "name": "Should I remap my caps lock to escape or control? : commandline",
-                  "type": "url",
-                  "url": "https://www.reddit.com/r/commandline/comments/p5b3yn/should_i_remap_my_caps_lock_to_escape_or_control/h94v1h1/"
                } ],
                "date_added": "13261835893988182",
-               "date_modified": "13273687492478844",
+               "date_modified": "13273873974576535",
                "guid": "f9355904-beea-4532-9925-65f81afbc515",
                "id": "353",
                "name": "Linux",

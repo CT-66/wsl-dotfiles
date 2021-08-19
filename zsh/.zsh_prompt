@@ -7,4 +7,5 @@ autoload -U promptinit; promptinit
 
 prompt pure
 
-RPROMPT="$(date +"%I:%M %p")"
+# RPROMPT="$(date +"%I:%M %p")"
+

@@ -23,8 +23,8 @@ function! RunPythonFile()
 endfunction
 
 " colorscheme nord
-colorscheme onedark
-" colorscheme one
+" colorscheme onedark
+colorscheme one
 
 let g:nord_bold = 1
 " visual mode selection color

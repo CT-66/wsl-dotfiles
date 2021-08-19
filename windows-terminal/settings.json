@@ -6,20 +6,8 @@
             "command": "unbound"
         },
         {
-            "command": 
-            {
-                "action": "copy",
-                "singleLine": false
-            },
-            "keys": "ctrl+c"
-        },
-        {
             "command": "find",
             "keys": "ctrl+f"
-        },
-        {
-            "command": "paste",
-            "keys": "ctrl+v"
         },
         {
             "command": 
@@ -28,10 +16,10 @@
             },
             "keys": "ctrl+t"
         },
-        {
-            "command": "closeTab",
-            "keys": "ctrl+w"
-        },
+        //{
+          //  "command": "closeTab",
+            //"keys": "ctrl+w"
+        //},
         {
             "command": 
             {
@@ -138,8 +126,8 @@
         "defaults": 
         {
               // "colorScheme": "Nord",
-              //"colorScheme": "One Half Dark_Old",
-              "colorScheme": "One Half Dark",
+              "colorScheme": "One Half Dark_Old",
+              //"colorScheme": "One Half Dark",
             "cursorColor": "#7EC2CF",
             "fontSize": 10,
             // "fontFace": "CaskaydiaCove NF",
@@ -176,18 +164,6 @@
                 "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
                 "hidden": true,
                 "name": "Command Prompt"
-            },
-            {
-                "commandline": "wsl nvim",
-                "icon": "C:\\Users\\iamsh\\AppData\\Local\\Packages\\Microsoft.WindowsTerminalPreview_8wekyb3d8bbwe\\LocalState\\Icons\\Vim_Logo.ico",
-                "name": "Vim",
-                "tabTitle": "Vim"
-            },
-            {
-                "commandline": "wsl cmus",
-                "icon": "\ud83c\udfb5",
-                "name": "Cmus",
-                "tabTitle": "Cmus"
             },
             {
                 "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
