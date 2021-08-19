@@ -34,6 +34,7 @@ alias -g zsh_plugins='nvim ~/.config/zsh/.zsh_plugins'
 alias -g zsh_prompt='nvim ~/.config/zsh/.zsh_prompt'
 alias -g firefox_css='cd /mnt/c/Users/iamsh/AppData/Roaming/Mozilla/Firefox/Profiles/j9x9tbvr.default-release/chrome'
 alias -g wt_settings='nvim /mnt/c/Users/iamsh/AppData/Local/Packages/Microsoft.WindowsTerminalPreview_8wekyb3d8bbwe/LocalState/settings.json'
+alias -g alacritty_settings='nvim /mnt/c/Users/iamsh/AppData/Roaming/alacritty/alacritty.yml'
 
 alias bash='bash --rcfile ~/.config/bash/.bashrc' 
 # alias vim='vim -u <location>'
