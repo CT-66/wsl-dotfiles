@@ -41,7 +41,7 @@ augroup END
 inoremap <expr><TAB>  pumvisible() ? "\<C-n>" : "\<TAB>"
 
 
-set number
+set number relativenumber
 set visualbell
 set t_vb=
 set noerrorbells
@@ -112,13 +112,21 @@ set encoding=utf-8
 vnoremap <silent> * :<C-u>call VisualSelection('', '')<CR>/<C-R>=@/<CR><CR>
 vnoremap <silent> # :<C-u>call VisualSelection('', '')<CR>?<C-R>=@/<CR><CR>
 
-fun! CleanExtraSpaces()
-    let save_cursor = getpos(".")
-    let old_query = getreg('/')
-    silent! %s/\s\+$//e
-    call setpos('.', save_cursor)
-    call setreg('/', old_query)
-endfun
+" fun! CleanExtraSpaces()
+"     let save_cursor = getpos(".")
+"     let old_query = getreg('/')
+"     silent! %s/\s\+$//e
+"     call setpos('.', save_cursor)
+"     call setreg('/', old_query)
+" endfun
+
+" Disables automatic commenting on newline:
+    autocmd FileType * setlocal formatoptions-=c formatoptions-=r formatoptions-=o
+" Automatically deletes all trailing whitespace and newlines at end of file on save.
+    autocmd BufWritePre * %s/\s+$//e
+    autocmd BufWritePre * %s/\n+%$//e
+    autocmd BufWritePre *.[ch] %s/%$/\r/e
+
 
 set laststatus=2
 " let g:coc_global_extensions = [

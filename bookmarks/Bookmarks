@@ -1,5 +1,5 @@
 {
-   "checksum": "f05d9416fc1609fe98bb20a1759d552b",
+   "checksum": "7f9cb24c7d8d4bee624e612d8782d4ad",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1696,9 +1696,16 @@
                      "name": "Should I remap my caps lock to escape or control? : commandline",
                      "type": "url",
                      "url": "https://www.reddit.com/r/commandline/comments/p5b3yn/should_i_remap_my_caps_lock_to_escape_or_control/h94v1h1/"
+                  }, {
+                     "date_added": "13273875412198734",
+                     "guid": "0cd6199f-e95a-4b97-b0aa-7ed6cec89cff",
+                     "id": "847",
+                     "name": "benbusby/whoogle-search: A self-hosted, ad-free, privacy-respecting metasearch engine",
+                     "type": "url",
+                     "url": "https://github.com/benbusby/whoogle-search"
                   } ],
                   "date_added": "13273873471231201",
-                  "date_modified": "13273873859448938",
+                  "date_modified": "13273875415951805",
                   "guid": "862ede73-df33-4df1-89cd-803d50a3c255",
                   "id": "843",
                   "name": "Software",
@@ -1742,7 +1749,7 @@
                      "url": "https://github.com/akshat46/dotfiles/"
                   } ],
                   "date_added": "13273873972730777",
-                  "date_modified": "13273873977704974",
+                  "date_modified": "13273875412198734",
                   "guid": "ba388084-6d0e-4614-a9f6-e2cf9072e2c2",
                   "id": "845",
                   "name": "Dotfiles",
