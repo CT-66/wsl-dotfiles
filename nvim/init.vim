@@ -136,3 +136,6 @@ set laststatus=2
 
 
 hi Search cterm=NONE ctermfg=grey ctermbg=blue
+
+autocmd InsertEnter * :set norelativenumber
+autocmd InsertLeave * :set relativenumber
