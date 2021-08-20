@@ -1,17 +1,19 @@
 autoload -U compinit
 compinit -d ~/.cache/zsh/zsh_compinit_dumpfiles
-zstyle ':completion:*' matcher-list 'm:{a-z}={A-Za-z}'
+# zstyle ':completion:*' matcher-list 'm:{a-z}={A-Za-z}' # case insensitive tab completion
+zstyle ':completion:*' menu select 'm:{a-z}={A-Za-z}' # case insensitive tab completion
 unsetopt BEEP
 setopt NO_CASE_GLOB # Set case insensitive globbing
 setopt AUTO_CD # Automatically cd into a directory without typing `cd`
 setopt CORRECT # Enable correction
 setopt CORRECT_ALL # Enable correction
 
+# history stuff
 HISTSIZE=1000
 SAVEHIST=10000
 HISTFILE=~/.cache/zsh/history
 setopt INC_APPEND_HISTORY
-setopt SHARE_HISTORY 
+setopt SHARE_HISTORY
 
 
 # compinit
@@ -28,6 +30,7 @@ setopt SHARE_HISTORY
 . ~/.config/zsh/.zsh_functions
 . ~/.config/zsh/.zsh_exports
 
+# vim mode
 bindkey -v
 
 # Change cursor shape for different vi modes.
@@ -54,8 +57,17 @@ if [ -f "~/.bash_history" ]; then
     rm "~/.bash_history"
 fi
 
+# Use lf (or ranger) to switch directories and bind it to ctrl-o
+lfcd () {
+    tmp="$(mktemp)"
+    lf -last-dir-path="$tmp" "$@"
+    if [ -f "$tmp" ]; then
+        dir="$(cat "$tmp")"
+        rm -f "$tmp" >/dev/null
+        [ -d "$dir" ] && [ "$dir" != "$(pwd)" ] && cd "$dir"
+    fi
+}
+bindkey -s '^o' 'lfcd\n'
 
 
 cat ~/.config/zsh/.remindme.md
-
-

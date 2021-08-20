@@ -24,6 +24,7 @@ alias -g ll='ls -lAFh --color=always'
 alias -g la='ls -Ah --color=always'
 alias -g l='ls -CFh --color=always'
 alias -g ls='ls -h --color=always'
+alias -g l.='ls -a | egrep "^\."'
 
 alias -g ping='ping -c 5'
 
@@ -32,6 +33,7 @@ alias -g zsh_aliases='nvim ~/.config/zsh/.zsh_aliases'
 alias -g zsh_variables='nvim ~/.config/zsh/.zsh_variables'
 alias -g zsh_plugins='nvim ~/.config/zsh/.zsh_plugins'
 alias -g zsh_prompt='nvim ~/.config/zsh/.zsh_prompt'
+alias -g zsh_exports='nvim ~/.config/zsh/.zsh_exports'
 alias -g firefox_css='cd /mnt/c/Users/iamsh/AppData/Roaming/Mozilla/Firefox/Profiles/j9x9tbvr.default-release/chrome'
 alias -g wt_settings='nvim /mnt/c/Users/iamsh/AppData/Local/Packages/Microsoft.WindowsTerminalPreview_8wekyb3d8bbwe/LocalState/settings.json'
 alias -g alacritty_settings='nvim /mnt/c/Users/iamsh/AppData/Roaming/alacritty/alacritty.yml'
@@ -39,7 +41,7 @@ alias -g vimrc='nvim ~/.config/nvim/init.vim'
 alias -g vim_plugins='nvim ~/.config/nvim/plugins.vim'
 alias -g vim_plugins_settings='nvim ~/.config/nvim/plugins-settings.vim'
 
-alias bash='bash --rcfile ~/.config/bash/.bashrc' 
+alias bash='bash --rcfile ~/.config/bash/.bashrc'
 # alias vim='vim -u <location>'
 
 alias -g tmux_settings='nvim ~/.config/tmux/tmux.conf'
@@ -48,6 +50,8 @@ alias -g cmd=cmd.exe
 alias -g powershell=powershell.exe
 alias -g pwsh=powershell.exe
 alias -g explorer=explorer.exe
+alias -g e=explorer.exe
+alias -g ee='explorer.exe .'
 alias -g py=python.exe
 alias -g python=python.exe
 alias -g pip=pip.exe
@@ -79,7 +83,7 @@ alias -g calc=calc.exe
 alias -g wp='wslpath -u'
 alias -g wv='wslview'
 
-alias -g kill_vscode=kill_vscode.bat    
+alias -g kill_vscode=kill_vscode.bat
 
 # tmux
 alias tmux='tmux -f ~/.config/tmux/tmux.conf'
