@@ -1,4 +1,3 @@
-" Add comments to (almost) all lines
 filetype on
 filetype indent on
 set nocompatible
@@ -52,7 +51,7 @@ set noerrorbells
 set tm=500
 set ttimeoutlen=50
 set title
-set confirm 
+set confirm
 set wrap
 set foldcolumn=1
 
@@ -99,9 +98,6 @@ nnoremap <C-H> <C-W><C-H>
 
 set ruler
 
-" highlight BadWhitespace ctermbg=red guibg=darkred
-" au BufRead,BufNewFile *.py,*.pyw,*.c,*.h match BadWhitespace /\s\+$/
-
 set backspace=indent,eol,start
 set whichwrap+=<,>,h,l
 
@@ -109,14 +105,6 @@ set encoding=utf-8
 
 vnoremap <silent> * :<C-u>call VisualSelection('', '')<CR>/<C-R>=@/<CR><CR>
 vnoremap <silent> # :<C-u>call VisualSelection('', '')<CR>?<C-R>=@/<CR><CR>
-
-" fun! CleanExtraSpaces()
-"     let save_cursor = getpos(".")
-"     let old_query = getreg('/')
-"     silent! %s/\s\+$//e
-"     call setpos('.', save_cursor)
-"     call setreg('/', old_query)
-" endfun
 
 " Disables automatic commenting on newline:
     autocmd FileType * setlocal formatoptions-=c formatoptions-=r formatoptions-=o
@@ -131,9 +119,9 @@ set laststatus=2
 "   \ 'coc-snippets',
 "   \ 'coc-pairs',
 "   " \ 'coc-tsserver',
-"   \ 'coc-eslint', 
-"   " \ 'coc-prettier', 
-"   \ 'coc-json', 
+"   \ 'coc-eslint',
+"   " \ 'coc-prettier',
+"   \ 'coc-json',
 "   \ 'coc-pyright',
 " ]
 " use an orange cursor in insert mode
@@ -146,3 +134,5 @@ set laststatus=2
   " use \003]12;gray\007 for gnome-terminal and rxvt up to version 9.21
   let &t_EI .= "\<Esc>[2 q"
 
+
+hi Search cterm=NONE ctermfg=grey ctermbg=blue

@@ -37,6 +37,7 @@ alias -g wt_settings='nvim /mnt/c/Users/iamsh/AppData/Local/Packages/Microsoft.W
 alias -g alacritty_settings='nvim /mnt/c/Users/iamsh/AppData/Roaming/alacritty/alacritty.yml'
 alias -g vimrc='nvim ~/.config/nvim/init.vim'
 alias -g vim_plugins='nvim ~/.config/nvim/plugins.vim'
+alias -g vim_plugins_settings='nvim ~/.config/nvim/plugins-settings.vim'
 
 alias bash='bash --rcfile ~/.config/bash/.bashrc' 
 # alias vim='vim -u <location>'

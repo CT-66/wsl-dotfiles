@@ -16,6 +16,7 @@ Plug 'preservim/nerdtree'
 Plug 'machakann/vim-highlightedyank'
 Plug 'sheerun/vim-polyglot'
 Plug 'Yggdroot/indentLine'
+Plug 'ntpeters/vim-better-whitespace'
 " Plug 'airblade/vim-gitgutter'
 Plug 'ryanoasis/vim-devicons' " Always last
 
