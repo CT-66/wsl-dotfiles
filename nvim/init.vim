@@ -14,8 +14,12 @@ let $NVIM_TUI_ENABLE_TRUE_COLOR=1
 set termguicolors
 " set mouse=a
 set clipboard=unnamedplus
+" show matching brackets/parenthesis
+set showmatch
 
 :so ~/.config/nvim/plugins.vim
+:so ~/.config/nvim/plugins-settings.vim
+
 
 function! RunPythonFile()
     :w
@@ -76,12 +80,6 @@ set shortmess=I
 set shortmess+=a
 set shortmess+=F
 
-nmap \ :NERDTreeToggle<CR>
-let NERDTreeShowHidden=1
-let g:highlightedyank_highlight_duration = 100
-highlight HighlightedyankRegion ctermbg=19
-" 19, 20, 24, 25, 55, 60, 104, 129
-
 set autoread
 au FocusGained,BufEnter * checktime
 
@@ -104,7 +102,7 @@ set ruler
 " highlight BadWhitespace ctermbg=red guibg=darkred
 " au BufRead,BufNewFile *.py,*.pyw,*.c,*.h match BadWhitespace /\s\+$/
 
-set backspace=eol,start,indent
+set backspace=indent,eol,start
 set whichwrap+=<,>,h,l
 
 set encoding=utf-8
@@ -123,9 +121,9 @@ vnoremap <silent> # :<C-u>call VisualSelection('', '')<CR>?<C-R>=@/<CR><CR>
 " Disables automatic commenting on newline:
     autocmd FileType * setlocal formatoptions-=c formatoptions-=r formatoptions-=o
 " Automatically deletes all trailing whitespace and newlines at end of file on save.
-    autocmd BufWritePre * %s/\s+$//e
-    autocmd BufWritePre * %s/\n+%$//e
-    autocmd BufWritePre *.[ch] %s/%$/\r/e
+    " autocmd BufWritePre * %s/\s+$//e
+    " autocmd BufWritePre * %s/\n+%$//e
+    " autocmd BufWritePre *.[ch] %s/%$/\r/e
 
 
 set laststatus=2
