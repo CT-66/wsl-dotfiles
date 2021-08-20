@@ -20,10 +20,10 @@ alias -g .4='cd ../../../../'
 alias -g .....='cd ../../../../../'
 alias -g .5='cd ../../../../../'
 
-alias -g ll='ls -lAFh'
-alias -g la='ls -Ah'
-alias -g l='ls -CFh'
-alias -g ls='ls -h'
+alias -g ll='ls -lAFh --color=always'
+alias -g la='ls -Ah --color=always'
+alias -g l='ls -CFh --color=always'
+alias -g ls='ls -h --color=always'
 
 alias -g ping='ping -c 5'
 

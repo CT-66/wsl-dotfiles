@@ -26,6 +26,7 @@ setopt SHARE_HISTORY
 . ~/.config/zsh/.zsh_plugins
 . ~/.config/zsh/.zsh_prompt
 . ~/.config/zsh/.zsh_functions
+. ~/.config/zsh/.zsh_exports
 
 bindkey -v
 
