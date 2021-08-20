@@ -13,7 +13,7 @@ filetype plugin indent on
 let $NVIM_TUI_ENABLE_TRUE_COLOR=1
 set termguicolors
 " set mouse=a
-" set clipboard=unnamed
+set clipboard=unnamedplus
 
 :so ~/.config/nvim/plugins.vim
 
