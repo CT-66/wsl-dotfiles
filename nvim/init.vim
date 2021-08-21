@@ -139,3 +139,7 @@ hi Search cterm=NONE ctermfg=grey ctermbg=blue
 
 autocmd InsertEnter * :set norelativenumber
 autocmd InsertLeave * :set relativenumber
+
+" clear highlighted results after a search
+nnoremap <esc> :noh<return><esc>
+nnoremap <esc>^[ <esc>^[

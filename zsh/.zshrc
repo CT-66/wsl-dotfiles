@@ -45,16 +45,16 @@ echo -ne '\e[5 q' # Use beam shape cursor on startup.
 preexec() { echo -ne '\e[5 q' ;} # Use beam shape cursor for each new prompt.
 
 
-if [ -f "~/.sudo_as_admin_successful" ]; then
-    rm "~/.sudo_as_admin_successful"
+if [ -f ".sudo_as_admin_successful" ]; then
+    rm ".sudo_as_admin_successful"
 fi
 
-if [ -f "~/.viminfo" ]; then
-    rm "~/.viminfo"
+if [ -f ".viminfo" ]; then
+    rm ".viminfo"
 fi
 
-if [ -f "~/.bash_history" ]; then
-    rm "~/.bash_history"
+if [ -f ".bash_history" ]; then
+    rm ".bash_history"
 fi
 
 # Use lf (or ranger) to switch directories and bind it to ctrl-o
@@ -68,6 +68,26 @@ lfcd () {
     fi
 }
 bindkey -s '^o' 'lfcd\n'
+
+extract () {
+    if [ -f $1 ] ; then
+        case $1 in
+            *.tar.bz2)  tar xjf $1      ;;
+            *.tar.gz)   tar xzf $1      ;;
+            *.bz2)      bunzip2 $1      ;;
+            *.rar)      rar x $1        ;;
+            *.gz)       gunzip $1       ;;
+            *.tar)      tar xf $1       ;;
+            *.tbz2)     tar xjf $1      ;;
+            *.tgz)      tar xzf $1      ;;
+            *.zip)      unzip $1        ;;
+            *.Z)        uncompress $1   ;;
+            *)          echo "'$1' cannot be extracted via extract()" ;;
+        esac
+    else
+        echo "'$1' is not a valid file"
+    fi
+}
 
 
 cat ~/.config/zsh/.remindme.md
