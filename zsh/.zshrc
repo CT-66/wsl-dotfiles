@@ -1,6 +1,6 @@
 autoload -U compinit
 compinit -d ~/.cache/zsh/zsh_compinit_dumpfiles
-# zstyle ':completion:*' matcher-list 'm:{a-z}={A-Za-z}' # case insensitive tab completion
+zstyle ':completion:*' matcher-list 'm:{a-z}={A-Za-z}' # case insensitive tab completion
 zstyle ':completion:*' menu select 'm:{a-z}={A-Za-z}' # case insensitive tab completion
 unsetopt BEEP
 setopt NO_CASE_GLOB # Set case insensitive globbing
@@ -32,6 +32,10 @@ setopt SHARE_HISTORY
 
 # vim mode
 bindkey -v
+bindkey "^A" vi-beginning-of-line
+bindkey "^K" kill-line
+bindkey "^E" end-of-line
+
 
 # Change cursor shape for different vi modes.
 function zle-keymap-select () {

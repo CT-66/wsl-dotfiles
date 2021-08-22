@@ -1,5 +1,5 @@
 {
-   "checksum": "7f9cb24c7d8d4bee624e612d8782d4ad",
+   "checksum": "0ea61103a3e7d38c75479364a532eb95",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1703,9 +1703,16 @@
                      "name": "benbusby/whoogle-search: A self-hosted, ad-free, privacy-respecting metasearch engine",
                      "type": "url",
                      "url": "https://github.com/benbusby/whoogle-search"
+                  }, {
+                     "date_added": "13274076321468437",
+                     "guid": "3a27fffc-c882-46e2-8626-c19c7824ffbb",
+                     "id": "850",
+                     "name": "qutebrowser | qutebrowser",
+                     "type": "url",
+                     "url": "https://qutebrowser.org/"
                   } ],
                   "date_added": "13273873471231201",
-                  "date_modified": "13273875415951805",
+                  "date_modified": "13274076321468437",
                   "guid": "862ede73-df33-4df1-89cd-803d50a3c255",
                   "id": "843",
                   "name": "Software",
