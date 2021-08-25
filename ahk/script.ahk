@@ -88,17 +88,17 @@ return
 
 
 
-^#z::
-^#Left
-return
+; ^#z::
+; ^#Left
+; return
 
-^#c::
-^#Right
-return
+; ^#c::
+; ^#Right
+; return
 
-^#x::
-^#Right
-return
+; ^#x::
+; ^#Right
+; return
 
 !NumpadAdd:: Send {Volume_Up}
 !NumpadSub:: Send {Volume_Down}
