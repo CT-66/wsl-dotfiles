@@ -90,8 +90,8 @@ map <leader>/ gcc
 map <leader>a ggVG
 nmap <leader>b :call RunPythonFile()<CR>
 
-nmap j gj<CR>
-nmap k gk<CR>
+nnoremap j gj
+nnoremap k gk
 "split navigations
 nnoremap <C-J> <C-W><C-J>
 nnoremap <C-K> <C-W><C-K>
