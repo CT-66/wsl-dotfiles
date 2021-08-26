@@ -29,18 +29,6 @@ endfunction
 " colorscheme onedark
 colorscheme one
 
-let g:nord_bold = 1
-" visual mode selection color
-autocmd ColorScheme * highlight Visual ctermbg=55
-
-" good visual selections as of now-19, 20, 24, 25, 55, 60, 104, 129
-
-augroup nord-theme-overrides
-  autocmd!
-  " comment colors
-   autocmd ColorScheme nord highlight Comment ctermfg=245
-augroup END
-
 inoremap <expr><TAB>  pumvisible() ? "\<C-n>" : "\<TAB>"
 
 
@@ -90,8 +78,12 @@ map <leader>/ gcc
 map <leader>a ggVG
 nmap <leader>b :call RunPythonFile()<CR>
 
-nnoremap j gj
-nnoremap k gk
+" nnoremap j gj
+" nnoremap k gk
+
+" nnoremap <Up> gk
+" nnoremap <Down> gj
+
 "split navigations
 nnoremap <C-J> <C-W><C-J>
 nnoremap <C-K> <C-W><C-K>
