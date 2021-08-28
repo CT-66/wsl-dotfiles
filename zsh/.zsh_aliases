@@ -56,6 +56,7 @@ alias -g ee='explorer.exe .'
 alias -g py=python.exe
 alias -g python=python.exe
 alias -g pip=pip.exe
+# alias -g pip=pip3
 alias -g audacity=audacity.exe
 alias -g mechvibes=mechvibes.exe
 alias -g subl=subl.exe
