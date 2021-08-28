@@ -1,6 +1,6 @@
 autoload -U compinit
 compinit -d ~/.cache/zsh/zsh_compinit_dumpfiles
-_comp_options+=(globdots)		# Include hidden files.
+_comp_options+=(globdots)		# Autocomplete dotfiles
 zstyle ':completion:*' matcher-list 'm:{a-z}={A-Za-z}' # case insensitive tab completion
 zstyle ':completion:*' menu select 'm:{a-z}={A-Za-z}' # case insensitive tab completion
 unsetopt BEEP
@@ -47,6 +47,7 @@ bindkey -M menuselect 'up' vi-up-line-or-history
 bindkey -M menuselect 'right' vi-forward-char
 # Fix backspace bug when switching modes
 bindkey "^?" backward-delete-char
+bindkey '^R' history-incremental-search-backward
 
 # Change cursor shape for different vi modes.
 function zle-keymap-select {
@@ -89,6 +90,14 @@ zle -N zle-line-init
 echo -ne '\e[5 q' # Use beam shape cursor on startup.
 precmd() { echo -ne '\e[5 q' ;} # Use beam shape cursor for each new prompt.
 
+# Yank to the system clipboard
+function vi-yank-custom {
+    zle vi-yank
+   echo "$CUTBUFFER" | win32yank.exe -i
+}
+
+zle -N vi-yank-custom
+bindkey -M vicmd 'y' vi-yank-custom
 
 if [ -f ".sudo_as_admin_successful" ]; then
     rm ".sudo_as_admin_successful"

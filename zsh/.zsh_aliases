@@ -84,6 +84,7 @@ alias -g calc=calc.exe
 
 alias -g wp='wslpath -u'
 alias -g wv='wslview'
+alias -g win32yank='win32yank -i'
 
 alias -g kill_vscode=kill_vscode.bat
 
