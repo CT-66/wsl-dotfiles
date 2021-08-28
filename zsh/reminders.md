@@ -1,0 +1,21 @@
+- [REMINDER] lsd alias
+- [REMINDER] add multiple items to remindme
+
+- [REMINDER] Discord stuff
+- [REMINDER] blog website
+- [REMINDER] google doodles remove , custom css loader, remove languages signin, bottom bar, etc
+- [REMINDER] lsd slow
+- [REMINDER] make all vscode instances and sublime text instances as tmux -f /home/username/.config/tmux/tmux.conf sessions
+- [REMINDER] spacevim (only for vim not nvim)
+- [REMINDER] rtv
+- [REMINDER] vscode nvim
+- https://goyalankit.com/blog/compile-and-run-cpp-program-from-vim
+- https://github.com/deoplete-plugins/deoplete-clang
+- https://www.reddit.com/r/neovim/comments/4fjd7m/deoplete_for_c/
+- [REMINDER] https://www.bugsnag.com/blog/tmux-and-vim
+- [REMINDER] nvim prettier
+- [REMINDER] ctrl+win+f2 -> rename
+- [REMINDER] add virtual cd /mnt/c/users/iamsh/desktop ahk script in /mnt/g/shyam/program files/ahk/scripts ; add to startup ; add to git dir ; update shell script
+- [REMINDER] ctrl+win+c,z in that script
+- [REMINDER] customize airline (remove bloat) (remove trailing whitespace, 95% in ....utf-8 ), word count \\ only have name of mode, file name, file extension
+- [REMINDER] separate file for nvim keybindings

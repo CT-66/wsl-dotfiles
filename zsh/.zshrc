@@ -24,12 +24,12 @@ setopt SHARE_HISTORY
 # DISABLE_AUTO_UPDATE="true"
 # ENABLE_CORRECTION="true"
 
-. ~/.config/zsh/.zsh_aliases
-. ~/.config/zsh/.zsh_variables
-. ~/.config/zsh/.zsh_plugins
-. ~/.config/zsh/.zsh_prompt
-. ~/.config/zsh/.zsh_functions
-. ~/.config/zsh/.zsh_exports
+. ~/.config/zsh/.aliases
+. ~/.config/zsh/.variables
+. ~/.config/zsh/.plugins
+. ~/.config/zsh/.prompt
+. ~/.config/zsh/.functions
+. ~/.config/zsh/.exports
 
 # vim mode
 bindkey -v
@@ -146,4 +146,4 @@ extract () {
 }
 
 
-cat ~/.config/zsh/.remindme.md
+# cat ~/.config/zsh/.remindme.md
