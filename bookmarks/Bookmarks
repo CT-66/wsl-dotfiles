@@ -1,5 +1,5 @@
 {
-   "checksum": "7fa748dd6b025b3ee03528ca251185f7",
+   "checksum": "384100dc9aec88042476d1e91ca48b7c",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -632,9 +632,128 @@
                   "name": "Vim - YouTube",
                   "type": "url",
                   "url": "https://www.youtube.com/playlist?list=PLz8l62B_3hyQqr2Fkb3-S9IS2FFZqPa14"
+               }, {
+                  "date_added": "13274646176354287",
+                  "guid": "4164c161-a4e5-4697-b97a-759d7c5469cb",
+                  "id": "856",
+                  "name": "Vim: Seven habits of effective text editing",
+                  "type": "url",
+                  "url": "https://moolenaar.net/habits.html"
+               }, {
+                  "date_added": "13274646212338440",
+                  "guid": "dae5f370-1846-4b15-96e2-5c7ec8a40c05",
+                  "id": "857",
+                  "name": "Vim Cookbook",
+                  "type": "url",
+                  "url": "http://www.oualline.com/vim-cook.html"
+               }, {
+                  "date_added": "13274646274647902",
+                  "guid": "886c0100-f10b-4c0a-b18b-07676563797d",
+                  "id": "858",
+                  "name": "Best of VIM Tips, gVIM's Key Features zzapper",
+                  "type": "url",
+                  "url": "http://rayninfo.co.uk/vimtips.html"
+               }, {
+                  "date_added": "13274646300161484",
+                  "guid": "a2d67526-2c63-4c5b-bdea-861d82b6b672",
+                  "id": "859",
+                  "name": "A guide to setting up Vim for JavaScript development",
+                  "type": "url",
+                  "url": "https://freshman.tech/vim-javascript/"
+               }, {
+                  "date_added": "13274646309247786",
+                  "guid": "ca6c36ef-185f-4f9d-b191-6c5e563ddf9d",
+                  "id": "860",
+                  "name": "Using Vim as your main editor for web development - DEV Community",
+                  "type": "url",
+                  "url": "https://dev.to/fidelve/using-vim-as-your-main-editor-for-web-development-5a73"
+               }, {
+                  "date_added": "13274646330760240",
+                  "guid": "34c98986-1cbe-4ef0-8516-ebf08830e299",
+                  "id": "861",
+                  "name": "Vim setup for Web Development - Php, JavaScript, (S)CSS, JXS, WordPress, Python | Mario Yepes Personal Blog",
+                  "type": "url",
+                  "url": "https://marioyepes.com/vim-setup-for-modern-web-development/"
+               }, {
+                  "date_added": "13274646341917036",
+                  "guid": "caa95043-48b3-49b8-85c5-245568e37801",
+                  "id": "862",
+                  "name": "How To Use VIM for Frontend Development: 2020 Edition | Hacker Noon",
+                  "type": "url",
+                  "url": "https://hackernoon.com/how-to-use-vim-for-frontend-development-2020-edition-dac83yyh"
+               }, {
+                  "date_added": "13274646356286144",
+                  "guid": "fb7e9e05-30ef-4d1d-adf6-98b38688a0a3",
+                  "id": "863",
+                  "name": "Web Development Using Vim Text Editor | by Naz Islam | Medium",
+                  "type": "url",
+                  "url": "https://medium.com/@naz_islam/web-development-using-vim-text-editor-43b979b74190"
+               }, {
+                  "date_added": "13274646368768925",
+                  "guid": "869fd6c8-2d38-4ba3-84ab-fb3a739d9bfb",
+                  "id": "864",
+                  "name": "5 vim plugins for web development",
+                  "type": "url",
+                  "url": "https://linuxhint.com/best-web-development-vim-plugins/"
+               }, {
+                  "date_added": "13274646378060454",
+                  "guid": "fc5444bb-1fa9-4bb0-a6e3-6314622bc714",
+                  "id": "865",
+                  "name": "Setting Up Neovim for Web Development in 2020 | by Dominik Tarnowski | Better Programming",
+                  "type": "url",
+                  "url": "https://betterprogramming.pub/setting-up-neovim-for-web-development-in-2020-d800de3efacd?gi=9f9283c70f5c"
+               }, {
+                  "date_added": "13274646405939171",
+                  "guid": "b4b0c4e1-0675-4d89-aec7-29853efdf4a7",
+                  "id": "866",
+                  "name": "5 useful Vim plugins for developers | Opensource.com",
+                  "type": "url",
+                  "url": "https://opensource.com/article/19/1/vim-plugins-developers"
+               }, {
+                  "date_added": "13274646417005708",
+                  "guid": "bab6773a-8caa-47ef-b67a-779bd374532a",
+                  "id": "867",
+                  "name": "A guide to modern Web Development with (Neo)vim – Full-Stack Feed",
+                  "type": "url",
+                  "url": "https://fullstackfeed.com/a-guide-to-modern-web-development-with-neovim/"
+               }, {
+                  "date_added": "13274646456640760",
+                  "guid": "6b635c31-fa4e-4453-8482-22ed1e18ec8c",
+                  "id": "868",
+                  "name": "terryma/vim-multiple-cursors: True Sublime Text style multiple selections for Vim",
+                  "type": "url",
+                  "url": "https://github.com/terryma/vim-multiple-cursors"
+               }, {
+                  "date_added": "13274646470840314",
+                  "guid": "fe533d83-a4d7-43c7-a1ed-27e92e156fae",
+                  "id": "869",
+                  "name": "mattn/emmet-vim: emmet for vim: http://emmet.io/",
+                  "type": "url",
+                  "url": "https://github.com/mattn/emmet-vim"
+               }, {
+                  "date_added": "13274646523658135",
+                  "guid": "cde5d1d9-5143-4087-b283-2b58b385f5e5",
+                  "id": "870",
+                  "name": "HTML AutoCloseTag - Automatically closes HTML tags once you finish typing them. : vim online",
+                  "type": "url",
+                  "url": "https://www.vim.org/scripts/script.php?script_id=2591"
+               }, {
+                  "date_added": "13274646548050305",
+                  "guid": "70d8a53f-72f1-45e5-aa82-27f3301f6366",
+                  "id": "871",
+                  "name": "terryma/vim-smooth-scroll: Make scrolling in Vim more pleasant",
+                  "type": "url",
+                  "url": "https://github.com/terryma/vim-smooth-scroll"
+               }, {
+                  "date_added": "13274649858089742",
+                  "guid": "ee155939-0504-4875-ba40-26db5992cd1c",
+                  "id": "890",
+                  "name": "My Neovim Configuration - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?app=desktop&v=0YoNrTQCrHg"
                } ],
                "date_added": "13256278401239909",
-               "date_modified": "13270062629800224",
+               "date_modified": "13274649863889689",
                "guid": "21b054ff-d6f3-4a1b-b857-b0d86844aec0",
                "id": "73",
                "name": "Vim",
@@ -1582,9 +1701,65 @@
                   "name": "Build Your Own First-Person Shooter in Unity — Wireframe Magazine",
                   "type": "url",
                   "url": "https://wireframe.raspberrypi.org/books/unity-fps"
+               }, {
+                  "date_added": "13274646857467920",
+                  "guid": "63a80233-421b-4437-bc5d-0caab159c6cb",
+                  "id": "872",
+                  "name": "Learn the CSS Box-Shadow Property by Coding a Beautiful Button ✨",
+                  "type": "url",
+                  "url": "https://www.freecodecamp.org/news/css-box-shadow-property-with-examples/"
+               }, {
+                  "date_added": "13274648787083755",
+                  "guid": "b65feeb0-70a2-43a8-8c14-6cf9840c9ecb",
+                  "id": "873",
+                  "name": "Would You React ? - Build a Video App - DEV Community",
+                  "type": "url",
+                  "url": "https://dev.to/jaskaran/fundamentals-of-react-build-a-video-app-24j8"
+               }, {
+                  "date_added": "13274649006004287",
+                  "guid": "dcd2ddb6-9421-46b8-bff4-e7640ed0c7c4",
+                  "id": "881",
+                  "name": "Why I switched from normal CSS to Tailwind CSS - DEV Community",
+                  "type": "url",
+                  "url": "https://dev.to/berack/why-i-switched-from-normal-css-to-tailwind-css-2li6"
+               }, {
+                  "date_added": "13274649098870958",
+                  "guid": "23544057-74b8-4936-8f97-553ad55f02e5",
+                  "id": "882",
+                  "name": "10 GitHub repositories to become a better JavaScript Developer - DEV Community",
+                  "type": "url",
+                  "url": "https://dev.to/pb/10-github-repositories-which-will-help-you-to-become-a-better-javascript-developer-5om"
+               }, {
+                  "date_added": "13274649108280185",
+                  "guid": "1f76e7ca-2808-4088-a3d7-d56329a47902",
+                  "id": "883",
+                  "name": "5 Visual Studio Code Hacks That You Will Thank Me For (And They're Not Common Points Like \"Install Prettier Extension\") - DEV Community",
+                  "type": "url",
+                  "url": "https://dev.to/ishakmohmed/5-visual-studio-code-hacks-that-you-will-thank-me-for-and-they-re-not-common-points-like-install-prettier-extension-16oa"
+               }, {
+                  "date_added": "13274649118284569",
+                  "guid": "abf7c2f8-be3c-4988-b1db-f0fb184c5649",
+                  "id": "884",
+                  "name": "How to Get a Pixel-Perfect, Linearly Scaled UI | CSS-Tricks",
+                  "type": "url",
+                  "url": "https://css-tricks.com/how-to-get-a-pixel-perfect-linearly-scaled-ui/"
+               }, {
+                  "date_added": "13274649209473737",
+                  "guid": "30f87e1b-feb4-484c-a30a-20d6a302b133",
+                  "id": "885",
+                  "name": "Simple Countdown Timer using JavaScript - DEV Community",
+                  "type": "url",
+                  "url": "https://dev.to/code_mystery/simple-countdown-timer-using-javascript-1jab"
+               }, {
+                  "date_added": "13274649218235913",
+                  "guid": "86ed830a-2db6-4a68-8fff-212c7d9ddd13",
+                  "id": "886",
+                  "name": "How to create a custom Toggle Switch using CSS - DEV Community",
+                  "type": "url",
+                  "url": "https://dev.to/karankmr/how-to-create-a-custom-toggle-switch-using-css-4pmi"
                } ],
                "date_added": "13259164410255224",
-               "date_modified": "13273873675521690",
+               "date_modified": "13274649225103375",
                "guid": "b72072dc-3c13-44a8-bd4a-ef8cb1a43e6e",
                "id": "175",
                "name": "Programming",
@@ -1710,9 +1885,37 @@
                      "name": "qutebrowser | qutebrowser",
                      "type": "url",
                      "url": "https://qutebrowser.org/"
+                  }, {
+                     "date_added": "13274645719672211",
+                     "guid": "e0608554-2ed7-487a-820c-007bc9cb105c",
+                     "id": "853",
+                     "name": "polybar/polybar: A fast and easy-to-use status bar",
+                     "type": "url",
+                     "url": "https://github.com/polybar/polybar"
+                  }, {
+                     "date_added": "13274648793460500",
+                     "guid": "bb6c87ff-97d5-4fc8-b21a-aa23b6ec3e73",
+                     "id": "874",
+                     "name": "dunst-project/dunst: Lightweight and customizable notification daemon",
+                     "type": "url",
+                     "url": "https://github.com/dunst-project/dunst"
+                  }, {
+                     "date_added": "13274648815949412",
+                     "guid": "764518db-d53d-4f88-929a-db8c56fad3f3",
+                     "id": "875",
+                     "name": "polybar/polybar-scripts: This is a community project. We write and collect scripts for polybar!",
+                     "type": "url",
+                     "url": "https://github.com/polybar/polybar-scripts"
+                  }, {
+                     "date_added": "13274648830549156",
+                     "guid": "3613ec20-d813-480c-8259-40bbc2f0e011",
+                     "id": "876",
+                     "name": "TiagoDanin/Awesome-Polybar: Curated list of Polybar",
+                     "type": "url",
+                     "url": "https://github.com/TiagoDanin/Awesome-Polybar"
                   } ],
                   "date_added": "13273873471231201",
-                  "date_modified": "13274121477013778",
+                  "date_modified": "13274648895384884",
                   "guid": "862ede73-df33-4df1-89cd-803d50a3c255",
                   "id": "843",
                   "name": "Software",
@@ -1739,9 +1942,44 @@
                      "name": "The Best Linux Lockscreen",
                      "type": "url",
                      "url": "https://www.devpy.me/the-best-linux-lockscreen/"
+                  }, {
+                     "date_added": "13274645747658628",
+                     "guid": "5e6a210a-34ac-4cf2-a5b1-3fa74bdc2785",
+                     "id": "854",
+                     "name": "https://www.reddit.com/r/unixporn/comments/7onr9b/oc_the_best_linux_lockscreen/",
+                     "type": "url",
+                     "url": "https://www.reddit.com/r/unixporn/comments/7onr9b/oc_the_best_linux_lockscreen/"
+                  }, {
+                     "date_added": "13274646015378959",
+                     "guid": "2708e6db-e5e1-493d-b2c1-aa11d84c863b",
+                     "id": "855",
+                     "name": "[KDE Plasma] Do you need so more blur? : unixporn",
+                     "type": "url",
+                     "url": "https://www.reddit.com/r/unixporn/comments/9un99u/kde_plasma_do_you_need_so_more_blur/"
+                  }, {
+                     "date_added": "13274648919775197",
+                     "guid": "6a6e92d6-2f6b-454c-ba9e-aa6125b574be",
+                     "id": "878",
+                     "name": "How to customize linux? (as a noob) : linuxmasterrace",
+                     "type": "url",
+                     "url": "https://www.reddit.com/r/linuxmasterrace/comments/411keg/comment/cyywf9u"
+                  }, {
+                     "date_added": "13274648936652155",
+                     "guid": "5355b98a-563b-4921-954b-d72bad3e2a53",
+                     "id": "879",
+                     "name": "[KDE Plasma] Blur gif pixel art wallpaper look really great ! : unixporn",
+                     "type": "url",
+                     "url": "https://www.reddit.com/r/unixporn/comments/9sd5uy/kde_plasma_blur_gif_pixel_art_wallpaper_look/"
+                  }, {
+                     "date_added": "13274648946965489",
+                     "guid": "268b8f84-8347-4819-8f3c-664602e5069c",
+                     "id": "880",
+                     "name": "[Awesome] Mechanical Love : unixporn",
+                     "type": "url",
+                     "url": "https://www.reddit.com/r/unixporn/comments/a900p7/awesome_mechanical_love/"
                   } ],
                   "date_added": "13273873815388362",
-                  "date_modified": "13273873854815426",
+                  "date_modified": "13274649006004287",
                   "guid": "3dc6fb42-5196-4d30-be34-91d41dcc09fb",
                   "id": "844",
                   "name": "Ricing",
@@ -1754,9 +1992,16 @@
                      "name": "akshat46/dotfiles",
                      "type": "url",
                      "url": "https://github.com/akshat46/dotfiles/"
+                  }, {
+                     "date_added": "13274649225103375",
+                     "guid": "ca3febcf-c05f-42f8-b49d-6379cf54d833",
+                     "id": "887",
+                     "name": "akshat46/dotfiles",
+                     "type": "url",
+                     "url": "https://github.com/akshat46/dotfiles"
                   } ],
                   "date_added": "13273873972730777",
-                  "date_modified": "13273875412198734",
+                  "date_modified": "13274649761614103",
                   "guid": "ba388084-6d0e-4614-a9f6-e2cf9072e2c2",
                   "id": "845",
                   "name": "Dotfiles",
@@ -1796,9 +2041,30 @@
                   "name": "(23) Linux - YouTube",
                   "type": "url",
                   "url": "https://www.youtube.com/playlist?list=PLz8l62B_3hySsP_ZvLUS7WLyqF4-vTm8m"
+               }, {
+                  "date_added": "13274648895384884",
+                  "guid": "baf28eac-bf06-455f-b261-1cf1080abb8d",
+                  "id": "877",
+                  "name": "Make Linux faster, lighter and more powerful | TechRadar",
+                  "type": "url",
+                  "url": "https://www.techradar.com/news/computing/pc/make-linux-faster-lighter-and-more-powerful-641317"
+               }, {
+                  "date_added": "13274649761614103",
+                  "guid": "161f337a-a4c9-4be9-9a07-beeeceac9650",
+                  "id": "888",
+                  "name": "Use the Terminal like a Desktop - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?app=desktop&v=bBHVlqCK96w"
+               }, {
+                  "date_added": "13274649779297264",
+                  "guid": "2abfb0d3-3574-4d4a-aa5a-ce3d9b208827",
+                  "id": "889",
+                  "name": "Perfect Plasma Setup - From Basic to Brilliant - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?app=desktop&v=34F_038G5pU"
                } ],
                "date_added": "13261835893988182",
-               "date_modified": "13273873974576535",
+               "date_modified": "13274649858089742",
                "guid": "f9355904-beea-4532-9925-65f81afbc515",
                "id": "353",
                "name": "Linux",
@@ -2720,7 +2986,7 @@
             "url": "https://www.google.com/search?q=tmux+vi+copy+paste&iflsig=AINFCbYAAAAAYSHKRofxU3AjpaeZIi5w29b2BIX6zP5T"
          } ],
          "date_added": "13253039366923366",
-         "date_modified": "13274121488892905",
+         "date_modified": "13274645719672211",
          "guid": "00000000-0000-4000-a000-000000000002",
          "id": "1",
          "name": "Bookmarks",

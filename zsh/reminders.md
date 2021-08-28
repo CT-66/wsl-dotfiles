@@ -19,3 +19,5 @@
 - [REMINDER] ctrl+win+c,z in that script
 - [REMINDER] customize airline (remove bloat) (remove trailing whitespace, 95% in ....utf-8 ), word count \\ only have name of mode, file name, file extension
 - [REMINDER] separate file for nvim keybindings
+- https://github.com/vim-syntastic/syntastic
+
