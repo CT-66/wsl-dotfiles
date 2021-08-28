@@ -48,6 +48,8 @@ bindkey -M menuselect 'right' vi-forward-char
 # Fix backspace bug when switching modes
 bindkey "^?" backward-delete-char
 bindkey '^R' history-incremental-search-backward
+bindkey -M vicmd 'g' vi-beginning-of-line
+bindkey -M vicmd 'G' end-of-line
 
 # Change cursor shape for different vi modes.
 function zle-keymap-select {
