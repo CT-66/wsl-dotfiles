@@ -9,8 +9,10 @@
     "python.languageServer": "Microsoft",
     "python.analysis.diagnosticPublishDelay": 999,
     // "editor.fontFamily": "Source Code Pro",
-    // "editor.fontFamily": "Fira Code",
-    "editor.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
+    // "editor.fontFamily": "FiraCode NF",
+    // "editor.fontFamily": "CaskaydiaCove NF",
+    "editor.fontFamily": "Cascadia Code PL",
+    // "editor.fontFamily": "JetBrains Mono",
     "editor.fontSize": 14,
     "editor.fontLigatures": true,
     "editor.smoothScrolling": true,
@@ -22,40 +24,40 @@
     "editor.snippetSuggestions": "top",
     "files.trimTrailingWhitespace": true,
     // "editor.renderWhitespace": "all",
-    "workbench.colorCustomizations": {
-        "terminal.background": "#2e3440",
-        "terminal.foreground": "#d8dee9",
-        "terminal.ansiBlack": "#3b4252",
-        "terminal.ansiRed": "#bf616a",
-        "terminal.ansiGreen": "#a3be8c",
-        "terminal.ansiYellow": "#ebcb8b",
-        "terminal.ansiBlue": "#81a1c1",
-        "terminal.ansiMagenta": "#b48ead",
-        "terminal.ansiCyan": "#88c0d0",
-        "terminal.ansiWhite": "#e5e9f0",
-        "terminal.ansiBrightBlack": "#4c566a",
-        "terminal.ansiBrightRed": "#bf616a",
-        "terminal.ansiBrightGreen": "#a3be8c",
-        "terminal.ansiBrightYellow": "#ebcb8b",
-        "terminal.ansiBrightBlue": "#81a1c1",
-        "terminal.ansiBrightMagenta": "#b48ead",
-        "terminal.ansiBrightCyan": "#8fbcbb",
-        "terminal.ansiBrightWhite": "#eceff4",
-        /*
-        "[Night Owl (No Italics)]": {
-            "activityBar.background": "#000C1D",
-            "activityBar.border": "#102a44",
-            "sideBar.background": "#001122",
-            "sideBar.border": "#102a44",
-            "sideBar.foreground": "#8BADC1"
-        },
-        */
-        // "editorCursor.foreground": "#7EC2CF",
-        // "terminalCursor.foreground": "#7EC2CF"
-        // "statusBar.background": "#005f5f",
-        // "statusBar.noFolderBackground": "#005f5f",
-        // "statusBar.debuggingBackground": "#005f5f"
-    },
+    // "workbench.colorCustomizations": {
+    //     "terminal.background": "#2e3440",
+    //     "terminal.foreground": "#d8dee9",
+    //     "terminal.ansiBlack": "#3b4252",
+    //     "terminal.ansiRed": "#bf616a",
+    //     "terminal.ansiGreen": "#a3be8c",
+    //     "terminal.ansiYellow": "#ebcb8b",
+    //     "terminal.ansiBlue": "#81a1c1",
+    //     "terminal.ansiMagenta": "#b48ead",
+    //     "terminal.ansiCyan": "#88c0d0",
+    //     "terminal.ansiWhite": "#e5e9f0",
+    //     "terminal.ansiBrightBlack": "#4c566a",
+    //     "terminal.ansiBrightRed": "#bf616a",
+    //     "terminal.ansiBrightGreen": "#a3be8c",
+    //     "terminal.ansiBrightYellow": "#ebcb8b",
+    //     "terminal.ansiBrightBlue": "#81a1c1",
+    //     "terminal.ansiBrightMagenta": "#b48ead",
+    //     "terminal.ansiBrightCyan": "#8fbcbb",
+    //     "terminal.ansiBrightWhite": "#eceff4",
+    //     /*
+    //     "[Night Owl (No Italics)]": {
+    //         "activityBar.background": "#000C1D",
+    //         "activityBar.border": "#102a44",
+    //         "sideBar.background": "#001122",
+    //         "sideBar.border": "#102a44",
+    //         "sideBar.foreground": "#8BADC1"
+    //     },
+    //     */
+    //     // "editorCursor.foreground": "#7EC2CF",
+    //     // "terminalCursor.foreground": "#7EC2CF"
+    //     // "statusBar.background": "#005f5f",
+    //     // "statusBar.noFolderBackground": "#005f5f",
+    //     // "statusBar.debuggingBackground": "#005f5f"
+    // },
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
     "workbench.editor.highlightModifiedTabs": true,
@@ -166,14 +168,19 @@
     "oneDarkPro.italic": false,
     "oneDarkPro.bold": true,
     "oneDarkPro.editorTheme": "oneDarkPro",
-    "terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)",
+    // "terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)",
     "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
+    "terminal.integrated.cwd": "C:\\Users\\iamsh\\AppData\\Local\\Packages\\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\\LocalState\\rootfs\\home\\username\\",
+    // Vim
     "vim.highlightedyank.enable": true,
     "vim.leader": " ",
     "vim.mouseSelectionGoesIntoVisualMode": false,
     "vim.searchHighlightTextColor": "#FFFF00\t",
-    // "vim.showmodename": false,
+    "vim.showmodename": false,
     "vim.useSystemClipboard": true,
+    // "vim.useCtrlKeys": true
+    "vim.vimrc.enable": true,
+    "vim.vimrc.path": "C:\\Users\\iamsh\\AppData\\Local\\Packages\\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\\LocalState\\rootfs\\home\\username\\.config\\nvim\\init.vim",
     "files.associations": {
         "*.json": "jsonc"
     },
@@ -195,10 +202,16 @@
     "security.workspace.trust.untrustedFiles": "open",
     "terminal.integrated.tabs.enabled": false,
     "material-icon-theme.hidesExplorerArrows": true,
+    "update.mode": "none",
     "workbench.editorAssociations": {
         "*.ipynb": "jupyter-notebook"
-    }
+    },
     // "window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}${appName}",
+    // Neovim
+    "vscode-neovim.useWSL": true,
+    "vscode-neovim.neovimExecutablePaths.linux": "/bin/nvim",
+    "editor.scrollBeyondLastLine": false,
+    "editor.lineNumbers": "relative"
 }
 /*
     "[javascript]": {
@@ -217,8 +230,3 @@
         }
     }
     */
-// {
-// "vim.useSystemClipboard": true,
-// // "vim.useCtrlKeys": true
-// "vim.vimrc.enable": true,
-// }
