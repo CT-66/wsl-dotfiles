@@ -78,6 +78,8 @@ map <leader>/ gcc
 map <leader>a ggVG
 nmap <leader>b :call RunPythonFile()<CR>
 
+nnoremap <Bs> x
+
 " nnoremap j gj
 " nnoremap k gk
 

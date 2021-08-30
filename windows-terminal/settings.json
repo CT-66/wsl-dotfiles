@@ -6,10 +6,6 @@
             "command": "unbound"
         },
         {
-            "command": "find",
-            "keys": "ctrl+f"
-        },
-        {
             "command":
             {
                 "action": "newTab"
