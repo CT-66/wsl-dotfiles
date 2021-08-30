@@ -11,7 +11,7 @@ set updatetime=300
 filetype plugin indent on
 let $NVIM_TUI_ENABLE_TRUE_COLOR=1
 set termguicolors
-" set mouse=a
+set mouse=a
 set clipboard=unnamedplus
 " show matching brackets/parenthesis
 set showmatch
