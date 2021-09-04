@@ -113,6 +113,10 @@ if [ -f ".bash_history" ]; then
     rm ".bash_history"
 fi
 
+if [ -f ".node_repl_history" ]; then
+    rm ".node_repl_history"
+fi
+
 # Use lf (or ranger) to switch directories and bind it to ctrl-o
 lfcd () {
     tmp="$(mktemp)"
@@ -147,3 +151,4 @@ extract () {
 
 
 # cat ~/.config/zsh/.remindme.md
+echo wslview slow

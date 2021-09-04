@@ -89,6 +89,10 @@ alias -g win32yank='win32yank -i'
 
 alias -g kill_vscode=kill_vscode.bat
 
+alias -g ytdl='/usr/bin/python3 /usr/local/bin/youtube-dl'
+alias -g yt-dl='/usr/bin/python3 /usr/local/bin/youtube-dl'
+alias -g youtube-dl='/usr/bin/python3 /usr/local/bin/youtube-dl'
+
 # tmux
 alias tmux='tmux -f ~/.config/tmux/tmux.conf'
 alias -g t=tmux

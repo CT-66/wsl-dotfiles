@@ -1,5 +1,5 @@
 {
-   "checksum": "a7513e706167622a8ca875612ac38eb3",
+   "checksum": "57d13ecb6aecb17f04771bb6c0d3dac5",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2014,7 +2014,7 @@
                      "url": "https://imgur.com/a/4XupgFK"
                   } ],
                   "date_added": "13273873815388362",
-                  "date_modified": "13274823407383732",
+                  "date_modified": "13274891971507676",
                   "guid": "3dc6fb42-5196-4d30-be34-91d41dcc09fb",
                   "id": "844",
                   "name": "Ricing",
@@ -2139,6 +2139,148 @@
                "guid": "4dc676a2-a921-4f18-a1a3-ecd7e061f6f8",
                "id": "734",
                "name": "Reddit Bot",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13274892001443906",
+                  "guid": "ed0ad5be-6c68-4529-9d1f-5ae1fdbabc77",
+                  "id": "900",
+                  "name": "www.emacswiki.org",
+                  "type": "url",
+                  "url": "https://www.emacswiki.org/"
+               }, {
+                  "date_added": "13274892013198809",
+                  "guid": "9a8617f7-ee8e-45c6-867a-5648ff1a02b9",
+                  "id": "901",
+                  "name": "WikEmacs",
+                  "type": "url",
+                  "url": "https://wikemacs.org/wiki/Main_Page"
+               }, {
+                  "date_added": "13274892024728221",
+                  "guid": "be848d8b-dd22-4067-8e42-8d750d8d6e80",
+                  "id": "902",
+                  "name": "Emacs by Ernst de Hart (ehartc) | ZEEF",
+                  "type": "url",
+                  "url": "https://emacs.zeef.com/ehartc"
+               }, {
+                  "date_added": "13274892264846703",
+                  "guid": "61579f63-ea7f-4687-b437-b50fcf88dfb4",
+                  "id": "903",
+                  "name": "Learning GNU Emacs, 3rd Edition [Book]",
+                  "type": "url",
+                  "url": "https://www.oreilly.com/library/view/learning-gnu-emacs/0596006489/"
+               }, {
+                  "date_added": "13274892273828143",
+                  "guid": "3ca3ffee-0e0b-47b7-b1b5-e4115fb42b60",
+                  "id": "904",
+                  "name": "An Emacs Tutorial: Beginner's Guide to Emacs - Mastering Emacs",
+                  "type": "url",
+                  "url": "https://www.masteringemacs.org/article/beginners-guide-to-emacs"
+               }, {
+                  "date_added": "13274892288078111",
+                  "guid": "a59f59dc-7582-480e-8081-01005fa0db6a",
+                  "id": "905",
+                  "name": "Absolute Beginner's Guide to Emacs",
+                  "type": "url",
+                  "url": "http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/"
+               }, {
+                  "date_added": "13274892295841645",
+                  "guid": "6f8300d3-2c1c-4dab-82f5-cabf5af6190b",
+                  "id": "906",
+                  "name": "How to Learn Emacs: A Hand-drawn One-pager for Beginners / A visual tutorial :: Sacha Chua",
+                  "type": "url",
+                  "url": "https://sachachua.com/blog/2013/05/how-to-learn-emacs-a-hand-drawn-one-pager-for-beginners/"
+               }, {
+                  "date_added": "13274892320207269",
+                  "guid": "f5b66c84-1295-49f1-b467-5cc7bf7a366b",
+                  "id": "907",
+                  "name": "~technomancy/better-defaults - sourcehut git",
+                  "type": "url",
+                  "url": "https://git.sr.ht/~technomancy/better-defaults"
+               }, {
+                  "date_added": "13274892340041837",
+                  "guid": "7b00d33f-d3a5-4964-a9b9-6e1dd0bb42e5",
+                  "id": "908",
+                  "name": "EmacsWiki: Moving The Ctrl Key",
+                  "type": "url",
+                  "url": "https://www.emacswiki.org/emacs/MovingTheCtrlKey"
+               }, {
+                  "date_added": "13274892344934932",
+                  "guid": "085c86fc-dceb-4dbe-983d-29b1772ed15b",
+                  "id": "909",
+                  "name": "emacs-tw/awesome-emacs: A community driven list of useful Emacs packages, libraries and others.",
+                  "type": "url",
+                  "url": "https://github.com/emacs-tw/awesome-emacs"
+               }, {
+                  "date_added": "13274892365921600",
+                  "guid": "31da9011-831d-4c58-b371-de6d028f2dd1",
+                  "id": "910",
+                  "name": "Impressive emacs plugins : emacs",
+                  "type": "url",
+                  "url": "https://www.reddit.com/r/emacs/comments/64pblw/impressive_emacs_plugins"
+               }, {
+                  "date_added": "13274892383234797",
+                  "guid": "f531a0e9-c7be-4e92-a163-29ed9d8c9bcd",
+                  "id": "911",
+                  "name": "6 things you should be doing with Emacs | Opensource.com",
+                  "type": "url",
+                  "url": "https://opensource.com/article/20/1/emacs-cheat-sheet"
+               }, {
+                  "date_added": "13274892399551707",
+                  "guid": "103fb050-d18d-42b1-9e0e-26c250139750",
+                  "id": "912",
+                  "name": "Emacs is sexy",
+                  "type": "url",
+                  "url": "https://emacs.sexy/"
+               } ],
+               "date_added": "13274891985373017",
+               "date_modified": "13274892437844672",
+               "guid": "51ccedc7-5ce3-4407-8614-e71b8007b1a4",
+               "id": "899",
+               "name": "Emacs",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13274892437844672",
+                  "guid": "a53989cb-a0b5-4f98-a433-7dfea2757cfd",
+                  "id": "913",
+                  "name": "Curses Programming with Python — Python 3.9.7 documentation",
+                  "type": "url",
+                  "url": "https://docs.python.org/3/howto/curses.html"
+               }, {
+                  "date_added": "13274892460247253",
+                  "guid": "eae8e587-7b8c-48e2-af9e-4579ccadf1e5",
+                  "id": "915",
+                  "name": "peterbrittain/asciimatics: A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations",
+                  "type": "url",
+                  "url": "https://github.com/peterbrittain/asciimatics"
+               }, {
+                  "date_added": "13274892470989642",
+                  "guid": "b1883fcb-4ff3-4566-919c-067dc5c3340f",
+                  "id": "916",
+                  "name": "Rich.tui is a TUI (Text User Interface) framework for Python using Rich as a renderer. | PythonRepo",
+                  "type": "url",
+                  "url": "https://pythonrepo.com/repo/willmcgugan-rich-tui-python-graphical-user-interface-applications"
+               }, {
+                  "date_added": "13274892479852459",
+                  "guid": "a71c7186-72c9-496b-804c-4e93b9504bc8",
+                  "id": "917",
+                  "name": "Create TUI on Python. In this article I will talk about the… | by Valery Krasnoselsky | Medium",
+                  "type": "url",
+                  "url": "https://medium.com/@ValTron/create-tui-on-python-71377849879d"
+               }, {
+                  "date_added": "13274892492636197",
+                  "guid": "4570faba-3a55-4df8-aa26-c80e7034e25e",
+                  "id": "918",
+                  "name": "Text Based Animations | 101 Computing",
+                  "type": "url",
+                  "url": "https://www.101computing.net/text-based-animations/"
+               } ],
+               "date_added": "13274892448588023",
+               "date_modified": "13274892492636197",
+               "guid": "9213f937-3295-436b-a914-44e70d84e2d7",
+               "id": "914",
+               "name": "TUI",
                "type": "folder"
             } ],
             "date_added": "13256325100935673",

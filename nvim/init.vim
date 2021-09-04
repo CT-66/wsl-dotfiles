@@ -66,6 +66,7 @@ syntax on
 set shortmess=I
 set shortmess+=a
 set shortmess+=F
+set shortmess+=c
 
 set autoread
 au FocusGained,BufEnter * checktime

@@ -11,8 +11,11 @@ return
 Capslock::Esc
 return
 
-#N::Run "C:\Users\iamsh\AppData\Local\Microsoft\WindowsApps\19282JackieLiu.Notepads-Beta_echhpq9pdbte8\notepads.exe"
+#N::Run "G:\Shyam\Program Files\Nvim\nvim\Neovim\bin\nvim.lnk"
 return
+
+; #N::Run "C:\Users\iamsh\AppData\Local\Microsoft\WindowsApps\19282JackieLiu.Notepads-Beta_echhpq9pdbte8\notepads.exe"
+; return
 
 ;#N::Run "C:\Users\iamsh\AppData\Local\Microsoft\WindowsApps\Microsoft.WindowsTerminalPreview_8wekyb3d8bbwe\\wt.exe" wsl.exe vim
 ;return
