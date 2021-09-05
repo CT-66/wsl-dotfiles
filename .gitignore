@@ -1,8 +1,5 @@
 .zcompdump-*
 .zcompdump
-reminders.md
-reminders.*
-.remindme.md
 .bash_history
 .bash_logout
 
