@@ -16,8 +16,13 @@ set clipboard=unnamedplus
 " show matching brackets/parenthesis
 set showmatch
 
-:source ~/.config/nvim/plugins.vim
-:source ~/.config/nvim/plugins-settings.vim
+if has("unix")
+    :source ~/.config/nvim/plugins.vim
+    :source ~/.config/nvim/plugins-settings.vim
+elseif has("win32")
+    :source ~\AppData\Local\nvim\plugins.vim
+    :source ~\AppData\Local\nvim\plugins-settings.vim
+endif
 
 
 function! RunPythonFile()
@@ -136,3 +141,5 @@ autocmd InsertLeave * :set relativenumber
 " clear highlighted results after a search
 nnoremap <esc> :noh<return><esc>
 nnoremap <esc>^[ <esc>^[
+
+let g:vimsyn_embed = 'l' " get lua syntax highlighting in vimscript

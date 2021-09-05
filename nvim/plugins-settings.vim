@@ -61,22 +61,24 @@ else
   inoremap <silent><expr> <c-@> coc#refresh()
 endif
 
-" Lualine.vim
-require'lualine'.setup {
+" airline config
+
+:lua << EOF
+require('lualine').setup {
   options = {
     icons_enabled = true,
-    theme = 'gruvbox',
-    component_separators = {'', ''},
-    section_separators = {'', ''},
+    theme = 'onedark',
+    component_separators = {},
+    section_separators = {},
     disabled_filetypes = {}
   },
   sections = {
     lualine_a = {'mode'},
     lualine_b = {'branch'},
     lualine_c = {'filename'},
-    lualine_x = {'encoding', 'fileformat', 'filetype'},
-    lualine_y = {'progress'},
-    lualine_z = {'location'}
+    lualine_x = {'filetype'},
+    lualine_y = {'diagnostics'},
+    lualine_z = {}
   },
   inactive_sections = {
     lualine_a = {},
@@ -89,3 +91,4 @@ require'lualine'.setup {
   tabline = {},
   extensions = {}
 }
+EOF
