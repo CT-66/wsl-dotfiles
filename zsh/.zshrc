@@ -152,3 +152,4 @@ extract () {
 
 # cat ~/.config/zsh/.remindme.md
 echo wslview slow
+echo "coc.source.file.ignoreHidden": false

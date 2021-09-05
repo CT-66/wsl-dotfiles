@@ -11,7 +11,8 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 " Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
 " Plug 'deoplete-plugins/deoplete-jedi'
 Plug 'davidhalter/jedi-vim'
-Plug 'vim-airline/vim-airline'
+" Plug 'vim-airline/vim-airline'
+Plug 'datwaft/bubbly.nvim'
 Plug 'preservim/nerdtree'
 Plug 'machakann/vim-highlightedyank'
 Plug 'sheerun/vim-polyglot'

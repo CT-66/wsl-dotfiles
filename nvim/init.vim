@@ -16,8 +16,8 @@ set clipboard=unnamedplus
 " show matching brackets/parenthesis
 set showmatch
 
-:so ~/.config/nvim/plugins.vim
-:so ~/.config/nvim/plugins-settings.vim
+:source ~/.config/nvim/plugins.vim
+:source ~/.config/nvim/plugins-settings.vim
 
 
 function! RunPythonFile()
@@ -78,6 +78,7 @@ nmap <escape><escape> :w<cr>
 map <leader>/ gcc
 map <leader>a ggVG
 nmap <leader>b :call RunPythonFile()<CR>
+nmap <leader>v :source ~/.config/nvim/init.vim<cr>
 
 nnoremap <Bs> x
 nnoremap U <C-r>
