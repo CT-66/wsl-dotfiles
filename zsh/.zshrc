@@ -150,4 +150,4 @@ extract () {
 }
 
 
-cat ~/.config/zsh/reminders.md
+cat ~/reminders.md
