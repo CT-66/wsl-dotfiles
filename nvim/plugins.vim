@@ -12,7 +12,6 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 " Plug 'deoplete-plugins/deoplete-jedi'
 Plug 'davidhalter/jedi-vim'
 " Plug 'vim-airline/vim-airline'
-" Plug 'datwaft/bubbly.nvim'
 Plug 'hoob3rt/lualine.nvim'
 Plug 'preservim/nerdtree'
 Plug 'machakann/vim-highlightedyank'
