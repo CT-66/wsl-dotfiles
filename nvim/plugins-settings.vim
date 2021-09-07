@@ -15,7 +15,7 @@ let g:airline_theme='onedark'
 " let g:airline_theme='one'
 let g:onedark_termcolors=256
 
-let g:better_whitespace_enabled=1
+" let g:better_whitespace_enabled=1
 let g:strip_whitespace_on_save=1
 
 let g:better_whitespace_ctermcolor='red'

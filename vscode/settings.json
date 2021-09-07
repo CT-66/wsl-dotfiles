@@ -6,7 +6,6 @@
     "python.defaultInterpreterPath": "py",
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    "python.languageServer": "Microsoft",
     "python.analysis.diagnosticPublishDelay": 999,
     // "editor.fontFamily": "Source Code Pro",
     // "editor.fontFamily": "FiraCode NF",
@@ -184,12 +183,12 @@
     "files.associations": {
         "*.json": "jsonc"
     },
-    "terminal.integrated.confirmOnExit": true,
+    "terminal.integrated.confirmOnExit": "always",
     "terminal.integrated.cursorStyle": "line",
     // "terminal.integrated.fontFamily": "MesloLGS NF",
     // "editor.cursorWidth": 5,
     "workbench.activityBar.visible": false,
-    "window.menuBarVisibility": "compact",
+    // "window.menuBarVisibility": "compact",
     "sync.quietSync": true,
     "sync.autoUpload": true,
     "breadcrumbs.enabled": false,
@@ -202,7 +201,7 @@
     "security.workspace.trust.untrustedFiles": "open",
     "terminal.integrated.tabs.enabled": false,
     "material-icon-theme.hidesExplorerArrows": true,
-    "update.mode": "none",
+    "update.mode": "default",
     "workbench.editorAssociations": {
         "*.ipynb": "jupyter-notebook"
     },
@@ -211,7 +210,10 @@
     "vscode-neovim.useWSL": true,
     "vscode-neovim.neovimExecutablePaths.linux": "/bin/nvim",
     "editor.scrollBeyondLastLine": false,
-    "editor.lineNumbers": "relative"
+    "editor.lineNumbers": "relative",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.accessibilitySupport": "off",
+    "editor.autoClosingDelete": "always"
 }
 /*
     "[javascript]": {
