@@ -12,9 +12,10 @@ filetype plugin indent on
 let $NVIM_TUI_ENABLE_TRUE_COLOR=1
 set termguicolors
 set mouse=a
+set noshowmode " already shown by statusline
 set clipboard=unnamedplus
 " show matching brackets/parenthesis
-set showmatch
+" set showmatch
 
 if has("unix")
     :source ~/.config/nvim/plugins.vim
