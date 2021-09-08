@@ -126,9 +126,9 @@
               //"colorScheme": "One Half Dark",
             "cursorColor": "#7EC2CF",
             "fontSize": 10,
-            // "fontFace": "CaskaydiaCove NF",
+             "fontFace": "CaskaydiaCove NF",
            // "fontFace": "Source Code Pro",
-           "fontFace": "FiraCode NF",
+            // "fontFace": "FiraCode NF",
 
             "fontWeight": "normal",
             "useAcrylic": false,

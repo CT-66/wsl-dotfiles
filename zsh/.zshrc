@@ -149,5 +149,6 @@ extract () {
     fi
 }
 
-
-cat ~/reminders.md
+autopair-init
+# cat ~/reminders.md
+echo "~/reminders.md"

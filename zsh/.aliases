@@ -9,7 +9,9 @@ alias -g v=nvim
 # alias -g vim='vim -u ~/.config/vim/.vimrc'
 alias -g vim=nvim
 alias -g nf=neofetch
+alias -g cmatrix="cmatrix -bs -C blue"
 alias -g custom-date='date +"%d %b, %Y | %I:%M %p"'
+alias -g grep="grep -in --color=auto"
 
 alias -g cd..='cd ../'
 alias -g ..='cd ../../'
@@ -53,7 +55,7 @@ alias -g powershell=powershell.exe
 alias -g pwsh=powershell.exe
 alias -g explorer=explorer.exe
 alias -g e=explorer.exe
-alias -g ee='explorer.exe .'
+alias -g ee='explorer.exe $(wslpath -w $(pwd))'
 alias -g py=python.exe
 alias -g python=python.exe
 alias -g pip=pip.exe

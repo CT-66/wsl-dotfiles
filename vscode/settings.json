@@ -22,6 +22,10 @@
     "editor.tabCompletion": "on",
     "editor.snippetSuggestions": "top",
     "files.trimTrailingWhitespace": true,
+    "editor.trimAutoWhitespace": true,
+    "files.autoSave": "onFocusChange",
+    "workbench.editor.showIcons": true,
+    "search.smartCase": true,
     // "editor.renderWhitespace": "all",
     // "workbench.colorCustomizations": {
     //     "terminal.background": "#2e3440",
@@ -76,6 +80,7 @@
     "window.customMenuBarAltFocus": false,
     "window.restoreWindows": "all",
     "prettier.tabWidth": 4,
+    "editor.tabSize": 4,
     "[jsonc]": {
         "editor.defaultFormatter": "vscode.json-language-features"
     },
@@ -167,9 +172,18 @@
     "oneDarkPro.italic": false,
     "oneDarkPro.bold": true,
     "oneDarkPro.editorTheme": "oneDarkPro",
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "args": [
+                "-NoLogo"
+            ],
+            "icon": "terminal-powershell"
+        }
+    },
     // "terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)",
-    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
-    "terminal.integrated.cwd": "C:\\Users\\iamsh\\AppData\\Local\\Packages\\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\\LocalState\\rootfs\\home\\username\\",
+    // "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
+    // "terminal.integrated.cwd": "C:\\Users\\iamsh\\AppData\\Local\\Packages\\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\\LocalState\\rootfs\\home\\username\\",
     // Vim
     "vim.highlightedyank.enable": true,
     "vim.leader": " ",
