@@ -81,12 +81,12 @@ let mapleader = " "
 
 nmap <leader><leader> :w<cr>
 nmap <escape><escape> :w<cr>
-map <leader>/ gcc
-map <leader>a ggVG
+nmap <leader>/ gcc
+nmap <leader>a ggVG
 nmap <leader>b :call RunPythonFile()<CR>
 nmap <leader>v :source ~/.config/nvim/init.vim<cr>
 
-nnoremap <Bs> x
+" nnoremap <Bs> x
 nnoremap U <C-r>
 
 nnoremap d "_d
@@ -102,6 +102,9 @@ nmap j gj
 nmap k gk
 nmap <Up> gk
 nmap <Down> gj
+
+nmap <Left> ^
+nmap <Right> $
 
 set ruler
 
