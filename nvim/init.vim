@@ -103,8 +103,18 @@ nmap k gk
 nmap <Up> gk
 nmap <Down> gj
 
-nmap <Left> ^
-nmap <Right> $
+nnoremap <Left> ^
+nnoremap <Right> $
+
+nmap d<Left> "_d^
+nmap d<Right> "_d$
+
+" execute macros AND disable the dreaded ex mode
+" nnoremap Q @q
+
+" Indent/dedent what you just pasted
+nnoremap <leader>< V`]<
+nnoremap <leader>> V`]>
 
 set ruler
 
