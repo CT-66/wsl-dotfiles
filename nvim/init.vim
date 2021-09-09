@@ -91,8 +91,12 @@ nnoremap U <C-r>
 
 nnoremap d "_d
 vnoremap d "_d
+nnoremap D "_D
+vnoremap D "_D
 nnoremap x "_x
 vnoremap x "_x
+nnoremap X "_X
+vnoremap X "_X
 
 nmap j gj
 nmap k gk
