@@ -126,7 +126,7 @@ return
 
 
 
-; This file explorer script should always be in the end of the script, or else anything below it will malfunction
+; This file explorer script should always be in the end of the script, or else script will not work
 #Esc::DllCall("LockWorkStation")
 return
 
