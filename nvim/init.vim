@@ -89,11 +89,15 @@ nmap <leader>v :source ~/.config/nvim/init.vim<cr>
 nnoremap <Bs> x
 nnoremap U <C-r>
 
-" nnoremap j gj
-" nnoremap k gk
+nnoremap d "_d
+vnoremap d "_d
+nnoremap x "_x
+vnoremap x "_x
 
-" nnoremap <Up> gk
-" nnoremap <Down> gj
+nmap j gj
+nmap k gk
+nmap <Up> gk
+nmap <Down> gj
 
 set ruler
 
