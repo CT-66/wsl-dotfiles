@@ -1,5 +1,3 @@
-filetype on
-filetype indent on
 set nocompatible
 set t_Co=256
 set encoding=UTF-8
@@ -109,6 +107,10 @@ nmap d<Right> d$
 
 " disable the dreaded ex mode
 nnoremap Q <Nop>
+
+nmap ; :
+
+set matchpairs+=<:>
 
 " Indent/dedent what you just pasted
 nnoremap <leader>< V`]<
