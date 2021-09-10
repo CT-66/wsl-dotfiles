@@ -107,6 +107,8 @@ nnoremap <Right> $
 nmap d<Left> d^
 nmap d<Right> d$
 
+nnoremap Q <Nop>
+
 " disable the dreaded ex mode
 " nnoremap Q @q
 
