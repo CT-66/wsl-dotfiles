@@ -72,14 +72,7 @@ set shortmess+=c
 set autoread
 au FocusGained,BufEnter * checktime
 
-let mapleader = " "
-
-
 set matchpairs+=<:>
-
-" Indent/dedent what you just pasted
-nnoremap <leader>< V`]<
-nnoremap <leader>> V`]>
 
 set ruler
 
@@ -87,9 +80,6 @@ set backspace=indent,eol,start
 set whichwrap+=<,>,h,l
 
 set encoding=utf-8
-
-vnoremap <silent> * :<C-u>call VisualSelection('', '')<CR>/<C-R>=@/<CR><CR>
-vnoremap <silent> # :<C-u>call VisualSelection('', '')<CR>?<C-R>=@/<CR><CR>
 
 " Disables automatic commenting on newline:
     autocmd FileType * setlocal formatoptions-=c formatoptions-=r formatoptions-=o
@@ -124,9 +114,5 @@ hi Search cterm=NONE ctermfg=grey ctermbg=blue
 
 autocmd InsertEnter * :set norelativenumber
 autocmd InsertLeave * :set relativenumber
-
-" clear highlighted results after a search
-nnoremap <esc> :noh<return><esc>
-nnoremap <esc>^[ <esc>^[
 
 let g:vimsyn_embed = 'l' " get lua syntax highlighting in vimscript

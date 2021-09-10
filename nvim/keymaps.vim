@@ -1,10 +1,12 @@
+let mapleader = " "
+
 inoremap <expr><TAB>  pumvisible() ? "\<C-n>" : "\<TAB>" " coc.nvim
 
 nmap <leader><leader> :w<cr>
 nmap <escape><escape> :w<cr>
 nmap <leader>/ gcc
-nmap <leader>a ggVG
-nmap <leader>b :call RunPythonFile()<CR>
+nmap <leader>a ggvg
+nmap <leader>b :call runpythonfile()<cr>
 nmap <leader>v :source ~/.config/nvim/init.vim<cr>
 
 " nnoremap <Bs> x
@@ -36,3 +38,10 @@ nmap ; :
 " Indent/dedent what you just pasted
 nnoremap <leader>< V`]<
 nnoremap <leader>> V`]>
+
+" clear highlighted results after a search
+nnoremap <esc> :noh<return><esc>
+nnoremap <esc>^[ <esc>^[
+
+vnoremap <silent> * :<C-u>call VisualSelection('', '')<CR>/<C-R>=@/<CR><CR>
+vnoremap <silent> # :<C-u>call VisualSelection('', '')<CR>?<C-R>=@/<CR><CR>
