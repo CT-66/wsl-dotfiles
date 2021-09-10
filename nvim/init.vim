@@ -18,11 +18,11 @@ set clipboard=unnamedplus
 if has("unix")
     :source ~/.config/nvim/plugins.vim
     :source ~/.config/nvim/plugins-settings.vim
+    :source ~/.config/nvim/keymaps.vim
 elseif has("win32")
     :source ~\AppData\Local\nvim\plugins.vim
     :source ~\AppData\Local\nvim\plugins-settings.vim
 endif
-
 
 function! RunPythonFile()
     :w
@@ -32,9 +32,6 @@ endfunction
 " colorscheme nord
 " colorscheme onedark
 colorscheme one
-
-inoremap <expr><TAB>  pumvisible() ? "\<C-n>" : "\<TAB>"
-
 
 set number relativenumber
 set visualbell
@@ -77,38 +74,6 @@ au FocusGained,BufEnter * checktime
 
 let mapleader = " "
 
-nmap <leader><leader> :w<cr>
-nmap <escape><escape> :w<cr>
-nmap <leader>/ gcc
-nmap <leader>a ggVG
-nmap <leader>b :call RunPythonFile()<CR>
-nmap <leader>v :source ~/.config/nvim/init.vim<cr>
-
-" nnoremap <Bs> x
-nnoremap U <C-r>
-
-nnoremap d "_d
-vnoremap d "_d
-nnoremap D "_D
-nnoremap x "_x
-nnoremap X "_X
-nnoremap c "_c
-
-nmap j gj
-nmap k gk
-nmap <Up> gk
-nmap <Down> gj
-
-nnoremap <Left> ^
-nnoremap <Right> $
-
-nmap d<Left> d^
-nmap d<Right> d$
-
-" disable the dreaded ex mode
-nnoremap Q <Nop>
-
-nmap ; :
 
 set matchpairs+=<:>
 
