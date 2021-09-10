@@ -92,11 +92,9 @@ nnoremap U <C-r>
 nnoremap d "_d
 vnoremap d "_d
 nnoremap D "_D
-vnoremap D "_D
 nnoremap x "_x
-vnoremap x "_x
 nnoremap X "_X
-vnoremap X "_X
+nnoremap c "_c
 
 nmap j gj
 nmap k gk
@@ -106,10 +104,10 @@ nmap <Down> gj
 nnoremap <Left> ^
 nnoremap <Right> $
 
-nmap d<Left> "_d^
-nmap d<Right> "_d$
+nmap d<Left> d^
+nmap d<Right> d$
 
-" execute macros AND disable the dreaded ex mode
+" disable the dreaded ex mode
 " nnoremap Q @q
 
 " Indent/dedent what you just pasted
