@@ -27,7 +27,7 @@ alias -g ll='ls -lAFh --color=always'
 alias -g la='ls -Ah --color=always'
 alias -g l='ls -CFh --color=always'
 alias -g ls='ls -h --color=always'
-alias -g l.='ls -a | egrep "^\."'
+alias -g l.='ls -a | egrep -in "^\."'
 
 alias -g ping='ping -c 5'
 
