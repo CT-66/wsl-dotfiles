@@ -1,4 +1,4 @@
-let mapleader = " "
+let mapleader = "<Space>"
 
 inoremap <expr><TAB>  pumvisible() ? "\<C-n>" : "\<TAB>" " coc.nvim
 
