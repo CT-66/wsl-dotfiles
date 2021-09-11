@@ -1,12 +1,13 @@
-let mapleader = "<Space>"
+" let mapleader = "<Space>"
+let mapleader = " "
 
-inoremap <expr><TAB>  pumvisible() ? "\<C-n>" : "\<TAB>" " coc.nvim
+inoremap <expr><TAB>  pumvisible() ? "\<C-n>" : "\<TAB>"
 
 nmap <leader><leader> :w<cr>
 nmap <escape><escape> :w<cr>
 nmap <leader>/ gcc
-nmap <leader>a ggvg
-nmap <leader>b :call runpythonfile()<cr>
+nmap <leader>a ggVG
+nmap <leader>b :call RunPythonFile()<cr>
 nmap <leader>v :source ~/.config/nvim/init.vim<cr>
 
 " nnoremap <Bs> x
@@ -30,7 +31,7 @@ nnoremap <Right> $
 nmap d<Left> d^
 nmap d<Right> d$
 
-" disable the dreaded ex mode
+" disable the ex mode
 nnoremap Q <Nop>
 
 nmap ; :
