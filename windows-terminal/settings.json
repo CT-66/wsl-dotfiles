@@ -1,9 +1,9 @@
 {
     "$schema": "https://aka.ms/terminal-profiles-schema",
-    "actions": 
+    "actions":
     [
         {
-            "command": 
+            "command":
             {
                 "action": "switchToTab",
                 "index": 3
@@ -11,7 +11,7 @@
             "keys": "ctrl+4"
         },
         {
-            "command": 
+            "command":
             {
                 "action": "switchToTab",
                 "index": 7
@@ -22,14 +22,14 @@
             "command": "unbound"
         },
         {
-            "command": 
+            "command":
             {
                 "action": "newTab"
             },
             "keys": "ctrl+t"
         },
         {
-            "command": 
+            "command":
             {
                 "action": "splitPane",
                 "split": "auto",
@@ -38,7 +38,7 @@
             "keys": "alt+shift+d"
         },
         {
-            "command": 
+            "command":
             {
                 "action": "switchToTab",
                 "index": 4
@@ -46,7 +46,7 @@
             "keys": "ctrl+5"
         },
         {
-            "command": 
+            "command":
             {
                 "action": "switchToTab",
                 "index": 1
@@ -54,7 +54,7 @@
             "keys": "ctrl+2"
         },
         {
-            "command": 
+            "command":
             {
                 "action": "switchToTab",
                 "index": 2
@@ -62,7 +62,7 @@
             "keys": "ctrl+3"
         },
         {
-            "command": 
+            "command":
             {
                 "action": "switchToTab",
                 "index": 0
@@ -70,7 +70,7 @@
             "keys": "ctrl+1"
         },
         {
-            "command": 
+            "command":
             {
                 "action": "switchToTab",
                 "index": 5
@@ -78,7 +78,7 @@
             "keys": "ctrl+6"
         },
         {
-            "command": 
+            "command":
             {
                 "action": "switchToTab",
                 "index": 6
@@ -86,7 +86,7 @@
             "keys": "ctrl+7"
         },
         {
-            "command": 
+            "command":
             {
                 "action": "switchToTab",
                 "index": 8
@@ -98,7 +98,7 @@
             "keys": "ctrl+f2"
         },
         {
-            "command": 
+            "command":
             {
                 "action": "globalSummon",
                 "desktop": "toCurrent",
@@ -113,13 +113,13 @@
     "copyFormatting": "none",
     "copyOnSelect": false,
     "defaultProfile": "{2c4de342-38b7-51cf-b940-2309a097f518}",
-    "profiles": 
+    "profiles":
     {
-        "defaults": 
+        "defaults":
         {
             "colorScheme": "One Half Dark_Old",
             "cursorColor": "#7EC2CF",
-            "font": 
+            "font":
             {
                 "face": "CaskaydiaCove NF",
                 "size": 10,
@@ -127,7 +127,7 @@
             },
             "useAcrylic": false
         },
-        "list": 
+        "list":
         [
             {
                 "commandline": "wsl.exe ~",
@@ -158,7 +158,7 @@
             }
         ]
     },
-    "schemes": 
+    "schemes":
     [
         {
             "background": "#0C0C0C",
