@@ -22,6 +22,7 @@ Plug 'ntpeters/vim-better-whitespace'
 " Plug 'ervandew/supertab'
 " Plug 'airblade/vim-gitgutter'
 Plug 'rrethy/vim-hexokinase', { 'do': 'make hexokinase' }
+Plug 'karb94/neoscroll.nvim'
 Plug 'ryanoasis/vim-devicons' " Always last
 
 
