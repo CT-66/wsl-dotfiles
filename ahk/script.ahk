@@ -46,13 +46,13 @@ return
 return
 
 #!n::Run C:\Users\iamsh\AppData\Local\BraveSoftware\Brave-Browser-Beta\Application\brave.exe --incognito https://google.com
-return 
+return
 
 #+n::Run C:\Users\iamsh\AppData\Local\BraveSoftware\Brave-Browser-Beta\Application\brave.exe --incognito https://google.com
 return
 
 #!y::Run C:\Users\iamsh\AppData\Local\BraveSoftware\Brave-Browser-Beta\Application\brave.exe https://youtube.com
-return 
+return
 
 #+y::Run C:\Users\iamsh\AppData\Local\BraveSoftware\Brave-Browser-Beta\Application\brave.exe --incognito https://youtube.com
 return
@@ -88,7 +88,7 @@ return
 :*:_local:: C:\Users\iamsh\AppData\Local
 :*:_localow:: C:\Users\iamsh\AppData\LocalLow
 :*:_roaming:: C:\Users\iamsh\AppData\Roaming
-
+:*:.dots:: https://github.com/CT-66/dotfiles
 
 
 ; ^#z::
