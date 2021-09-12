@@ -22,6 +22,7 @@ if has("unix")
 elseif has("win32")
     :source ~\AppData\Local\nvim\plugins.vim
     :source ~\AppData\Local\nvim\plugins-settings.vim
+    :source ~\AppData\Local\nvim\keymaps.vim
 endif
 
 function! RunPythonFile()

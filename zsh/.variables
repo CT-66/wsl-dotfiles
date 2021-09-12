@@ -6,3 +6,5 @@ music=/mnt/g/shyam/music
 trash=~/.Trash
 t=~/.Trash
 recycle_bin=~/.Trash
+
+export EDITOR='nvim'
