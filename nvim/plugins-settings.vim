@@ -1,7 +1,7 @@
 nmap \ :NERDTreeToggle<CR>
 let NERDTreeShowHidden=1
 let g:highlightedyank_highlight_duration = 100
-highlight HighlightedyankRegion ctermbg=19
+highlight HighlightedyankRegion ctermbg=14
 " 19, 20, 24, 25, 55, 60, 104, 129
 
 
