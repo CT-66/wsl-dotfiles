@@ -117,3 +117,7 @@ autocmd InsertEnter * :set norelativenumber
 autocmd InsertLeave * :set relativenumber
 
 let g:vimsyn_embed = 'l' " get lua syntax highlighting in vimscript
+
+augroup JsonToJsonc
+    autocmd! FileType json set filetype=jsonc
+augroup END
