@@ -31,7 +31,7 @@ M.ui.plugin = {
       hidden = {},
       shown = {},
       -- default, round , slant , block , arrow
-      style = "default",
+      style = "round",
    },
 }
 
@@ -210,7 +210,7 @@ M.custom.mappings = {
    --    "<leader>cc",
    --    "gg0vG$d",
    -- },
- save={  vim.api.nvim_command(nmap <leader><leader> :w<cr>)}
+ -- save={  vim.api.nvim_command(nmap <leader><leader> :w<cr>)}
 }
 
 M.plugins = {
