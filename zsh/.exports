@@ -3,4 +3,10 @@ LS_COLORS='ow=01;36;40'
 export LS_COLORS
 export KEYTIMEOUT=1
 EDITOR=nvim
-PAGER=nvim
+export EDITOR
+# PAGER=nvim
+# export PAGER
+# PAGER=batcat
+# export PAGER
+PAGER=most
+export PAGER
