@@ -10,3 +10,5 @@ export EDITOR
 # export PAGER
 PAGER=most
 export PAGER
+# TERM=xterm-256color
+# export TERM
