@@ -52,5 +52,5 @@ vnoremap <silent> # :<C-u>call VisualSelection('', '')<CR>?<C-R>=@/<CR><CR>
 inoremap <F1> <ESC>
 nnoremap <F1> <ESC>
 vnoremap <F1> <ESC>
-nnoremap K <nop>
-xnoremap K <nop>
+nnoremap K <Nop>
+xnoremap K <Nop>
