@@ -119,5 +119,5 @@ augroup JsonToJsonc
     autocmd! FileType json set filetype=jsonc
 augroup END
 
-highlight Visual guibg=#4C566A
+highlight Visual guibg=#434C5E
 highlight Search guifg=#C678DD guibg=#4C566A
