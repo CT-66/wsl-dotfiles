@@ -5,7 +5,6 @@ inoremap <expr><TAB>  pumvisible() ? "\<C-n>" : "\<TAB>"
 
 " leader key bindings
 nmap <leader><leader> :w<cr>
-nmap <escape><escape> :w<cr>
 nmap <leader>/ gcc
 xmap <leader>/ gcc
 nmap <leader>a ggVG
