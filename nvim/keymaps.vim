@@ -37,9 +37,9 @@ nnoremap Q <Nop>
 
 nmap ; :
 
-" Indent/dedent what you just pasted
-nnoremap <leader>< V`]<
-nnoremap <leader>> V`]>
+" Stay in visual mode when indenting
+vnoremap < <gv
+vnoremap > >gv
 
 " clear highlighted results after a search
 nnoremap <esc> :noh<return><esc>
