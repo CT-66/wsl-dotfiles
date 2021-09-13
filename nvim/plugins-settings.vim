@@ -58,7 +58,7 @@ inoremap <expr><S-TAB> pumvisible() ? "\<C-p>" : "\<C-h>"
 inoremap <silent><expr> <c-space> coc#refresh()
 
 
-" airline config
+" lualine config
 :lua << EOF
 require('lualine').setup {
   options = {

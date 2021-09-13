@@ -31,8 +31,8 @@ function! RunPythonFile()
 endfunction
 
 " colorscheme nord
-" colorscheme onedark
-colorscheme one
+colorscheme onedark
+" colorscheme one
 
 set number relativenumber
 set visualbell
