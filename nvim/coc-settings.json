@@ -1,5 +1,6 @@
 {
   "coc.source.file.ignoreHidden": false, // autocomplete dotfiles
+  "coc.preferences.colorSupport": false, // disable highlighting colors
 
   "jedi.enable": true,
   "jedi.startupMessage": false,

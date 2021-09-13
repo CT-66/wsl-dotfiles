@@ -91,7 +91,7 @@ let g:Hexokinase_optInPatterns = [
 \     'colour_names'
 \ ]
 
-let g:Hexokinase_ftEnabled = ['css', 'html', 'javascript']
+let g:Hexokinase_ftEnabled = ['css', 'html', 'javascript', 'json']
 
 :lua << EOF
 require('neoscroll').setup({
