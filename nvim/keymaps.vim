@@ -1,8 +1,9 @@
-" let mapleader = "<Space>"
 let mapleader = " "
 
+" use tab completion for coc.nvim
 inoremap <expr><TAB>  pumvisible() ? "\<C-n>" : "\<TAB>"
 
+" leader key bindings
 nmap <leader><leader> :w<cr>
 nmap <escape><escape> :w<cr>
 nmap <leader>/ gcc
@@ -32,7 +33,7 @@ nnoremap <Right> $
 nmap d<Left> d^
 nmap d<Right> d$
 
-" disable the ex mode
+" disable  ex mode
 nnoremap Q <Nop>
 
 nmap ; :
@@ -48,9 +49,11 @@ nnoremap <esc>^[ <esc>^[
 vnoremap <silent> * :<C-u>call VisualSelection('', '')<CR>/<C-R>=@/<CR><CR>
 vnoremap <silent> # :<C-u>call VisualSelection('', '')<CR>?<C-R>=@/<CR><CR>
 
-" Disable help (f1) and disable trying to find man page entry (K)
+" disable help (f1)
 inoremap <F1> <ESC>
 nnoremap <F1> <ESC>
 vnoremap <F1> <ESC>
+
+" disable trying to find man page entry (K)
 nnoremap K <Nop>
 xnoremap K <Nop>
