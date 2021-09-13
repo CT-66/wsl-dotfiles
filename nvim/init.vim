@@ -110,9 +110,6 @@ set laststatus=2
   " use \003]12;gray\007 for gnome-terminal and rxvt up to version 9.21
   let &t_EI .= "\<Esc>[2 q"
 
-
-hi Search cterm=NONE ctermfg=grey ctermbg=blue
-
 autocmd InsertEnter * :set norelativenumber
 autocmd InsertLeave * :set relativenumber
 
@@ -122,4 +119,5 @@ augroup JsonToJsonc
     autocmd! FileType json set filetype=jsonc
 augroup END
 
-hi Visual guifg=#C678DD
+highlight Visual guibg=#4C566A
+highlight Search guifg=#C678DD guibg=#4C566A
