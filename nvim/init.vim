@@ -121,3 +121,5 @@ let g:vimsyn_embed = 'l' " get lua syntax highlighting in vimscript
 augroup JsonToJsonc
     autocmd! FileType json set filetype=jsonc
 augroup END
+
+hi Visual guifg=#C678DD
