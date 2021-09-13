@@ -1,4 +1,6 @@
 {
+  "coc.source.file.ignoreHidden": false, // autocomplete dotfiles
+
   "jedi.enable": true,
   "jedi.startupMessage": false,
   "jedi.markupKindPreferred": "markdown",
