@@ -7,9 +7,15 @@ inoremap <expr><TAB>  pumvisible() ? "\<C-n>" : "\<TAB>"
 nmap <leader><leader> :w<cr>
 nmap <C-_> gcc
 xmap <C-_> gcc <esc>
+nmap <leader>/ gcc
+xmap <leader>/ gcc <esc>
 nmap <leader>a ggVG
 nmap <leader>b :call RunPythonFile()<cr>
-nmap <leader>v :source ~/.config/nvim/init.vim<cr>
+if has("unix")
+    nmap <leader>v :source ~/.config/nvim/init.vim<cr>
+elseif has("win32")
+    nmap <leader>v :source ~\AppData\Local\nvim\init.vim<cr>
+endif
 
 " nnoremap <Bs> x
 nnoremap U <C-r>
