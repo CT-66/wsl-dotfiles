@@ -56,3 +56,21 @@ vnoremap <F1> <ESC>
 " disable trying to find man page entry (K)
 nnoremap K <Nop>
 xnoremap K <Nop>
+
+" center cursor on movements like `j`, `k`, `G` and `n`, `N`
+" set scrolloff=999
+nnoremap j jzz
+nnoremap k kzz
+nnoremap <Down> jzz
+nnoremap <Up> kzz
+nnoremap G Gzz
+
+nnoremap <C-d> <C-d>zz
+nnoremap <C-u> <C-u>zz
+
+nnoremap n nzz
+nnoremap N Nzz
+nnoremap * *zz
+nnoremap # #zz
+nnoremap g* g*zz
+nnoremap g# g#zz

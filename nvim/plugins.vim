@@ -24,7 +24,7 @@ Plug 'ntpeters/vim-better-whitespace'
 if has("unix")
     Plug 'rrethy/vim-hexokinase', { 'do': 'make hexokinase' }
 endif
-Plug 'karb94/neoscroll.nvim'
+" Plug 'karb94/neoscroll.nvim'
 Plug 'ryanoasis/vim-devicons' " Always last
 
 
