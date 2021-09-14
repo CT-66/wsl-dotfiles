@@ -124,7 +124,7 @@ highlight Search guifg=#C678DD guibg=#4C566A
 highlight Comment guifg=#7f848e
 
 " Pmenu
-highlight Pmenu guifg=#434C5E
+" highlight Pmenu guifg=#434C5E
 
 " Pmenu		Popup menu: normal item.
 " PmenuSel	Popup menu: selected item.
