@@ -4,7 +4,7 @@
 ; + -> Shift
 
 
-; Num lock should always be in the first lines of the script, or else it wont work
+; Always in beginning of script
 SetNumlockState, AlwaysOn
 return
 
@@ -80,6 +80,7 @@ return
 :*:g.music:: G:\Shyam\Music
 :*:g.programfiles:: G:\Shyam\Program Files
 :*:g.programs:: G:\Shyam\Program Files
+:*:g.pf:: G:\Shyam\Program Files
 :*:g.wallpapers:: G:\Shyam\Wallpapers
 :*:g.webdev:: G:\Shyam\Web Dev
 :*:_ahk:: G:\Shyam\Program Files\AutoHotKey\Scripts
@@ -90,6 +91,8 @@ return
 :*:_roaming:: C:\Users\iamsh\AppData\Roaming
 :*:.dots:: https://github.com/CT-66/dotfiles
 
+:*:edit_ahk::G:\Shyam\Program Files\Nvim\nvim\Neovim\bin\nvim.lnk "G:\Shyam\Program Files\AutoHotKey\Scripts\script.ahk"
+:*:nvim_dots::explorer.exe "C:\Users\iamsh\AppData\Local\nvim\"
 
 ; ^#z::
 ; ^#Left
