@@ -67,8 +67,10 @@ xnoremap K <Nop>
 " set scrolloff=999
 nnoremap j jzz
 nnoremap k kzz
+
 nnoremap <Down> jzz
 nnoremap <Up> kzz
+
 nnoremap G Gzz
 
 nnoremap <C-d> <C-d>zz
@@ -84,5 +86,5 @@ nnoremap # #zz
 nnoremap g* g*zz
 nnoremap g# g#zz
 
-" nnoremap { {zz
-" nnoremap } }zz
+nnoremap { {z
+nnoremap } }zz
