@@ -6,9 +6,9 @@ inoremap <expr><TAB>  pumvisible() ? "\<C-n>" : "\<TAB>"
 " leader key bindings
 nmap <leader><leader> :w<cr>
 nmap <C-_> gcc
-xmap <C-_> gcc <esc>
+xmap <C-_> gcc
 nmap <leader>/ gcc
-xmap <leader>/ gcc <esc>
+xmap <leader>/ gcc
 nmap <leader>a ggVG
 nmap <leader>b :call RunPythonFile()<cr>
 if has("unix")
