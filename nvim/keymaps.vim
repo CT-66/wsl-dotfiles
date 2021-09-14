@@ -5,8 +5,8 @@ inoremap <expr><TAB>  pumvisible() ? "\<C-n>" : "\<TAB>"
 
 " leader key bindings
 nmap <leader><leader> :w<cr>
-nmap <leader>/ gcc
-xmap <leader>/ gcc
+nmap <C-_> gcc
+xmap <C-_> gcc <esc>
 nmap <leader>a ggVG
 nmap <leader>b :call RunPythonFile()<cr>
 nmap <leader>v :source ~/.config/nvim/init.vim<cr>
@@ -74,3 +74,6 @@ nnoremap * *zz
 nnoremap # #zz
 nnoremap g* g*zz
 nnoremap g# g#zz
+
+" nnoremap { {zz
+" nnoremap } }zz
