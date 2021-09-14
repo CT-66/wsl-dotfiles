@@ -4,7 +4,7 @@
 ; + -> Shift
 
 
-; Always in beginning of script
+; Always in beginning
 SetNumlockState, AlwaysOn
 return
 
@@ -129,7 +129,7 @@ return
 
 
 
-; This file explorer script should always be in the end of the script, or else script will not work
+; Always in end
 #Esc::DllCall("LockWorkStation")
 return
 
