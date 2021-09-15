@@ -15,7 +15,10 @@ elseif has("win32")
     nmap <leader>v :source ~\AppData\Local\nvim\init.vim<cr>
 endif
 
-" nnoremap <Bs> x
+nnoremap <C-s> :w<cr>
+nmap <C-a> ggVG
+nnoremap <A-a> <C-a>
+
 nnoremap U <C-r>
 
 nnoremap d "_d
@@ -97,7 +100,5 @@ nnoremap <C-H> <C-W><C-H>
 set splitbelow
 set splitright
 
-
-" open `:help` in a vertical split
-" cnoremap help vert help
-" cnoremap h help
+" paste in command mode
+cnoremap <C-v> <C-r>+
