@@ -9,6 +9,7 @@ nmap <C-_> gcc
 xmap <C-_> gcc
 nmap <leader>/ gcc
 xmap <leader>/ gcc
+
 nmap <leader>a ggVG
 nmap <leader>b :call RunPythonFile()<cr>
 if has("unix")
