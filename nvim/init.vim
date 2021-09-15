@@ -83,13 +83,18 @@ set whichwrap+=<,>,h,l
 
 set encoding=utf-8
 
-" Disables automatic commenting on newline:
-    autocmd FileType * setlocal formatoptions-=c formatoptions-=r formatoptions-=o
-" Automatically deletes all trailing whitespace and newlines at end of file on save.
-    " autocmd BufWritePre * %s/\s+$//e
-    " autocmd BufWritePre * %s/\n+%$//e
-    " autocmd BufWritePre *.[ch] %s/%$/\r/e
+" Disables automatic commenting on newline
+autocmd FileType * setlocal formatoptions-=c formatoptions-=r formatoptions-=o
 
+" Allow comments in json
+autocmd FileType json set filetype=jsonc
+
+" set default filetype for new file as `.md`
+autocmd BufEnter * if &filetype == "" | setlocal ft=markdown | endif
+
+" https://github.com/plasticboy/vim-markdown/issues/126
+au filetype markdown set formatoptions+=ro
+au filetype markdown set comments=b:*,b:-,b:+,b:1.,n:>
 
 set laststatus=2
 " let g:coc_global_extensions = [
@@ -101,24 +106,10 @@ set laststatus=2
 "   \ 'coc-json',
 "   \ 'coc-pyright',
 " ]
-" use an orange cursor in insert mode
-  let &t_SI = "\<Esc>]12;orange\x7"
-  " use a red cursor otherwise
-  let &t_EI = "\<Esc>]12;red\x7"
-  silent !echo -ne "\033]12;red\007"
-  " reset cursor when vim exits
-  autocmd VimLeave * silent !echo -ne "\033]112\007"
-  " use \003]12;gray\007 for gnome-terminal and rxvt up to version 9.21
-  let &t_EI .= "\<Esc>[2 q"
 
-autocmd InsertEnter * :set norelativenumber
-autocmd InsertLeave * :set relativenumber
 
 let g:vimsyn_embed = 'l' " get lua syntax highlighting in vimscript
 
-augroup JsonToJsonc
-    autocmd! FileType json set filetype=jsonc
-augroup END
 
 highlight Visual guibg=#434C5E
 highlight Search guifg=#C678DD guibg=#4C566A
