@@ -11,7 +11,6 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 " Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
 " Plug 'deoplete-plugins/deoplete-jedi'
 " Plug 'davidhalter/jedi-vim'
-" Plug 'vim-airline/vim-airline'
 Plug 'hoob3rt/lualine.nvim'
 Plug 'preservim/nerdtree'
 Plug 'machakann/vim-highlightedyank'
@@ -20,7 +19,6 @@ Plug 'Yggdroot/indentLine'
 Plug 'ntpeters/vim-better-whitespace'
 Plug 'vim-scripts/matchit.zip'
 " Plug 'vim-syntastic/syntastic'
-" Plug 'ervandew/supertab'
 " Plug 'airblade/vim-gitgutter'
 if has("unix")
     Plug 'rrethy/vim-hexokinase', { 'do': 'make hexokinase' }
