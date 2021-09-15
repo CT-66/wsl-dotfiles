@@ -1,3 +1,16 @@
+if has("unix")
+    :source ~/.config/nvim/plugins.vim
+    :source ~/.config/nvim/plugins-settings.vim
+    :source ~/.config/nvim/keymaps.vim
+elseif has("win32")
+    :source ~\AppData\Local\nvim\plugins.vim
+    :source ~\AppData\Local\nvim\plugins-settings.vim
+    :source ~\AppData\Local\nvim\keymaps.vim
+    :source ~\AppData\Local\nvim\windows-related-config.vim
+endif
+
+" -----
+
 set nocompatible
 set t_Co=256
 set encoding=UTF-8
@@ -15,13 +28,6 @@ set clipboard=unnamedplus
 " show matching brackets/parenthesis
 " set showmatch
 
-
-" -----
-
-" colorscheme nord
-colorscheme onedark
-" colorscheme one
-
 " -----
 
 set number relativenumber
@@ -37,18 +43,6 @@ set foldcolumn=1
 
 set cursorline
 
-if has("unix")
-    :source ~/.config/nvim/plugins.vim
-    :source ~/.config/nvim/plugins-settings.vim
-    :source ~/.config/nvim/keymaps.vim
-elseif has("win32")
-    :source ~\AppData\Local\nvim\plugins.vim
-    :source ~\AppData\Local\nvim\plugins-settings.vim
-    :source ~\AppData\Local\nvim\keymaps.vim
-    :source ~\AppData\Local\nvim\windows-related-config.vim
-endif
-
-" -----
 
 function! RunPythonFile()
     :w
@@ -123,6 +117,10 @@ set laststatus=2
 let g:vimsyn_embed = 'l' " get lua syntax highlighting in vimscript
 
 " -----
+
+" colorscheme nord
+colorscheme onedark
+" colorscheme one
 
 highlight Visual guibg=#434C5E
 highlight Search guifg=#C678DD guibg=#4C566A
