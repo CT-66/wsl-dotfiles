@@ -105,6 +105,7 @@ nnoremap <S-left> :vertical resize -5<cr>
 nnoremap <S-right> :vertical resize +5<cr>
 nnoremap <S-up> :resize +5<cr>
 nnoremap <S-down> :resize -5<cr>
+nnoremap = <C-w>=
 
 " paste in command mode
 cnoremap <C-v> <C-r>+
