@@ -9,6 +9,7 @@ fi
 # zshenv symlink
 # echo $zdotdir to .zshenv symlink in .config
 # only nvim, zsh as of now
+# install vim plug
 # nvim +PlugInstall +qall ; echo "Installed nvim plugins" (if successful, else echo "failed to install nvim plugins")
 # make every existing directory to *.backup
 #
