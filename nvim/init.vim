@@ -103,6 +103,10 @@ au filetype markdown set comments=b:*,b:-,b:+,b:1.,n:>
 " open `:help` as a vertical split
 autocmd FileType help wincmd L
 
+let g:vim_json_syntax_conceal = 0
+let g:vim_markdown_conceal = 0
+let g:vim_markdown_conceal_code_blocks = 0
+
 " -----
 
 set laststatus=2

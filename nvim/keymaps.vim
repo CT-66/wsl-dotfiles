@@ -1,8 +1,5 @@
 let mapleader = " "
 
-" use tab completion for coc.nvim
-inoremap <expr><TAB>  pumvisible() ? "\<C-n>" : "\<TAB>"
-
 " leader key bindings
 nmap <leader><leader> :w<cr>
 nmap <C-_> gcc
