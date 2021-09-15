@@ -101,19 +101,19 @@ function vi-yank-custom {
 zle -N vi-yank-custom
 bindkey -M vicmd 'y' vi-yank-custom
 
-if [ -f ".sudo_as_admin_successful" ]; then
+if [ -f "$HOME/.sudo_as_admin_successful" ]; then
     rm ".sudo_as_admin_successful"
 fi
 
-if [ -f ".viminfo" ]; then
+if [ -f "$HOME/.viminfo" ]; then
     rm ".viminfo"
 fi
 
-if [ -f ".bash_history" ]; then
+if [ -f "$HOME/.bash_history" ]; then
     rm ".bash_history"
 fi
 
-if [ -f ".node_repl_history" ]; then
+if [ -f "$HOME/.node_repl_history" ]; then
     rm ".node_repl_history"
 fi
 
