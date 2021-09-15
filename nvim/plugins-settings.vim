@@ -105,3 +105,9 @@ let g:Hexokinase_ftEnabled = ['css', 'html', 'javascript', 'json']
 " EOF
 
 " -----
+
+" indentline
+let g:indentLine_concealcursor = ""
+let g:indentLine_setConceal = 0
+
+" -----
