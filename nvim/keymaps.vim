@@ -99,3 +99,8 @@ nnoremap <C-H> <C-W><C-H>
 " Open new split panes to right and bottom
 set splitbelow
 set splitright
+
+
+" open `:help` in a vertical split
+" cnoremap help vert help
+" cnoremap h help

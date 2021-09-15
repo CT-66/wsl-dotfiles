@@ -100,6 +100,9 @@ autocmd BufEnter * if &filetype == "" | setlocal ft=markdown | endif
 au filetype markdown set formatoptions+=ro
 au filetype markdown set comments=b:*,b:-,b:+,b:1.,n:>
 
+" open `:help` as a vertical split
+autocmd FileType help wincmd L
+
 " -----
 
 set laststatus=2
@@ -135,5 +138,3 @@ highlight Comment guifg=#7f848e
 " PmenuThumb	Popup menu: Thumb of the scrollbar.
 
 " -----
-
-cnoremap help vert help
