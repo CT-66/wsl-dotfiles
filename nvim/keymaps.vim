@@ -100,5 +100,11 @@ nnoremap <C-H> <C-W><C-H>
 set splitbelow
 set splitright
 
+" resize splits
+nnoremap <S-left> :vertical resize -5<cr>
+nnoremap <S-right> :vertical resize +5<cr>
+nnoremap <S-up> :resize +5<cr>
+nnoremap <S-down> :resize -5<cr>
+
 " paste in command mode
 cnoremap <C-v> <C-r>+
