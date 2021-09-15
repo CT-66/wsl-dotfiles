@@ -2,10 +2,15 @@
 # not completed yet
 # do not use!!
 
+CONFIG_DIR=$HOME/.config
+
 if [ -d "$HOME/.config" ]; then
     echo "[test] ~/.config exists!"
 fi
 
+# if .config exists, dont do anything; else, mkdir $HOME/.config
+# if -d $HOME/.config/zsh, dont do anything; else, mkdir CONFIG_DIR/zsh
+# if -d $HOME/.config/nvim, dont do anything; else, mkdir CONFIG_DIR/nvim
 # zshenv symlink
 # echo $zdotdir to .zshenv symlink in .config
 # only nvim, zsh as of now
