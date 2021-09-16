@@ -33,6 +33,8 @@ nmap k gk
 nmap <Up> gk
 nmap <Down> gj
 
+nmap pn <esc>o<esc>p
+
 nnoremap <Left> ^
 nnoremap <Right> $
 
