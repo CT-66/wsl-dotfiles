@@ -37,7 +37,9 @@
         "defaults":
         {
             "colorScheme": "One Half Dark_Old",
-            "cursorColor": "#7EC2CF",
+            /* "cursorColor": "#7EC2CF", */
+            "cursorColor": "#626e85",
+            /* "cursorColor": "#7d8799", */
             "font":
             {
                 "face": "CaskaydiaCove NF",
