@@ -9,6 +9,9 @@ xmap <leader>/ gcc
 
 nmap <leader>a ggVG
 nmap <leader>b :call RunPythonFile()<cr>
+nmap <C-b> :call RunPythonFile()<cr>
+
+
 if has("unix")
     nmap <leader>v :source ~/.config/nvim/init.vim<cr>
 elseif has("win32")

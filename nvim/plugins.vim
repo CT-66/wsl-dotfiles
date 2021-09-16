@@ -26,7 +26,8 @@ if has("unix")
 endif
 Plug 'tpope/vim-surround'
 " Plug 'karb94/neoscroll.nvim'
-Plug 'ryanoasis/vim-devicons' " Always last
+Plug 'kyazdani42/nvim-web-devicons'
+Plug 'romgrk/barbar.nvim'
 
 
 call plug#end()

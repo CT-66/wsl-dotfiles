@@ -1,3 +1,7 @@
+:lua << EOF
+require "./plugins-settings.lua"
+EOF
+
 " nerdtree
 nmap \ :NERDTreeToggle<CR>
 let NERDTreeShowHidden=1
@@ -47,26 +51,26 @@ endfunction
 
 " -----
 
-" lualine
-:lua << EOF
-require('lualine').setup {
-  options = {
-    icons_enabled = true,
-    theme = 'onedark',
-    component_separators = {},
-    section_separators = {},
-  },
-  sections = {
-    lualine_a = {'mode'},
-    lualine_b = {'branch'},
-    lualine_c = {'filename'},
-    lualine_x = {'filetype'},
-    lualine_y = {'diagnostics'},
-    lualine_z = {}
-  },
-  extensions = {}
-}
-EOF
+" " lualine
+" :lua << EOF
+" require('lualine').setup {
+"   options = {
+"     icons_enabled = true,
+"     theme = 'onedark',
+"     component_separators = {},
+"     section_separators = {},
+"   },
+"   sections = {
+"     lualine_a = {'mode'},
+"     lualine_b = {'branch'},
+"     lualine_c = {'filename'},
+"     lualine_x = {'filetype'},
+"     lualine_y = {'diagnostics'},
+"     lualine_z = {}
+"   },
+"   extensions = {}
+" }
+" EOF
 
 " -----
 
