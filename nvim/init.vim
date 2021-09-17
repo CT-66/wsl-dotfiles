@@ -133,6 +133,7 @@ highlight Visual guibg=#434C5E
 highlight Search guifg=#C678DD guibg=#4C566A
 highlight Comment guifg=#7f848e
 highlight TabLineSel guifg=#282C34 guibg=#61AFEF
+highlight CursorLineNr guifg=#61AFEF
 
 
 function! Tabline() abort
