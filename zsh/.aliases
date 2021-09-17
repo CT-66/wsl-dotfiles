@@ -24,11 +24,11 @@ alias -g .4='cd ../../../../'
 alias -g .....='cd ../../../../../'
 alias -g .5='cd ../../../../../'
 
-alias -g ll='ls -lAFh --color=always'
-alias -g la='ls -Ah --color=always'
-alias -g l='ls -CFh --color=always'
-alias -g ls='ls -h --color=always'
-alias -g l.='ls -a | egrep -in "^\."'
+alias -g ll='ls -lAFhp --color=always'
+alias -g la='ls -Ahp --color=always'
+alias -g l='ls -CFhp --color=always'
+alias -g ls='ls -hp --color=always'
+alias -g l.='ls -ap | egrep -in "^\."'
 
 alias -g ping='ping -c 5'
 

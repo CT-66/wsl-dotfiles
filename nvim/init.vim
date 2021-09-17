@@ -30,7 +30,7 @@ set clipboard=unnamedplus
 
 " -----
 
-set number
+set number relativenumber
 set visualbell
 set t_vb=
 set noerrorbells
@@ -163,9 +163,9 @@ endfunction
 
 " set tabline=%!Tabline()
 
-function bufferline#highlight#setup()
-    let bg_current  = s:bg(['Normal'], '#61AFEF')
-endfunct
+" function bufferline#highlight#setup()
+"     let bg_current  = s:bg(['Normal'], '#61AFEF')
+" endfunct
 
 " Pmenu
 " highlight Pmenu guifg=#434C5E
