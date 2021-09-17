@@ -45,6 +45,7 @@ alias -g alacritty_settings='nvim /mnt/c/Users/iamsh/AppData/Roaming/alacritty/a
 alias -g vimrc='nvim ~/.config/nvim/init.vim'
 alias -g vim_plugins='nvim ~/.config/nvim/plugins.vim'
 alias -g vim_plugins_settings='nvim ~/.config/nvim/plugins-settings.vim'
+alias -g vim_plugins_settings_lua='nvim ~/.config/nvim/lua/plugins-settings.lua'
 alias -g vim_keymaps='nvim ~/.config/nvim/keymaps.vim'
 
 alias bash='bash --rcfile ~/.config/bash/.bashrc'

@@ -3,9 +3,9 @@ let mapleader = " "
 " leader key bindings
 nmap <leader><leader> :w<cr>
 nmap <C-_> gcc
-xmap <C-_> gcc
+xmap <C-_> gc
 nmap <leader>/ gcc
-xmap <leader>/ gcc
+xmap <leader>/ gc
 
 nmap <leader>a ggVG
 nmap <leader>b :call RunPythonFile()<cr>

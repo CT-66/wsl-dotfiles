@@ -30,7 +30,7 @@ set clipboard=unnamedplus
 
 " -----
 
-set number relativenumber
+set number
 set visualbell
 set t_vb=
 set noerrorbells
@@ -103,6 +103,10 @@ au filetype markdown set comments=b:*,b:-,b:+,b:1.,n:>
 " open `:help` as a vertical split
 autocmd FileType help wincmd L
 
+" enable relative line numbers in normal mode, and regular line numbers in insert mode
+autocmd InsertEnter * :set norelativenumber
+autocmd InsertLeave * :set relativenumber
+
 " -----
 
 set laststatus=2
@@ -157,7 +161,11 @@ function! Tabline() abort
     return l:line
 endfunction
 
-set tabline=%!Tabline()
+" set tabline=%!Tabline()
+
+function bufferline#highlight#setup()
+    let bg_current  = s:bg(['Normal'], '#61AFEF')
+endfunct
 
 " Pmenu
 " highlight Pmenu guifg=#434C5E
