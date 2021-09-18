@@ -27,6 +27,10 @@ set noshowmode " already shown by statusline
 set clipboard=unnamedplus
 " show matching brackets/parenthesis
 " set showmatch
+" Don’t reset cursor to start of line when moving around.
+set nostartofline
+set wildmenu
+set wildmode=longest:full,full
 
 " -----
 

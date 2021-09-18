@@ -44,6 +44,9 @@ nnoremap <Right> $
 nmap d<Left> d^
 nmap d<Right> d$
 
+vnoremap <left> ^
+vnoremap <right> $
+
 " disable  ex mode
 nnoremap Q <Nop>
 
@@ -114,3 +117,6 @@ nnoremap = <C-w>=
 
 " paste in command mode
 cnoremap <C-v> <C-r>+
+
+" paste in insert mode
+imap <C-v> <C-r>+

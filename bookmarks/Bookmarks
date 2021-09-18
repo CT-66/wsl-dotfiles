@@ -1,5 +1,5 @@
 {
-   "checksum": "2c732dad673588dded1b8837356929ce",
+   "checksum": "0aae5447e00a60f95b6e54881aaf387b",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1757,9 +1757,30 @@
                   "name": "How to create a custom Toggle Switch using CSS - DEV Community",
                   "type": "url",
                   "url": "https://dev.to/karankmr/how-to-create-a-custom-toggle-switch-using-css-4pmi"
+               }, {
+                  "date_added": "13276476380612865",
+                  "guid": "e1155623-376e-4f77-acba-bb44e0fb30ac",
+                  "id": "933",
+                  "name": "https://missing.csail.mit.edu/",
+                  "type": "url",
+                  "url": "https://missing.csail.mit.edu/"
+               }, {
+                  "date_added": "13276476745805676",
+                  "guid": "878c876c-052c-468b-966b-eeffe775a28b",
+                  "id": "935",
+                  "name": "https://github.com/johnBuffer/NoCol",
+                  "type": "url",
+                  "url": "https://github.com/johnBuffer/NoCol"
+               }, {
+                  "date_added": "13276480866952871",
+                  "guid": "76761785-2451-452c-9c13-57f3cbf6480c",
+                  "id": "938",
+                  "name": "https://github.com/JStumpp/awesome-android",
+                  "type": "url",
+                  "url": "https://github.com/JStumpp/awesome-android"
                } ],
                "date_added": "13259164410255224",
-               "date_modified": "13274649225103375",
+               "date_modified": "13276480866952871",
                "guid": "b72072dc-3c13-44a8-bd4a-ef8cb1a43e6e",
                "id": "175",
                "name": "Programming",
@@ -1976,9 +1997,23 @@
                      "name": "noctuid/tdrop: A Glorified WM-Independent Dropdown Creator",
                      "type": "url",
                      "url": "https://github.com/noctuid/tdrop"
+                  }, {
+                     "date_added": "13276476513641755",
+                     "guid": "bfd35332-a449-4a27-b7d6-ee9b9dcfd021",
+                     "id": "934",
+                     "name": "https://libreboot.org/",
+                     "type": "url",
+                     "url": "https://libreboot.org/"
+                  }, {
+                     "date_added": "13276480218854521",
+                     "guid": "502522e8-f553-4988-b8f3-2688f526c2c5",
+                     "id": "937",
+                     "name": "https://wiki.archlinux.org/title/lemonbar",
+                     "type": "url",
+                     "url": "https://wiki.archlinux.org/title/lemonbar"
                   } ],
                   "date_added": "13273873471231201",
-                  "date_modified": "13275584900360857",
+                  "date_modified": "13276480218854521",
                   "guid": "862ede73-df33-4df1-89cd-803d50a3c255",
                   "id": "843",
                   "name": "Software",
@@ -2075,9 +2110,16 @@
                      "name": "from /r/unixporn - Album on Imgur",
                      "type": "url",
                      "url": "https://imgur.com/a/4XupgFK"
+                  }, {
+                     "date_added": "13276477237738789",
+                     "guid": "f1f477ce-25e8-4163-b995-a2d4c923b08b",
+                     "id": "936",
+                     "name": "https://www.makeuseof.com/tag/linux-desktop-look-fantastic/",
+                     "type": "url",
+                     "url": "https://www.makeuseof.com/tag/linux-desktop-look-fantastic/"
                   } ],
                   "date_added": "13273873815388362",
-                  "date_modified": "13274891971507676",
+                  "date_modified": "13276477237738789",
                   "guid": "3dc6fb42-5196-4d30-be34-91d41dcc09fb",
                   "id": "844",
                   "name": "Ricing",

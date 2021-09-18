@@ -28,7 +28,7 @@ alias -g ll='ls -lAFhp --color=always'
 alias -g la='ls -Ahp --color=always'
 alias -g l='ls -CFhp --color=always'
 alias -g ls='ls -hp --color=always'
-alias -g l.='ls -ap | egrep -in "^\."'
+alias -g l.='ls -Ap | egrep -in "^\."'
 
 # alias -g ls="exa"
 alias -g exa='exa -1 --color=always --icons'
@@ -105,6 +105,6 @@ alias -g youtube-dl='/usr/bin/python3 /usr/local/bin/youtube-dl'
 alias tmux='tmux -f ~/.config/tmux/tmux.conf'
 alias -g t=tmux
 alias -g t-ls='tmux list-sessions'
-alias -g t-ks='tmux kill-session'
+alias -g tls='tmux list-sessions'
 alias -g tmux-ls='tmux list-sessions'
 alias -g tmux-ks='tmux kill-session'
