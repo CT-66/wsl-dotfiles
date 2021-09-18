@@ -1,5 +1,5 @@
 {
-   "checksum": "0d19507fb0397c1ef637886ffde5e038",
+   "checksum": "2c732dad673588dded1b8837356929ce",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3175,9 +3175,23 @@
                "name": "vim - How do I highlight the current line and the cursor in .vimrc? - Unix & Linux Stack Exchange",
                "type": "url",
                "url": "https://unix.stackexchange.com/questions/72797/how-do-i-highlight-the-current-line-and-the-cursor-in-vimrc"
+            }, {
+               "date_added": "13276472584452926",
+               "guid": "e5201208-67ec-49b7-9a39-c059dfe9aaff",
+               "id": "931",
+               "name": "Alacritty Ctrl+/",
+               "type": "url",
+               "url": "https://www.google.com/search?q=alacritty+ctrl+slash"
+            }, {
+               "date_added": "13276472730790650",
+               "guid": "b276ddae-0516-459e-8167-8c4ae5d45b08",
+               "id": "932",
+               "name": "Alacritty Vim Mouse- Windows",
+               "type": "url",
+               "url": "https://www.google.com/search?q=alacritty+vim+mouse+windows"
             } ],
             "date_added": "13273077609386347",
-            "date_modified": "13273095299398928",
+            "date_modified": "13276472730790650",
             "guid": "5934a8fb-c902-4c38-8ac7-3e7b425f6b4c",
             "id": "740",
             "name": "todo",

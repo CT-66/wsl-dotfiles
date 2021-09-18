@@ -30,6 +30,9 @@ alias -g l='ls -CFhp --color=always'
 alias -g ls='ls -hp --color=always'
 alias -g l.='ls -ap | egrep -in "^\."'
 
+# alias -g ls="exa"
+alias -g exa='exa -1 --color=always --icons'
+
 alias -g ping='ping -c 5'
 
 alias -g zshrc='nvim ~/.config/zsh/.zshrc'
