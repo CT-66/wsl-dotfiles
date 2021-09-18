@@ -93,7 +93,7 @@ autocmd FileType * setlocal formatoptions-=c formatoptions-=r formatoptions-=o
 " Allow comments in json
 autocmd FileType json set filetype=jsonc
 
-" set default filetype for new file as `.md`
+" set default filetype for new file as `.md`intenseTextStyle": "bold"
 autocmd BufEnter * if &filetype == "" | setlocal ft=markdown | endif
 
 " https://github.com/plasticboy/vim-markdown/issues/126
@@ -129,11 +129,10 @@ let g:vimsyn_embed = 'l' " get lua syntax highlighting in vimscript
 colorscheme onedark
 " colorscheme material
 
-highlight Visual guibg=#434C5E
-highlight Search guifg=#C678DD guibg=#4C566A
-highlight Comment guifg=#7f848e
-highlight TabLineSel guifg=#282C34 guibg=#61AFEF
-highlight CursorLineNr guifg=#61AFEF
+highlight Visual guibg=#434C5E gui=bold
+highlight Search guifg=#C678DD guibg=#4C566A gui=bold
+highlight Comment guifg=#7f848e gui=bold
+highlight TabLineSel guifg=#282C34 guibg=#61AFEF gui=bold
 
 
 function! Tabline() abort
