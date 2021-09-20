@@ -44,6 +44,7 @@ set title
 set confirm
 set wrap
 set foldcolumn=1
+set foldmethod=indent
 
 set cursorline
 
@@ -53,7 +54,27 @@ function! RunPythonFile()
     :exec '!python.exe' shellescape(@%, 1)
 endfunction
 
-
+function! MarkdownLevel()
+    if getline(v:lnum) =~ '^# .*$'
+        return ">1"
+    endif
+    if getline(v:lnum) =~ '^## .*$'
+        return ">2"
+    endif
+    if getline(v:lnum) =~ '^### .*$'
+        return ">3"
+    endif
+    if getline(v:lnum) =~ '^#### .*$'
+        return ">4"
+    endif
+    if getline(v:lnum) =~ '^##### .*$'
+        return ">5"
+    endif
+    if getline(v:lnum) =~ '^###### .*$'
+        return ">6"
+    endif
+    return "="
+endfunction
 
 set autoindent
 set expandtab
@@ -97,8 +118,9 @@ autocmd FileType * setlocal formatoptions-=c formatoptions-=r formatoptions-=o
 " Allow comments in json
 autocmd FileType json set filetype=jsonc
 
-" set default filetype for new file as `.md`intenseTextStyle": "bold"
+" set default filetype for new file as `.md`
 autocmd BufEnter * if &filetype == "" | setlocal ft=markdown | endif
+
 
 " https://github.com/plasticboy/vim-markdown/issues/126
 au filetype markdown set formatoptions+=ro
@@ -110,6 +132,10 @@ autocmd FileType help wincmd L
 " enable relative line numbers in normal mode, and regular line numbers in insert mode
 autocmd InsertEnter * :set norelativenumber
 autocmd InsertLeave * :set relativenumber
+
+" markdown folding
+au! BufEnter *.md setlocal foldexpr=MarkdownLevel()
+au! BufEnter *.md setlocal foldmethod=expr
 
 " -----
 

@@ -1,5 +1,5 @@
 {
-   "checksum": "ec6e76fe522f4067a979504b35f1606f",
+   "checksum": "6f355b4192072c03b691d9e2f7f4da16",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3336,9 +3336,23 @@
                "name": "A Good Vimrc",
                "type": "url",
                "url": "https://dougblack.io/words/a-good-vimrc.html"
+            }, {
+               "date_added": "13276602978659921",
+               "guid": "d7e2756b-2429-4516-9373-b475cba9aca7",
+               "id": "960",
+               "name": "06 - Plugins - Open files with CtrlP and NerdTree",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=9XrHk3xjYsw"
+            }, {
+               "date_added": "13276603561598416",
+               "guid": "8ae27d70-7be0-4a6f-a121-714d1bae2352",
+               "id": "961",
+               "name": "What are the most-used vim commands/keypresses?",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/5400806/what-are-the-most-used-vim-commands-keypresses/5400978#5400978"
             } ],
             "date_added": "13273077609386347",
-            "date_modified": "13276601716460573",
+            "date_modified": "13276603561598416",
             "guid": "5934a8fb-c902-4c38-8ac7-3e7b425f6b4c",
             "id": "740",
             "name": "todo",
