@@ -1,5 +1,5 @@
 {
-   "checksum": "0aae5447e00a60f95b6e54881aaf387b",
+   "checksum": "c8e9a93699eeaa38658f5db78c670ffd",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1780,7 +1780,7 @@
                   "url": "https://github.com/JStumpp/awesome-android"
                } ],
                "date_added": "13259164410255224",
-               "date_modified": "13276480866952871",
+               "date_modified": "13276599987088645",
                "guid": "b72072dc-3c13-44a8-bd4a-ef8cb1a43e6e",
                "id": "175",
                "name": "Programming",
@@ -3231,9 +3231,16 @@
                "name": "Alacritty Vim Mouse- Windows",
                "type": "url",
                "url": "https://www.google.com/search?q=alacritty+vim+mouse+windows"
+            }, {
+               "date_added": "13276599987088645",
+               "guid": "4624e8c6-37a8-4d2d-a2fc-5b3d487163c7",
+               "id": "940",
+               "name": "neovim has added the ability to highlight yanked text, try it : neovim",
+               "type": "url",
+               "url": "https://www.reddit.com/r/neovim/comments/gofplz/neovim_has_added_the_ability_to_highlight_yanked/"
             } ],
             "date_added": "13273077609386347",
-            "date_modified": "13276472730790650",
+            "date_modified": "13276599990929357",
             "guid": "5934a8fb-c902-4c38-8ac7-3e7b425f6b4c",
             "id": "740",
             "name": "todo",
