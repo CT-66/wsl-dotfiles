@@ -1,5 +1,5 @@
 {
-   "checksum": "c8e9a93699eeaa38658f5db78c670ffd",
+   "checksum": "e8bb01ab512a194e0f5664d9f826484a",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1778,9 +1778,37 @@
                   "name": "https://github.com/JStumpp/awesome-android",
                   "type": "url",
                   "url": "https://github.com/JStumpp/awesome-android"
+               }, {
+                  "date_added": "13276600850680845",
+                  "guid": "a859d8b5-d089-4f59-b340-1632d90e485d",
+                  "id": "945",
+                  "name": "The Video Game Name Generator",
+                  "type": "url",
+                  "url": "https://videogamena.me/"
+               }, {
+                  "date_added": "13276600897790149",
+                  "guid": "ae20e071-b21b-4372-80a9-892f07e1a31c",
+                  "id": "946",
+                  "name": "Primer on Python Decorators – Real Python",
+                  "type": "url",
+                  "url": "https://realpython.com/primer-on-python-decorators/"
+               }, {
+                  "date_added": "13276600922321866",
+                  "guid": "6a7bc4a9-d713-404a-97ca-2e68d41ba868",
+                  "id": "947",
+                  "name": "How To Create a Search Bar",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/howto/howto_css_searchbar.asp"
+               }, {
+                  "date_added": "13276601000074356",
+                  "guid": "befda307-8794-4f6f-b61f-879fb5adb07f",
+                  "id": "949",
+                  "name": "CSS Buttons",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/css/css3_buttons.asp"
                } ],
                "date_added": "13259164410255224",
-               "date_modified": "13276599987088645",
+               "date_modified": "13276601000074356",
                "guid": "b72072dc-3c13-44a8-bd4a-ef8cb1a43e6e",
                "id": "175",
                "name": "Programming",
@@ -2486,13 +2514,6 @@
                "name": "How to Build Command Line Interfaces in Python With argparse – Real Python",
                "type": "url",
                "url": "https://realpython.com/command-line-interfaces-python-argparse/"
-            }, {
-               "date_added": "13267435954972292",
-               "guid": "50281ba5-eaef-475b-bf84-8f44e626c10d",
-               "id": "676",
-               "name": "francoischalifour/todo-cli: ✅ Command-line tool to manage Todo lists",
-               "type": "url",
-               "url": "https://github.com/francoischalifour/todo-cli/"
             }, {
                "date_added": "13267435958536494",
                "guid": "411d46b0-ce87-456c-8744-2135bcdf4d93",
@@ -3238,9 +3259,79 @@
                "name": "neovim has added the ability to highlight yanked text, try it : neovim",
                "type": "url",
                "url": "https://www.reddit.com/r/neovim/comments/gofplz/neovim_has_added_the_ability_to_highlight_yanked/"
+            }, {
+               "date_added": "13276600678061870",
+               "guid": "5a1054aa-7854-4bd4-9269-bc20667efc5c",
+               "id": "942",
+               "name": "The Firefox codebase: CSS Guidelines - Mozilla | MDN",
+               "type": "url",
+               "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/CSS_Guidelines"
+            }, {
+               "date_added": "13276600698419150",
+               "guid": "7dca7550-478e-4233-a3d5-770379edf0aa",
+               "id": "943",
+               "name": "Mozilla CSS extensions - CSS: Cascading Style Sheets | MDN",
+               "type": "url",
+               "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Mozilla_Extensions"
+            }, {
+               "date_added": "13276600776366824",
+               "guid": "fc141d00-95de-4d6b-81b2-3764cff0b4a8",
+               "id": "944",
+               "name": "From Zero to Game Designer: how to start building video games even if you don’t have any experience",
+               "type": "url",
+               "url": "https://www.freecodecamp.org/news/from-zero-to-game-designer-how-to-start-building-video-games-even-if-you-dont-have-any-experience-5e2f9f45f4bb/"
+            }, {
+               "date_added": "13276601183674567",
+               "guid": "1f830495-ace4-4b5f-9d3c-6eb75ee5e8e0",
+               "id": "952",
+               "name": "Visual Studio Code and Unity",
+               "type": "url",
+               "url": "https://code.visualstudio.com/docs/other/unity"
+            }, {
+               "date_added": "13276601433747078",
+               "guid": "704ae307-0108-4623-8687-612446fca96c",
+               "id": "953",
+               "name": "Custom CSS Scrollbar for Firefox - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/6165472/custom-css-scrollbar-for-firefox"
+            }, {
+               "date_added": "13276601447628344",
+               "guid": "900f40b2-fe5b-4cd2-8656-965f2df46b01",
+               "id": "954",
+               "name": "How to Change the Default Text Selection Color in the Browsers Using CSS",
+               "type": "url",
+               "url": "https://www.tutorialrepublic.com/faq/how-to-change-the-default-text-selection-color-in-the-browsers-using-css.php"
+            }, {
+               "date_added": "13276601466393357",
+               "guid": "64928623-0f2c-4556-b8f5-c25fcbcd8b76",
+               "id": "955",
+               "name": "Is there a way the change the color of the selected text in a search? | Firefox Support Forum | Mozilla Support",
+               "type": "url",
+               "url": "https://support.mozilla.org/en-US/questions/1063215"
+            }, {
+               "date_added": "13276601480463473",
+               "guid": "a25da6b8-58f8-48c8-bcb0-b3796d0c1cf6",
+               "id": "956",
+               "name": "Changing text selection colour from vile yellow of 59.0.2 to mellow blue of previous release | Firefox Support Forum | Mozilla Support",
+               "type": "url",
+               "url": "https://support.mozilla.org/en-US/questions/1214517"
+            }, {
+               "date_added": "13276601497049107",
+               "guid": "e90ee59f-cff7-4a65-9295-826c672826fa",
+               "id": "957",
+               "name": "muckSponge/MaterialFox: A Material Design-inspired userChrome.css theme for Firefox",
+               "type": "url",
+               "url": "https://github.com/muckSponge/MaterialFox"
+            }, {
+               "date_added": "13276601514652357",
+               "guid": "85ca754f-a4be-40b8-a100-4aa7422d3f1d",
+               "id": "958",
+               "name": "Browser Toolbox - Firefox Developer Tools | MDN",
+               "type": "url",
+               "url": "https://developer.mozilla.org/en-US/docs/Tools/Browser_Toolbox"
             } ],
             "date_added": "13273077609386347",
-            "date_modified": "13276599990929357",
+            "date_modified": "13276601514652357",
             "guid": "5934a8fb-c902-4c38-8ac7-3e7b425f6b4c",
             "id": "740",
             "name": "todo",
@@ -3259,6 +3350,13 @@
             "name": "GitHub - newsboat/newsboat: An RSS/Atom feed reader for text terminals",
             "type": "url",
             "url": "https://github.com/newsboat/newsboat"
+         }, {
+            "date_added": "13276601087463265",
+            "guid": "0dd3bbd1-53b4-4011-8513-1a07a7301ef1",
+            "id": "950",
+            "name": "Argparse",
+            "type": "url",
+            "url": "https://realpython.com/command-line-interfaces-python-argparse"
          }, {
             "date_added": "13273077651518546",
             "guid": "9aa0a634-05bf-4176-9dd7-5b6f1787973a",
@@ -3280,9 +3378,23 @@
             "name": "tmux vi copy paste - Google Search",
             "type": "url",
             "url": "https://www.google.com/search?q=tmux+vi+copy+paste&iflsig=AINFCbYAAAAAYSHKRofxU3AjpaeZIi5w29b2BIX6zP5T"
+         }, {
+            "date_added": "13276600962928451",
+            "guid": "dbd457e2-d16e-40d3-b185-4661c1a95a2d",
+            "id": "948",
+            "name": "How to start contributing to open-source projects ",
+            "type": "url",
+            "url": "https://towardsdatascience.com/how-to-start-contributing-to-open-source-projects-10d0517b13d8?gi=9c796e90fcc3"
+         }, {
+            "date_added": "13276601118642896",
+            "guid": "f2e7607a-5cea-4dac-a1ad-c5413746fbd6",
+            "id": "951",
+            "name": "francoischalifour/todo-cli: ✅ Command-line tool to manage Todo lists",
+            "type": "url",
+            "url": "https://github.com/francoischalifour/todo-cli/"
          } ],
          "date_added": "13253039366923366",
-         "date_modified": "13274645719672211",
+         "date_modified": "13276601118642896",
          "guid": "00000000-0000-4000-a000-000000000002",
          "id": "1",
          "name": "Bookmarks",
