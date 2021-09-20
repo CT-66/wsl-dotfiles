@@ -1,5 +1,5 @@
 {
-   "checksum": "e8bb01ab512a194e0f5664d9f826484a",
+   "checksum": "ec6e76fe522f4067a979504b35f1606f",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3329,9 +3329,16 @@
                "name": "Browser Toolbox - Firefox Developer Tools | MDN",
                "type": "url",
                "url": "https://developer.mozilla.org/en-US/docs/Tools/Browser_Toolbox"
+            }, {
+               "date_added": "13276601716460573",
+               "guid": "46f5c2a7-c9c3-4b5d-9f49-53b7fb734410",
+               "id": "959",
+               "name": "A Good Vimrc",
+               "type": "url",
+               "url": "https://dougblack.io/words/a-good-vimrc.html"
             } ],
             "date_added": "13273077609386347",
-            "date_modified": "13276601514652357",
+            "date_modified": "13276601716460573",
             "guid": "5934a8fb-c902-4c38-8ac7-3e7b425f6b4c",
             "id": "740",
             "name": "todo",
