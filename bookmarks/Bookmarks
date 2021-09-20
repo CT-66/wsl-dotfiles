@@ -1,5 +1,5 @@
 {
-   "checksum": "6f355b4192072c03b691d9e2f7f4da16",
+   "checksum": "9acac1323045e35c66a4e07f2f8e8c16",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3352,7 +3352,7 @@
                "url": "https://stackoverflow.com/questions/5400806/what-are-the-most-used-vim-commands-keypresses/5400978#5400978"
             } ],
             "date_added": "13273077609386347",
-            "date_modified": "13276603561598416",
+            "date_modified": "13276630809489573",
             "guid": "5934a8fb-c902-4c38-8ac7-3e7b425f6b4c",
             "id": "740",
             "name": "todo",
@@ -3413,9 +3413,16 @@
             "name": "francoischalifour/todo-cli: ✅ Command-line tool to manage Todo lists",
             "type": "url",
             "url": "https://github.com/francoischalifour/todo-cli/"
+         }, {
+            "date_added": "13276630809489573",
+            "guid": "3a98c68b-f961-4a0d-a0fd-ca52c6180a80",
+            "id": "963",
+            "name": "Rust Programming Language",
+            "type": "url",
+            "url": "https://www.rust-lang.org/"
          } ],
          "date_added": "13253039366923366",
-         "date_modified": "13276601118642896",
+         "date_modified": "13276630820278540",
          "guid": "00000000-0000-4000-a000-000000000002",
          "id": "1",
          "name": "Bookmarks",

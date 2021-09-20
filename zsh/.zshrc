@@ -117,6 +117,7 @@ if [ -f "$HOME/.node_repl_history" ]; then
     rm ".node_repl_history"
 fi
 
+
 # Use lf (or ranger) to switch directories and bind it to ctrl-o
 lfcd () {
     tmp="$(mktemp)"
