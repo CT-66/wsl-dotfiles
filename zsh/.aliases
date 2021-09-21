@@ -15,7 +15,7 @@ alias grep="grep -in --color=auto"
 alias .history='nvim ~/.cache/zsh/history'
 
 alias cd..='cd ../'
-alias ..='cd ../../'
+alias ..='cd ../'
 alias .2='cd ../../'
 alias ...='cd ../../../'
 alias .3='cd ../../../'
@@ -23,6 +23,8 @@ alias ....='cd ../../../../'
 alias .4='cd ../../../../'
 alias .....='cd ../../../../../'
 alias .5='cd ../../../../../'
+
+alias mkdir='mkdir -p'
 
 alias ll='ls -lAFhp --color=always'
 alias la='ls -Ahp --color=always'
