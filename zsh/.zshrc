@@ -101,26 +101,12 @@ function vi-yank-custom {
 zle -N vi-yank-custom
 bindkey -M vicmd 'y' vi-yank-custom
 
-if [ -f "$HOME/.sudo_as_admin_successful" ]; then
-    rm "$HOME/.sudo_as_admin_successful"
-fi
 
-if [ -f "$HOME/.viminfo" ]; then
-    rm "$HOME/.viminfo"
-fi
+files_to_be_removed=(.sudo_as_admin_successful .viminfo .bash_history .node_repl_history .lesshst)
 
-if [ -f "$HOME/.bash_history" ]; then
-    rm "$HOME/.bash_history"
-fi
-
-if [ -f "$HOME/.node_repl_history" ]; then
-    rm "$HOME/.node_repl_history"
-fi
-
-if [ -f "$HOME/.lesshst" ]; then
-    rm "$HOME/.lesshst"
-fi
-
+for file in "${files_to_be_removed[@]}"; do
+    rm -r "$HOME/$file"
+done
 
 # Use lf (or ranger) to switch directories and bind it to ctrl-o
 lfcd () {
