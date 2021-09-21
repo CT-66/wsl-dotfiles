@@ -68,9 +68,9 @@ inoremap <F1> <ESC>
 nnoremap <F1> <ESC>
 vnoremap <F1> <ESC>
 
-" disable trying to find man page entry (K)
-nnoremap K <Nop>
-xnoremap K <Nop>
+" " disable trying to find man page entry (K)
+" nnoremap K <Nop>
+" xnoremap K <Nop>
 
 " center cursor on movements like `j`, `k`, `G` and `n`, `N`
 " set scrolloff=999
@@ -99,10 +99,10 @@ nnoremap { {z
 nnoremap } }zz
 
 " splits
+nnoremap <C-H> <C-W><C-H>
 nnoremap <C-J> <C-W><C-J>
 nnoremap <C-K> <C-W><C-K>
 nnoremap <C-L> <C-W><C-L>
-nnoremap <C-H> <C-W><C-H>
 
 " Open new split panes to right and bottom
 set splitbelow
@@ -120,3 +120,9 @@ cnoremap <C-v> <C-r>+
 
 " paste in insert mode
 imap <C-v> <C-r>+
+
+" hjkl like movements in insert mode
+inoremap <C-h> <left>
+inoremap <C-j> <down>
+inoremap <C-k> <up>
+inoremap <C-l> <right>
