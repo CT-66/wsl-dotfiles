@@ -105,7 +105,9 @@ bindkey -M vicmd 'y' vi-yank-custom
 files_to_be_removed=(.sudo_as_admin_successful .viminfo .bash_history .node_repl_history .lesshst)
 
 for file in "${files_to_be_removed[@]}"; do
-    rm -r "$HOME/$file"
+    if [ -f "$HOME/$file" ]; then
+        rm -r "$HOME/$file"
+    fi
 done
 
 # Use lf (or ranger) to switch directories and bind it to ctrl-o
