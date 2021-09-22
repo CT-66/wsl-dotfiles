@@ -34,6 +34,11 @@ set wildmode=longest:full,full
 
 " -----
 
+set wrap
+set linebreak
+
+" -----
+
 set number relativenumber
 set visualbell
 set t_vb=
@@ -42,7 +47,6 @@ set tm=500
 set ttimeoutlen=50
 set title
 set confirm
-set wrap
 set foldcolumn=1
 set foldmethod=indent
 
