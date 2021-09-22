@@ -76,8 +76,8 @@ vnoremap <F1> <ESC>
 
 " center cursor on movements like `j`, `k`, `G` and `n`, `N`
 " set scrolloff=999
-nnoremap j jzz
-nnoremap k kzz
+" nnoremap j jzz
+" nnoremap k kzz
 
 " nnoremap <Down> jzz
 " nnoremap <Up> kzz
@@ -97,7 +97,7 @@ nnoremap # #zz
 nnoremap g* g*zz
 nnoremap g# g#zz
 
-nnoremap { {z
+nnoremap { {zz
 nnoremap } }zz
 
 " splits
