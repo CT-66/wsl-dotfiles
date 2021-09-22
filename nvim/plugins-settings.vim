@@ -6,6 +6,7 @@
 
 " nvim-tree.lua
 let g:nvim_tree_side = 'left'
+nnoremap <C-n> :NvimTreeToggle<CR>
 
 
 " -----
