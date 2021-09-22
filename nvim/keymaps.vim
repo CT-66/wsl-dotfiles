@@ -31,8 +31,11 @@ nnoremap x "_x
 nnoremap X "_X
 nnoremap c "_c
 
-nmap j gj
-nmap k gk
+" nmap j gj
+" nmap k gk
+nmap j gjzz
+nmap k gkzz
+
 " nmap <Up> gk
 " nmap <Down> gj
 noremap <up> <nop>
