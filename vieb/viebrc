@@ -1,1 +1,3 @@
 nmap ; :
+nnoremap x <closeTab>
+" map ZZ <closeTab>

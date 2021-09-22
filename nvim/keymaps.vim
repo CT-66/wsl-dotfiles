@@ -126,3 +126,9 @@ inoremap <C-h> <left>
 inoremap <C-j> <down>
 inoremap <C-k> <up>
 inoremap <C-l> <right>
+
+" disable arrow keys in insert mode
+imap <left> <nop>
+imap <right> <nop>
+imap <up> <nop>
+imap <down> <nop>
