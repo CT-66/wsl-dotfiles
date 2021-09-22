@@ -1,5 +1,5 @@
 {
-   "checksum": "9acac1323045e35c66a4e07f2f8e8c16",
+   "checksum": "d20ae4e8ce1f9b8880fd77cab88fbf6c",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3350,9 +3350,37 @@
                "name": "What are the most-used vim commands/keypresses?",
                "type": "url",
                "url": "https://stackoverflow.com/questions/5400806/what-are-the-most-used-vim-commands-keypresses/5400978#5400978"
+            }, {
+               "date_added": "13276773165806445",
+               "guid": "7643599a-44de-4698-941c-096ab788452c",
+               "id": "965",
+               "name": "Share your viebrc : vieb",
+               "type": "url",
+               "url": "https://www.reddit.com/r/vieb/comments/n7cto9/share_your_viebrc/"
+            }, {
+               "date_added": "13276773172969990",
+               "guid": "9370cd53-c0fe-4f9a-8784-9dceb718d49a",
+               "id": "966",
+               "name": "Vieb - Vim bindings for the web by design",
+               "type": "url",
+               "url": "https://vieb.dev/"
+            }, {
+               "date_added": "13276773176419864",
+               "guid": "004a7955-c019-45c5-b2cd-305db1b296b4",
+               "id": "967",
+               "name": "GitHub - Jelmerro/Vieb: Vim Inspired Electron Browser - Vim bindings for the web by design",
+               "type": "url",
+               "url": "https://github.com/Jelmerro/Vieb"
+            }, {
+               "date_added": "13276773180060559",
+               "guid": "2dadf2f0-9b0e-4a1b-850a-819554b11900",
+               "id": "968",
+               "name": "Vieb - Features",
+               "type": "url",
+               "url": "https://vieb.dev/features"
             } ],
             "date_added": "13273077609386347",
-            "date_modified": "13276630809489573",
+            "date_modified": "13276773180060559",
             "guid": "5934a8fb-c902-4c38-8ac7-3e7b425f6b4c",
             "id": "740",
             "name": "todo",
@@ -3423,7 +3451,7 @@
          } ],
          "date_added": "13253039366923366",
          "date_modified": "13276630820278540",
-         "guid": "00000000-0000-4000-a000-000000000002",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks",
          "type": "folder"
@@ -3432,7 +3460,7 @@
          "children": [  ],
          "date_added": "13253039366923373",
          "date_modified": "13264967599279450",
-         "guid": "00000000-0000-4000-a000-000000000003",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
          "id": "2",
          "name": "Other bookmarks",
          "type": "folder"
@@ -3441,7 +3469,7 @@
          "children": [  ],
          "date_added": "13253039366923377",
          "date_modified": "0",
-         "guid": "00000000-0000-4000-a000-000000000004",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
          "id": "3",
          "name": "Mobile bookmarks",
          "type": "folder"
