@@ -8,6 +8,9 @@
 let g:nvim_tree_side = 'left'
 nnoremap <C-n> :NvimTreeToggle<CR>
 
+" telescope.nvim
+nnoremap <C-p> <cmd>Telescope find_files<cr>
+
 
 " -----
 
