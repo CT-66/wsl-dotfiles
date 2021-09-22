@@ -33,8 +33,8 @@ nnoremap c "_c
 
 " nmap j gj
 " nmap k gk
-nmap j gjzz
-nmap k gkzz
+nmap j gj
+nmap k gk
 
 " nmap <Up> gk
 " nmap <Down> gj
@@ -85,7 +85,7 @@ vnoremap <F1> <ESC>
 " nnoremap <Down> jzz
 " nnoremap <Up> kzz
 
-nnoremap G Gzz
+" nnoremap G Gzz
 
 nnoremap <C-d> <C-d>zz
 nnoremap <C-u> <C-u>zz
@@ -100,8 +100,8 @@ nnoremap # #zz
 nnoremap g* g*zz
 nnoremap g# g#zz
 
-nnoremap { {zz
-nnoremap } }zz
+" nnoremap { {zz
+" nnoremap } }zz
 
 " splits
 nnoremap <C-H> <C-W><C-H>
