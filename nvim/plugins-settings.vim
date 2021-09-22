@@ -1,8 +1,12 @@
 :lua require('plugins-settings')
 
 " nerdtree
-nmap \ :NERDTreeToggle<CR>
-let NERDTreeShowHidden=1
+" nmap \ :NERDTreeToggle<CR>
+" let NERDTreeShowHidden=1
+
+" nvim-tree.lua
+let g:nvim_tree_side = 'left'
+
 
 " -----
 

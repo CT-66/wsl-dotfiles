@@ -33,8 +33,10 @@ nnoremap c "_c
 
 nmap j gj
 nmap k gk
-nmap <Up> gk
-nmap <Down> gj
+" nmap <Up> gk
+" nmap <Down> gj
+noremap <up> <nop>
+noremap <down> <nop>
 
 nmap pn <esc>o<esc>p
 
@@ -77,8 +79,8 @@ vnoremap <F1> <ESC>
 nnoremap j jzz
 nnoremap k kzz
 
-nnoremap <Down> jzz
-nnoremap <Up> kzz
+" nnoremap <Down> jzz
+" nnoremap <Up> kzz
 
 nnoremap G Gzz
 
