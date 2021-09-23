@@ -6,6 +6,7 @@
 
 ; Always in beginning
 SetNumlockState, AlwaysOn
+SetCapsLockState, off
 return
 
 Capslock::Esc
@@ -92,6 +93,7 @@ return
 :*:.dots:: https://github.com/CT-66/dotfiles
 
 :*:edit_ahk::G:\Shyam\Program Files\Nvim\nvim\Neovim\bin\nvim.lnk "G:\Shyam\Program Files\AutoHotKey\Scripts\script.ahk"
+:*:ahk_script::G:\Shyam\Program Files\Nvim\nvim\Neovim\bin\nvim.lnk "G:\Shyam\Program Files\AutoHotKey\Scripts\script.ahk"
 :*:nvim_dots::explorer.exe "C:\Users\iamsh\AppData\Local\nvim\"
 
 ; ^#z::
