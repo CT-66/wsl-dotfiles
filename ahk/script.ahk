@@ -92,7 +92,7 @@ return
 :*:_roaming:: C:\Users\iamsh\AppData\Roaming
 :*:.dots:: https://github.com/CT-66/dotfiles
 
-:*:edit_ahk::G:\Shyam\Program Files\Nvim\nvim\Neovim\bin\nvim.lnk "G:\Shyam\Program Files\AutoHotKey\Scripts\script.ahk"
+:*:edit_ahk::nqt.lnk "G:\Shyam\Program Files\AutoHotKey\Scripts\script.ahk"
 :*:ahk_script::G:\Shyam\Program Files\Nvim\nvim\Neovim\bin\nvim.lnk "G:\Shyam\Program Files\AutoHotKey\Scripts\script.ahk"
 :*:nvim_dots::explorer.exe "C:\Users\iamsh\AppData\Local\nvim\"
 
