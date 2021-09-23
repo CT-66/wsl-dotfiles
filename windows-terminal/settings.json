@@ -43,6 +43,7 @@
             "font":
             {
                 "face": "CaskaydiaCove NF",
+                // "face": "FiraCode NF",
                 "size": 10,
                 "weight": "normal",
                 "intenseTextStyle": "all"

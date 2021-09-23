@@ -10,7 +10,7 @@ alias v=nvim
 alias vim=nvim
 alias nf=neofetch
 alias cmatrix="cmatrix -bs -C blue"
-alias custom-date='date +"%d %b, %Y | %I:%M %p"'
+alias .date='date +"%d %b, %Y | %I:%M %p"'
 alias grep="grep -in --color=auto"
 alias .history='nvim ~/.cache/zsh/history'
 
@@ -38,25 +38,26 @@ alias exa='exa -1 --color=always --icons'
 alias ping='ping -c 5'
 
 alias zshrc='nvim ~/.config/zsh/.zshrc'
-alias zsh_aliases='nvim ~/.config/zsh/.aliases'
-alias zsh_variables='nvim ~/.config/zsh/.variables'
-alias zsh_plugins='nvim ~/.config/zsh/.plugins'
-alias zsh_prompt='nvim ~/.config/zsh/.prompt'
-alias zsh_functions='nvim ~/.config/zsh/.functions'
-alias zsh_exports='nvim ~/.config/zsh/.exports'
-alias firefox_css='cd /mnt/c/Users/iamsh/AppData/Roaming/Mozilla/Firefox/Profiles/j9x9tbvr.default-release/chrome'
-alias wt_settings='nvim /mnt/c/Users/iamsh/AppData/Local/Packages/Microsoft.WindowsTerminalPreview_8wekyb3d8bbwe/LocalState/settings.json'
-alias alacritty_settings='nvim /mnt/c/Users/iamsh/AppData/Roaming/alacritty/alacritty.yml'
+alias .aliases='nvim ~/.config/zsh/.aliases'
+alias zsh-aliases='nvim ~/.config/zsh/.aliases'
+alias zsh-variables='nvim ~/.config/zsh/.variables'
+alias zsh-plugins='nvim ~/.config/zsh/.plugins'
+alias zsh-prompt='nvim ~/.config/zsh/.prompt'
+alias zsh-functions='nvim ~/.config/zsh/.functions'
+alias zsh-exports='nvim ~/.config/zsh/.exports'
+alias firefox-css='cd /mnt/c/Users/iamsh/AppData/Roaming/Mozilla/Firefox/Profiles/j9x9tbvr.default-release/chrome'
+alias wt-settings='nvim /mnt/c/Users/iamsh/AppData/Local/Packages/Microsoft.WindowsTerminalPreview_8wekyb3d8bbwe/LocalState/settings.json'
+alias alacritty-settings='nvim /mnt/c/Users/iamsh/AppData/Roaming/alacritty/alacritty.yml'
 alias vimrc='nvim ~/.config/nvim/init.vim'
-alias vim_plugins='nvim ~/.config/nvim/plugins.vim'
-alias vim_plugins_settings='nvim ~/.config/nvim/plugins-settings.vim'
-alias vim_plugins_settings_lua='nvim ~/.config/nvim/lua/plugins-settings.lua'
-alias vim_keymaps='nvim ~/.config/nvim/keymaps.vim'
+alias vim-plugins='nvim ~/.config/nvim/plugins.vim'
+alias vim-plugins-settings='nvim ~/.config/nvim/plugins-settings.vim'
+alias vim-plugins-settings-lua='nvim ~/.config/nvim/lua/plugins-settings.lua'
+alias vim-keymaps='nvim ~/.config/nvim/keymaps.vim'
 
 alias bash='bash --rcfile ~/.config/bash/.bashrc'
 # alias vim='vim -u <location>'
 
-alias tmux_settings='nvim ~/.config/tmux/tmux.conf'
+alias tmux-settings='nvim ~/.config/tmux/tmux.conf'
 
 alias cmd=cmd.exe
 alias powershell=powershell.exe
