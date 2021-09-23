@@ -1,5 +1,5 @@
 {
-   "checksum": "d20ae4e8ce1f9b8880fd77cab88fbf6c",
+   "checksum": "bf5a65c5f2fc1cdc31e3d335a93c0d71",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3385,13 +3385,6 @@
             "id": "740",
             "name": "todo",
             "type": "folder"
-         }, {
-            "date_added": "13273077645130473",
-            "guid": "ca28d8b8-dccf-4e89-a214-a1fd21fccbc0",
-            "id": "836",
-            "name": "GitHub - infokiller/web-search-navigator: Chrome/Firefox extension that adds keyboard shortcuts to Google, YouTube, Github, Amazon, and others",
-            "type": "url",
-            "url": "https://github.com/infokiller/web-search-navigator/"
          }, {
             "date_added": "13273077645132214",
             "guid": "72a5dde6-2698-4a61-890d-f2c3651688f7",
