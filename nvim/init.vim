@@ -1,4 +1,4 @@
-if has("unix")
+if has("unix") 
     :source ~/.config/nvim/plugins.vim
     :source ~/.config/nvim/plugins-settings.vim
     :source ~/.config/nvim/keymaps.vim
@@ -7,7 +7,7 @@ elseif has("win32")
     :source ~\AppData\Local\nvim\plugins-settings.vim
     :source ~\AppData\Local\nvim\keymaps.vim
     :source ~\AppData\Local\nvim\windows-related-config.vim
-endif
+endif 
 
 " -----
 
