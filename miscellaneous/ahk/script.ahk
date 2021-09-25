@@ -111,26 +111,6 @@ return
 !NumpadAdd:: Send {Volume_Up}
 !NumpadSub:: Send {Volume_Down}
 
-
-; #+b::
-; Run, bthprops.cpl
-; Sleep, 3000
-; MouseClick, left, 460, 285
-; Sleep, 1000
-; Send, {tab}
-; Sleep, 100
-; Send, {enter}
-; Sleep, 1000
-; Send, {tab}
-; Sleep, 1000
-; ; Send, {enter}
-; Sleep, 2000
-; ; Send,!{Tab}
-; Send, !{F4}
-; return
-
-
-
 ; Always in end
 #Esc::DllCall("LockWorkStation")
 return
