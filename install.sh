@@ -19,6 +19,7 @@ fi
 # nvim +PlugInstall +qall ; echo "Installed nvim plugins" (if successful, else echo "failed to install nvim plugins")
 # make every existing directory to *.backup
 #
+# git clone zsh plugins to ~/.config/zsh/plugins
 # if [ $? -eq 0 ]; then
     # echo OK
 # else
