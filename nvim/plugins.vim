@@ -15,6 +15,7 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'hoob3rt/lualine.nvim'
 " Plug 'preservim/nerdtree'
 " Plug 'kyazdani42/nvim-tree.lua'
+Plug 'mcchrish/nnn.vim'
 Plug 'machakann/vim-highlightedyank'
 Plug 'sheerun/vim-polyglot'
 Plug 'Yggdroot/indentLine'

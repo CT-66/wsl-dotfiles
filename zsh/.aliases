@@ -12,6 +12,7 @@ alias nf=neofetch
 alias cmatrix="cmatrix -bs -C blue"
 alias .date='date +"%d %b, %Y | %I:%M %p"'
 alias grep="grep -in --color=auto"
+alias find='find -iname'
 alias .history='nvim ~/.cache/zsh/history'
 
 alias cd..='cd ../'
@@ -25,6 +26,9 @@ alias .....='cd ../../../../../'
 alias .5='cd ../../../../../'
 
 alias mkdir='mkdir -p'
+
+# alias ls='nnn -de'
+alias f=fzf
 
 alias ll='ls -lAFhp --color=always'
 alias la='ls -Ahp --color=always'
