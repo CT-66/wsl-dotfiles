@@ -2,6 +2,7 @@
 .zcompdump
 .bash_history
 .bash_logout
+.history
 
 coc/
 pulse/
@@ -11,4 +12,3 @@ vim/
 node_modules/
 fish/
 NVCHAD/
-.history
