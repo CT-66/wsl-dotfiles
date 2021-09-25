@@ -49,6 +49,9 @@ nnoremap <Right> $
 nmap d<Left> d^
 nmap d<Right> d$
 
+nmap y<Left> y^
+nmap y<Right> y$
+
 vnoremap <left> ^
 vnoremap <right> $
 

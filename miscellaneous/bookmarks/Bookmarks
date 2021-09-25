@@ -1,5 +1,5 @@
 {
-   "checksum": "a3cd9bde48c26f9d38e1cee109ce7483",
+   "checksum": "ee42adead434659ba561829e0ae5e1cf",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3385,9 +3385,65 @@
                "name": "What is your most productive shortcut with Vim?",
                "type": "url",
                "url": "https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim"
+            }, {
+               "date_added": "13277080639499655",
+               "guid": "2c75cc6c-c017-4017-90ed-6b6d7c416a5b",
+               "id": "972",
+               "name": "GitHub - kyazdani42/nvim-tree.lua: A file explorer tree for neovim written in lua",
+               "type": "url",
+               "url": "https://github.com/kyazdani42/nvim-tree.lua"
+            }, {
+               "date_added": "13277080661789587",
+               "guid": "2d675c0f-7aee-4441-8cca-aea6acb5c5b9",
+               "id": "973",
+               "name": "GitHub - junegunn/fzf: A command-line fuzzy finder",
+               "type": "url",
+               "url": "https://github.com/junegunn/fzf"
+            }, {
+               "date_added": "13277080668264655",
+               "guid": "e55cf0dd-2561-4e4b-a08c-eb6ac2284881",
+               "id": "974",
+               "name": "Why you should be using fzf, the command line fuzzy finder",
+               "type": "url",
+               "url": "https://www.freecodecamp.org/news/fzf-a-command-line-fuzzy-finder-missing-demo-a7de312403ff/"
+            }, {
+               "date_added": "13277080714074848",
+               "guid": "37870302-7337-4f23-9547-8a34ec8b0a96",
+               "id": "975",
+               "name": "https://www.youtube.com/watch?v=qgG5Jhi_Els",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=qgG5Jhi_Els"
+            }, {
+               "date_added": "13277080802027193",
+               "guid": "066168f9-abe3-4e3a-be06-de05fdcf3f0a",
+               "id": "976",
+               "name": "https://www.reddit.com/r/neovim/comments/djmehv/im_probably_really_late_to_the_party_but_fzf_in_a/",
+               "type": "url",
+               "url": "https://www.reddit.com/r/neovim/comments/djmehv/im_probably_really_late_to_the_party_but_fzf_in_a/"
+            }, {
+               "date_added": "13277080841450839",
+               "guid": "f20f9818-e38f-4258-a3d3-e27ef8a2e6fb",
+               "id": "977",
+               "name": "https://dev.to/zanets/fancy-fzf-on-neovim-41m8",
+               "type": "url",
+               "url": "https://dev.to/zanets/fancy-fzf-on-neovim-41m8"
+            }, {
+               "date_added": "13277080999161399",
+               "guid": "35fdc751-ef74-4560-a94a-6f9704bb3056",
+               "id": "978",
+               "name": "https://github.com/jarun/nnn",
+               "type": "url",
+               "url": "https://github.com/jarun/nnn"
+            }, {
+               "date_added": "13277081016729175",
+               "guid": "01d18968-440d-4724-bb6c-a14729d7aaba",
+               "id": "979",
+               "name": "https://github.com/mcchrish/nnn.vim",
+               "type": "url",
+               "url": "https://github.com/mcchrish/nnn.vim"
             } ],
             "date_added": "13273077609386347",
-            "date_modified": "13277023256716810",
+            "date_modified": "13277081016729175",
             "guid": "5934a8fb-c902-4c38-8ac7-3e7b425f6b4c",
             "id": "740",
             "name": "todo",
