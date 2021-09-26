@@ -31,6 +31,8 @@ nnoremap x "_x
 nnoremap X "_X
 nnoremap c "_c
 
+nnoremap Y y$
+
 " nmap j gj
 " nmap k gk
 nmap j gj

@@ -30,15 +30,15 @@ alias mkdir='mkdir -p'
 # alias ls='nnn -de'
 alias f=fzf
 
-alias ll='ls -lAFhp --color=always'
-alias la='ls -Ahp --color=always'
-alias l='ls -CFhp --color=always'
-alias ls='ls -hp --color=always'
-alias l.='ls -Ap | egrep -in "^\."'
+# alias ll='ls -lAFhp --color=always'
+# alias la='ls -Ahp --color=always'
+# alias l='ls -CFhp --color=always'
+# alias ls='ls -hp --color=always'
+# alias l.='ls -Ap | egrep -in "^\."'
 
-alias exa='exa -1 --color=always --icons'
-# alias ls='exa -1 --color=always --icons'
-# alias ll='exa -1 --color=always --icons '
+alias exa='exa -1 -F --color=always --icons'
+alias ls='exa -1 -F --color=always --icons'
+alias ll='exa -1Fal --color=always --icons '
 
 
 # alias ls="exa"
