@@ -30,18 +30,12 @@ alias mkdir='mkdir -p'
 # alias ls='nnn -de'
 alias f=fzf
 
-# alias ll='ls -lAFhp --color=always'
-# alias la='ls -Ahp --color=always'
-# alias l='ls -CFhp --color=always'
-# alias ls='ls -hp --color=always'
-# alias l.='ls -Ap | egrep -in "^\."'
-
-alias exa='exa -1 -F --color=always --icons'
-alias ls='exa -1 -F --color=always --icons'
-alias ll='exa -1Fal --color=always --icons '
-
-
-# alias ls="exa"
+alias exa='exa -1F --color=always --icons --group-directories-first'
+alias ls='exa -1F --color=always --icons --group-directories-first'
+alias l='exa -1F --color=always --icons --group-directories-first'
+alias ll='exa -1Fal --color=always --icons --group-directories-first'
+alias la='exa -1Fa --color=always --icons --group-directories-first'
+alias l.='exa -1Fa | egrep -in "^\."'
 
 alias ping='ping -c 5'
 
