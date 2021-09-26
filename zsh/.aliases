@@ -36,8 +36,12 @@ alias l='ls -CFhp --color=always'
 alias ls='ls -hp --color=always'
 alias l.='ls -Ap | egrep -in "^\."'
 
-# alias ls="exa"
 alias exa='exa -1 --color=always --icons'
+# alias ls='exa -1 --color=always --icons'
+# alias ll='exa -1 --color=always --icons '
+
+
+# alias ls="exa"
 
 alias ping='ping -c 5'
 
