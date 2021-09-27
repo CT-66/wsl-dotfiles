@@ -1,5 +1,5 @@
 {
-   "checksum": "d820d3f84c5c49d91251b6f7b0d2c13b",
+   "checksum": "a12ee13370d70c429b0c72d0dbdc7162",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3462,9 +3462,23 @@
                "name": "https://learnvimscriptthehardway.stevelosh.com/",
                "type": "url",
                "url": "https://learnvimscriptthehardway.stevelosh.com/"
+            }, {
+               "date_added": "13277230482196395",
+               "guid": "bb1eb469-b289-4408-a25d-02786c46e61a",
+               "id": "985",
+               "name": "https://github.com/akrawchyk/awesome-vim",
+               "type": "url",
+               "url": "https://github.com/akrawchyk/awesome-vim"
+            }, {
+               "date_added": "13277230495724560",
+               "guid": "4d51207a-2f31-4dbc-a0a5-01892cc0543c",
+               "id": "986",
+               "name": "https://github.com/rockerBOO/awesome-neovim",
+               "type": "url",
+               "url": "https://github.com/rockerBOO/awesome-neovim"
             } ],
             "date_added": "13273077609386347",
-            "date_modified": "13277087057537426",
+            "date_modified": "13277230495724560",
             "guid": "5934a8fb-c902-4c38-8ac7-3e7b425f6b4c",
             "id": "740",
             "name": "todo",
