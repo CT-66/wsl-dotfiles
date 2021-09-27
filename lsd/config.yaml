@@ -16,6 +16,6 @@ icons:
 
 size: short
 
+no-symlink: true
+
 total-size: true
-
-
