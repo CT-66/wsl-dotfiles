@@ -58,7 +58,7 @@ return
 #+y::Run C:\Users\iamsh\AppData\Local\BraveSoftware\Brave-Browser-Beta\Application\brave.exe --incognito https://youtube.com
 return
 
-#Enter::Run "C:\Users\iamsh\AppData\Local\Microsoft\WindowsApps\Microsoft.WindowsTerminalPreview_8wekyb3d8bbwe\wt.exe"
+#enter::run "c:\users\iamsh\appdata\local\microsoft\windowsapps\microsoft.windowsterminalpreview_8wekyb3d8bbwe\wt.exe"
 return
 
 #G::Run C:\Users\iamsh\AppData\Local\BraveSoftware\Brave-Browser-Beta\Application\brave.exe --incognito https://google.com
@@ -108,8 +108,11 @@ return
 ; ^#Right
 ; return
 
-!NumpadAdd:: Send {Volume_Up}
-!NumpadSub:: Send {Volume_Down}
+; !NumpadAdd:: Send {Volume_Up}
+; !NumpadSub:: Send {Volume_Down}
+
+FnA::run "c:\users\iamsh\appdata\local\microsoft\windowsapps\microsoft.windowsterminalpreview_8wekyb3d8bbwe\wt.exe"
+return
 
 ; Always in end
 #Esc::DllCall("LockWorkStation")

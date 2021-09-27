@@ -142,3 +142,5 @@ imap <left> <nop>
 imap <right> <nop>
 imap <up> <nop>
 imap <down> <nop>
+
+imap jk <esc>
