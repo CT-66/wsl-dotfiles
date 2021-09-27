@@ -35,7 +35,8 @@ alias ls='exa -1F --color=always --icons --group-directories-first'
 alias l='exa -1F --color=always --icons --group-directories-first'
 alias ll='exa -1Fal --color=always --icons --group-directories-first'
 alias la='exa -1Fa --color=always --icons --group-directories-first'
-alias l.='exa -1Fa | egrep -in "^\."'
+# alias l.='exa -1Fa | egrep -in "^\."'
+alias l.='\ls -Ap | egrep -in "^\."'
 
 alias ping='ping -c 5'
 
