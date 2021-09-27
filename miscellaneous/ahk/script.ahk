@@ -111,8 +111,8 @@ return
 ; !NumpadAdd:: Send {Volume_Up}
 ; !NumpadSub:: Send {Volume_Down}
 
-FnA::run "c:\users\iamsh\appdata\local\microsoft\windowsapps\microsoft.windowsterminalpreview_8wekyb3d8bbwe\wt.exe"
-return
+; FnA::run "c:\users\iamsh\appdata\local\microsoft\windowsapps\microsoft.windowsterminalpreview_8wekyb3d8bbwe\wt.exe"
+; return
 
 ; Always in end
 #Esc::DllCall("LockWorkStation")
