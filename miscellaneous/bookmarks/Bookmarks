@@ -1,5 +1,5 @@
 {
-   "checksum": "ca54ae44ab6dfc3cca41d041512f3bb8",
+   "checksum": "f3684541497f65a26a0c981e4f2ac67e",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3483,9 +3483,16 @@
                "name": "https://github.com/rockerBOO/awesome-neovim",
                "type": "url",
                "url": "https://github.com/rockerBOO/awesome-neovim"
+            }, {
+               "date_added": "13277310783075191",
+               "guid": "6a9cc104-1515-4450-86ed-e760ada84f2b",
+               "id": "990",
+               "name": "https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/editing-like-magic-with-vim-operators/",
+               "type": "url",
+               "url": "https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/editing-like-magic-with-vim-operators/"
             } ],
             "date_added": "13273077609386347",
-            "date_modified": "13277307691067640",
+            "date_modified": "13277310783075191",
             "guid": "5934a8fb-c902-4c38-8ac7-3e7b425f6b4c",
             "id": "740",
             "name": "todo",
