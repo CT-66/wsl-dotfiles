@@ -3,13 +3,6 @@
     "actions":
     [
         {
-            "command":
-            {
-                "action": "newTab"
-            },
-            "keys": "ctrl+t"
-        },
-        {
             "command": "openTabRenamer",
             "keys": "ctrl+f2"
         },

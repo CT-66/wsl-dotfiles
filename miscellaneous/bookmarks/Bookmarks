@@ -1,5 +1,5 @@
 {
-   "checksum": "a12ee13370d70c429b0c72d0dbdc7162",
+   "checksum": "ca54ae44ab6dfc3cca41d041512f3bb8",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3428,6 +3428,13 @@
                "type": "url",
                "url": "https://dev.to/zanets/fancy-fzf-on-neovim-41m8"
             }, {
+               "date_added": "13277307688582620",
+               "guid": "249bd305-c549-42d6-aa89-d31120254068",
+               "id": "988",
+               "name": "https://github.com/Aloxaf/fzf-tab",
+               "type": "url",
+               "url": "https://github.com/Aloxaf/fzf-tab"
+            }, {
                "date_added": "13277080999161399",
                "guid": "35fdc751-ef74-4560-a94a-6f9704bb3056",
                "id": "978",
@@ -3478,7 +3485,7 @@
                "url": "https://github.com/rockerBOO/awesome-neovim"
             } ],
             "date_added": "13273077609386347",
-            "date_modified": "13277230495724560",
+            "date_modified": "13277307691067640",
             "guid": "5934a8fb-c902-4c38-8ac7-3e7b425f6b4c",
             "id": "740",
             "name": "todo",
