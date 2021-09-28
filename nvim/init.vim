@@ -31,6 +31,7 @@ set clipboard=unnamedplus
 set nostartofline
 set wildmenu
 set wildmode=longest:full,full
+set lazyredraw
 
 " -----
 
