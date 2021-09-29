@@ -145,4 +145,5 @@ imap <down> <nop>
 
 imap jk <esc>
 
+nnoremap Q qw
 nnoremap K @w

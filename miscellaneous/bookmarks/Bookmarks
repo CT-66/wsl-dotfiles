@@ -1,5 +1,5 @@
 {
-   "checksum": "f3684541497f65a26a0c981e4f2ac67e",
+   "checksum": "c00d74b9ad5e40d1c16dbbad3fc8fef7",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3490,9 +3490,23 @@
                "name": "https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/editing-like-magic-with-vim-operators/",
                "type": "url",
                "url": "https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/editing-like-magic-with-vim-operators/"
+            }, {
+               "date_added": "13277380816879362",
+               "guid": "d07c8b1c-10ac-434c-b69c-cfacd745cdb7",
+               "id": "992",
+               "name": "https://www.reddit.com/r/neovim/comments/px1hnf/popup_menu_for_code_actions_to_show/",
+               "type": "url",
+               "url": "https://www.reddit.com/r/neovim/comments/px1hnf/popup_menu_for_code_actions_to_show/"
+            }, {
+               "date_added": "13277380831018049",
+               "guid": "b2753eeb-4000-41db-8a5e-70d1fd8a65f9",
+               "id": "993",
+               "name": "https://github.com/weilbith/nvim-code-action-menu",
+               "type": "url",
+               "url": "https://github.com/weilbith/nvim-code-action-menu"
             } ],
             "date_added": "13273077609386347",
-            "date_modified": "13277310783075191",
+            "date_modified": "13277380831018049",
             "guid": "5934a8fb-c902-4c38-8ac7-3e7b425f6b4c",
             "id": "740",
             "name": "todo",
@@ -3529,9 +3543,9 @@
             "date_added": "13274121477013778",
             "guid": "8fbf3feb-c3df-4459-bbc5-b1ecafb327ff",
             "id": "851",
-            "name": "tmux vi copy paste - Google Search",
+            "name": "tmux vim copy paste - Google Search",
             "type": "url",
-            "url": "https://www.google.com/search?q=tmux+vi+copy+paste&iflsig=AINFCbYAAAAAYSHKRofxU3AjpaeZIi5w29b2BIX6zP5T"
+            "url": "https://www.google.com/search?q=tmux+vi+copy+paste"
          }, {
             "date_added": "13276600962928451",
             "guid": "dbd457e2-d16e-40d3-b185-4661c1a95a2d",
