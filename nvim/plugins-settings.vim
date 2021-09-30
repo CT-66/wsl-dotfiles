@@ -45,6 +45,11 @@ let g:better_whitespace_filetypes_blacklist=[]
 " -----
 
 " coc.nvim
+
+if has("win32")
+    let g:coc_node_path = 'G:\\Shyam\\Program Files\\Node\\node-v16.10.0-win-x64\\npm'
+
+
 inoremap <silent><expr> <TAB>
       \ pumvisible() ? "\<C-n>" :
       \ <SID>check_back_space() ? "\<TAB>" :
