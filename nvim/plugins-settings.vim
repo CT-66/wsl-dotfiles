@@ -23,7 +23,6 @@ let g:highlightedyank_highlight_duration = 100
 
 " -----
 
-" let g:deoplete#enable_at_startup = 1
 let g:indent_guides_enable_on_vim_startup = 1
 " let g:jedi#use_tabs_not_buffers = 1
 let g:rainbow_active = 1

@@ -9,8 +9,6 @@ Plug 'kaicataldo/material.vim'
 " Plug 'jiangmiao/auto-pairs'
 Plug 'tpope/vim-commentary'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
-" Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
-" Plug 'deoplete-plugins/deoplete-jedi'
 " Plug 'davidhalter/jedi-vim'
 Plug 'hoob3rt/lualine.nvim'
 " Plug 'preservim/nerdtree'
