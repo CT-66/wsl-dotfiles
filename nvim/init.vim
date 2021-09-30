@@ -145,19 +145,6 @@ au! BufEnter *.md setlocal foldmethod=expr
 " -----
 
 set laststatus=2
-" let g:coc_global_extensions = [
-"   \ 'coc-snippets',
-"   \ 'coc-pairs',
-"   " \ 'coc-tsserver',
-"   \ 'coc-eslint',
-"   " \ 'coc-prettier',
-"   \ 'coc-json',
-"   \ 'coc-clangd',
-  " \ 'coc-pyright',
-" ]
-
-let g:coc_global_extensions = ['coc-pyright', 'coc-pairs', 'coc-json', 'coc-eslint']
-
 
 let g:vimsyn_embed = 'l' " get lua syntax highlighting in vimscript
 
