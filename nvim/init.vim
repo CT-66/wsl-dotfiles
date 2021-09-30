@@ -152,8 +152,11 @@ set laststatus=2
 "   \ 'coc-eslint',
 "   " \ 'coc-prettier',
 "   \ 'coc-json',
-"   \ 'coc-pyright',
+"   \ 'coc-clangd',
+  " \ 'coc-pyright',
 " ]
+
+let g:coc_global_extensions = ['coc-pyright', 'coc-pairs', 'coc-json', 'coc-eslint']
 
 
 let g:vimsyn_embed = 'l' " get lua syntax highlighting in vimscript
