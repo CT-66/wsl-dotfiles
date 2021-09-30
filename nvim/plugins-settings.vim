@@ -48,6 +48,7 @@ let g:better_whitespace_filetypes_blacklist=[]
 
 if has("win32")
     let g:coc_node_path = 'G:\\Shyam\\Program Files\\Node\\node-v16.10.0-win-x64\\npm'
+endif
 
 
 inoremap <silent><expr> <TAB>
