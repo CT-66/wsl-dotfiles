@@ -59,6 +59,10 @@ function! s:check_back_space() abort
   let col = col('.') - 1
   return !col || getline('.')[col - 1]  =~# '\s'
 endfunction
+
+inoremap <silent><expr> <cr> pumvisible() ? coc#_select_confirm()
+                              \: "\<C-g>u\<CR>\<c-r>=coc#on_enter()\<CR>"
+
 " nnoremap <silent> K :call <SID>show_documentation()<CR>
 
 " function! s:show_documentation()
@@ -68,6 +72,9 @@ endfunction
 "         call CocAction('doHover')
 "     endif
 " endfunction
+
+" Highlight the symbol and its references when holding the cursor.
+autocmd CursorHold * silent call CocActionAsync('highlight')
 
 " -----
 
