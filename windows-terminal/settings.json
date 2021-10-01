@@ -13,7 +13,8 @@
                 "desktop": "toCurrent",
                 "monitor": "any",
                 "name": "_quake",
-                "toggleVisibility": true
+                "toggleVisibility": true,
+                "dropdownDuration": 20
             },
             "keys": "win+`"
         }
