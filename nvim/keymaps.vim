@@ -4,6 +4,8 @@ let mapleader = " "
 nmap <leader><leader> :w<cr>
 nmap <C-_> gcc
 xmap <C-_> gc
+nmap \ gcc
+xmap \ gc
 nmap <leader>/ gcc
 xmap <leader>/ gc
 
