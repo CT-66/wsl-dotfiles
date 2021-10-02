@@ -30,6 +30,7 @@ Plug 'kyazdani42/nvim-web-devicons'
 Plug 'romgrk/barbar.nvim'
 Plug 'nvim-lua/plenary.nvim'
 Plug 'nvim-telescope/telescope.nvim'
+" Plug 'AndrewRadev/tagalong.vim'
 
 
 call plug#end()

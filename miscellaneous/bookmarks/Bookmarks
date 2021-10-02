@@ -1,5 +1,5 @@
 {
-   "checksum": "c00d74b9ad5e40d1c16dbbad3fc8fef7",
+   "checksum": "9f78c3c2989728e0b1d9a2a331ae0f31",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2145,9 +2145,23 @@
                      "name": "https://www.makeuseof.com/tag/linux-desktop-look-fantastic/",
                      "type": "url",
                      "url": "https://www.makeuseof.com/tag/linux-desktop-look-fantastic/"
+                  }, {
+                     "date_added": "13277623555721558",
+                     "guid": "8e8d5da6-92e2-4042-91a3-71c27418ffab",
+                     "id": "1029",
+                     "name": "https://www.reddit.com/r/unixporn/comments/pyylc2/floating_i3wm_nord_ocean_idk_rice/",
+                     "type": "url",
+                     "url": "https://www.reddit.com/r/unixporn/comments/pyylc2/floating_i3wm_nord_ocean_idk_rice/"
+                  }, {
+                     "date_added": "13277623558897233",
+                     "guid": "8e2dbdf3-d547-4403-b500-b90cc752c60f",
+                     "id": "1030",
+                     "name": "https://www.reddit.com/r/unixporn/comments/pywwlu/sway_just_another_13_year_old_kid_showing_off_his/",
+                     "type": "url",
+                     "url": "https://www.reddit.com/r/unixporn/comments/pywwlu/sway_just_another_13_year_old_kid_showing_off_his/"
                   } ],
                   "date_added": "13273873815388362",
-                  "date_modified": "13276477237738789",
+                  "date_modified": "13277623558897233",
                   "guid": "3dc6fb42-5196-4d30-be34-91d41dcc09fb",
                   "id": "844",
                   "name": "Ricing",
@@ -2160,12 +2174,48 @@
                      "name": "akshat46/dotfiles",
                      "type": "url",
                      "url": "https://github.com/akshat46/dotfiles/"
+                  }, {
+                     "date_added": "13277623545424053",
+                     "guid": "2a503266-4f90-4685-9f0f-b12728196bee",
+                     "id": "1028",
+                     "name": "https://github.com/zahimeen/dotfiles",
+                     "type": "url",
+                     "url": "https://github.com/zahimeen/dotfiles"
                   } ],
                   "date_added": "13273873972730777",
-                  "date_modified": "13274649761614103",
+                  "date_modified": "13277623545424053",
                   "guid": "ba388084-6d0e-4614-a9f6-e2cf9072e2c2",
                   "id": "845",
                   "name": "Dotfiles",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13277623607793582",
+                     "guid": "425d0b12-ed40-4797-bcd2-7f3bcb370d84",
+                     "id": "1032",
+                     "name": "https://www.reddit.com/r/FirefoxCSS/comments/ptorny/tab_hover_popup/",
+                     "type": "url",
+                     "url": "https://www.reddit.com/r/FirefoxCSS/comments/ptorny/tab_hover_popup/"
+                  }, {
+                     "date_added": "13277623896321098",
+                     "guid": "0187d7d2-5fd4-4795-9cb8-427c383616d1",
+                     "id": "1038",
+                     "name": "https://www.reddit.com/r/FirefoxCSS/comments/pxyq3w/popups_transparency_and_blur/",
+                     "type": "url",
+                     "url": "https://www.reddit.com/r/FirefoxCSS/comments/pxyq3w/popups_transparency_and_blur/"
+                  }, {
+                     "date_added": "13277623899534980",
+                     "guid": "d56e2d41-3609-4440-a2d0-7d5bb04bfff6",
+                     "id": "1039",
+                     "name": "https://www.reddit.com/r/FirefoxCSS/comments/popfiv/is_there_any_way_to_make_popup_menu_blur_like/",
+                     "type": "url",
+                     "url": "https://www.reddit.com/r/FirefoxCSS/comments/popfiv/is_there_any_way_to_make_popup_menu_blur_like/"
+                  } ],
+                  "date_added": "13277623603240192",
+                  "date_modified": "13277623899534980",
+                  "guid": "fe297a7d-3b20-48d2-85ff-34f843024804",
+                  "id": "1031",
+                  "name": "Firefox CSS",
                   "type": "folder"
                }, {
                   "date_added": "13261835893991823",
@@ -2225,7 +2275,7 @@
                   "url": "https://www.youtube.com/watch?app=desktop&v=34F_038G5pU"
                } ],
                "date_added": "13261835893988182",
-               "date_modified": "13274649858089742",
+               "date_modified": "13277623606702862",
                "guid": "f9355904-beea-4532-9925-65f81afbc515",
                "id": "353",
                "name": "Linux",
@@ -2415,9 +2465,234 @@
                "id": "914",
                "name": "TUI",
                "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13277623483470351",
+                  "guid": "65b5778a-8289-4c0a-a727-62327b637fd0",
+                  "id": "997",
+                  "name": "Tampermonkey • Userscript Sources",
+                  "type": "url",
+                  "url": "https://www.tampermonkey.net/scripts.php"
+               }, {
+                  "date_added": "13277623483470800",
+                  "guid": "40cd800b-2e32-4e6d-8e24-87a87ec7f11a",
+                  "id": "998",
+                  "name": "Greasy Fork - safe and useful user scripts",
+                  "type": "url",
+                  "url": "https://greasyfork.org/en"
+               }, {
+                  "date_added": "13277623483471192",
+                  "guid": "b4754357-09d3-400c-94c5-33c4bb5c63aa",
+                  "id": "999",
+                  "name": "Awesome Userscripts | Curated list of awesome lists | Project-Awesome.org",
+                  "type": "url",
+                  "url": "https://project-awesome.org/brunocvcunha/awesome-userscripts"
+               }, {
+                  "date_added": "13277623483471625",
+                  "guid": "b93bc3bc-eeef-4229-8dc1-c1fa581aa5f2",
+                  "id": "1000",
+                  "name": "URL Shortener Unshortener",
+                  "type": "url",
+                  "url": "https://greasyfork.org/en/scripts/5359-url-shortener-unshortener"
+               }, {
+                  "date_added": "13277623483472017",
+                  "guid": "30e9b52d-ea29-48fb-b2c7-2e681a9ea533",
+                  "id": "1001",
+                  "name": "Anti-Adblock Killer",
+                  "type": "url",
+                  "url": "https://reek.github.io/anti-adblock-killer/"
+               }, {
+                  "date_added": "13277623483472424",
+                  "guid": "68062d80-8f2f-494e-be91-a2fdecf9b505",
+                  "id": "1002",
+                  "name": "Greasy Fork",
+                  "type": "url",
+                  "url": "https://greasyfork.org/en/scripts/4294-antiadware"
+               }, {
+                  "date_added": "13277623483472803",
+                  "guid": "63fa3f3a-e8b2-47a7-8e5c-a4b078033f99",
+                  "id": "1003",
+                  "name": "AdsBypasser",
+                  "type": "url",
+                  "url": "https://adsbypasser.github.io/"
+               }, {
+                  "date_added": "13277623483473189",
+                  "guid": "db3cbb93-8c3f-40a1-b16c-dd16319bd134",
+                  "id": "1004",
+                  "name": "About | Endless Google | Userscripts | OpenUserJS",
+                  "type": "url",
+                  "url": "https://openuserjs.org/scripts/tumpio/Endless_Google"
+               }, {
+                  "date_added": "13277623483473586",
+                  "guid": "b4189cec-29fc-4ec7-b436-89b549387386",
+                  "id": "1005",
+                  "name": "Mouseover Popup Image Viewer",
+                  "type": "url",
+                  "url": "https://greasyfork.org/en/scripts/394820-mouseover-popup-image-viewer"
+               }, {
+                  "date_added": "13277623483473995",
+                  "guid": "79cbd2c0-d312-4152-a1ef-da9ac6f93c69",
+                  "id": "1006",
+                  "name": "Remove Google Click-tracking",
+                  "type": "url",
+                  "url": "https://greasyfork.org/en/scripts/1523-remove-google-click-tracking"
+               }, {
+                  "date_added": "13277623483474385",
+                  "guid": "a22813e0-3362-4629-a402-698269e31a67",
+                  "id": "1007",
+                  "name": "Greasemonkey Tutorial for Beginners",
+                  "type": "url",
+                  "url": "http://hayageek.com/greasemonkey-tutorial/"
+               }, {
+                  "date_added": "13277623483474901",
+                  "guid": "f7be6342-3063-4d20-8487-2deb83ed9432",
+                  "id": "1008",
+                  "name": "GreaseMonkey userscript development video tutorial - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=hAeWOOJPp0o"
+               }, {
+                  "date_added": "13277623483475606",
+                  "guid": "11cb408e-e6e5-4658-8708-7b526173eee6",
+                  "id": "1009",
+                  "name": "Introduction to Greasemonkey - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?app=desktop&v=EiYi4EuqgpE"
+               }, {
+                  "date_added": "13277623483476334",
+                  "guid": "09181d99-5965-4cdb-85f2-c4f39aa345b4",
+                  "id": "1010",
+                  "name": "Creating TamperMonkey Userscripts | Augmented Browsing - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?app=desktop&v=U4dSWJFIQ0A"
+               }, {
+                  "date_added": "13277623483477031",
+                  "guid": "d853bbba-75e7-434d-9a0b-df5597396f7b",
+                  "id": "1011",
+                  "name": "Making a Userscript - Setup and JavaScript Tutorial - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?app=desktop&v=UCTA9dbrVqc"
+               }, {
+                  "date_added": "13277623483477752",
+                  "guid": "bcad9a4e-e7a1-4fa9-b3ac-d735c4dd4608",
+                  "id": "1012",
+                  "name": "Increase your online productivity with Userscripts - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?app=desktop&v=NOjGAtRPR9E"
+               }, {
+                  "date_added": "13277623483478470",
+                  "guid": "066f61a6-ecab-4353-b264-cc37c67777d4",
+                  "id": "1013",
+                  "name": "User scripts",
+                  "type": "url",
+                  "url": "https://greasyfork.org/en/scripts"
+               }, {
+                  "date_added": "13277623483479125",
+                  "guid": "e06bcf30-9968-4682-98d7-edc575b0b014",
+                  "id": "1014",
+                  "name": "OpenUserJS",
+                  "type": "url",
+                  "url": "https://openuserjs.org/"
+               }, {
+                  "date_added": "13277623483479755",
+                  "guid": "207e59ba-9bbf-42c6-a3cd-40d7f7d462bb",
+                  "id": "1015",
+                  "name": "Userscripts.org: Power-ups for your browser",
+                  "type": "url",
+                  "url": "https://userscripts-mirror.org/"
+               }, {
+                  "date_added": "13277623483480384",
+                  "guid": "18cda83b-80c2-4c45-bb50-9b0664357569",
+                  "id": "1016",
+                  "name": "UserJS.org - User JavaScript for Opera",
+                  "type": "url",
+                  "url": "http://userjs.org/"
+               }, {
+                  "date_added": "13277623483480969",
+                  "guid": "b681408a-381a-4634-89f2-80f909fbea09",
+                  "id": "1017",
+                  "name": "The Top 14 Greasemonkey and Tampermonkey User Scripts",
+                  "type": "url",
+                  "url": "https://www.lifewire.com/top-greasemonkey-tampermonkey-user-scripts-4134335"
+               }, {
+                  "date_added": "13277623483481524",
+                  "guid": "f389ff8f-5490-43d7-96a7-784fb0dcefad",
+                  "id": "1018",
+                  "name": "10 Best User Scripts You Can Install on Chrome or Firefox Browser to Enhance Browsing Experience",
+                  "type": "url",
+                  "url": "https://techtippr.com/userscripts-for-chrome-and-firefox/"
+               }, {
+                  "date_added": "13277623483482078",
+                  "guid": "a4d267d5-29df-4b92-a357-7481aa2a3e2c",
+                  "id": "1019",
+                  "name": "What are your favourite/useful userscripts? : chrome",
+                  "type": "url",
+                  "url": "https://www.reddit.com/r/chrome/comments/46k0z3/what_are_your_favouriteuseful_userscripts/"
+               }, {
+                  "date_added": "13277623483482623",
+                  "guid": "51ff1514-ffdd-4011-8a86-743e88927004",
+                  "id": "1020",
+                  "name": "What are the userscripts you use? : firefox",
+                  "type": "url",
+                  "url": "https://www.reddit.com/r/firefox/comments/bpucdd/what_are_the_userscripts_you_use/"
+               }, {
+                  "date_added": "13277623483483163",
+                  "guid": "40f647ad-f07e-41e1-b040-64d478a95eda",
+                  "id": "1021",
+                  "name": "Top 10 Tampermonkey Plugins with Quickstart Tutorial | by Jay Chow | The Startup | Medium",
+                  "type": "url",
+                  "url": "https://medium.com/swlh/top-10-tampermonkey-plugins-are-better-than-chrome-extensions-ba96eec83a2f"
+               }, {
+                  "date_added": "13277623483483738",
+                  "guid": "a7849922-bcbd-4bc1-a100-9ecf1f98e6f9",
+                  "id": "1022",
+                  "name": "A six-pack of useful Greasemonkey scripts - CNET",
+                  "type": "url",
+                  "url": "https://www.cnet.com/how-to/a-six-pack-of-useful-greasemonkey-scripts/"
+               }, {
+                  "date_added": "13277623483484303",
+                  "guid": "c5f6b6cd-9b8e-4501-9541-b9ccf97921fb",
+                  "id": "1023",
+                  "name": "Useful userscripts reddit - Google Search",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=Useful+userscripts+reddit&iflsig=ALs-wAMAAAAAYVfxRS1c4mZTw_XXKPrNNENJ02kR4Rg3"
+               }, {
+                  "date_added": "13277623483484847",
+                  "guid": "5a2d64ea-c546-46ae-bfd1-a2e78e3fefe5",
+                  "id": "1024",
+                  "name": "Userscripts site:reddit.com - Google Search",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=Userscripts+site%3Areddit.com"
+               }, {
+                  "date_added": "13277623483485382",
+                  "guid": "2335d086-a765-4706-a816-4b69769cf2a2",
+                  "id": "1025",
+                  "name": "userscripts site:reddit.com/r/privacy - Google Search",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=userscripts+site%3Areddit.com%2Fr%2Fprivacy"
+               }, {
+                  "date_added": "13277623483485929",
+                  "guid": "075e3a7c-d414-47d1-a1c1-31e2a648280a",
+                  "id": "1026",
+                  "name": "userscripts site:reddit.com/r/privacytoolsio - Google Search",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=userscripts+site%3Areddit.com%2Fr%2Fprivacytoolsio"
+               }, {
+                  "date_added": "13277623483486477",
+                  "guid": "5055e6cb-c0d7-4912-aa13-698ac6b0c5d4",
+                  "id": "1027",
+                  "name": "Violentmonkey",
+                  "type": "url",
+                  "url": "https://violentmonkey.github.io/"
+               } ],
+               "date_added": "13277622953406736",
+               "date_modified": "13277623509839728",
+               "guid": "d9f0ba59-5c66-4aad-8c34-c28daae758b6",
+               "id": "995",
+               "name": "Userscripts",
+               "type": "folder"
             } ],
             "date_added": "13256325100935673",
-            "date_modified": "13273077091280241",
+            "date_modified": "13277622953406994",
             "guid": "f4834690-f207-4bb5-a20c-0205aec38286",
             "id": "127",
             "name": "",
@@ -3504,9 +3779,51 @@
                "name": "https://github.com/weilbith/nvim-code-action-menu",
                "type": "url",
                "url": "https://github.com/weilbith/nvim-code-action-menu"
+            }, {
+               "date_added": "13277623852996579",
+               "guid": "8f0d66a0-7376-4eaa-98ba-595c0d00f7ad",
+               "id": "1033",
+               "name": "https://dev.to/iggredible/mastering-visual-mode-in-vim-15pl",
+               "type": "url",
+               "url": "https://dev.to/iggredible/mastering-visual-mode-in-vim-15pl"
+            }, {
+               "date_added": "13277623864308416",
+               "guid": "42502a82-383b-4fce-8eb8-45b043a61721",
+               "id": "1034",
+               "name": "https://www.barbarianmeetscoding.com/series/exploring-vim",
+               "type": "url",
+               "url": "https://www.barbarianmeetscoding.com/series/exploring-vim"
+            }, {
+               "date_added": "13277623870259379",
+               "guid": "b36d49e3-2f53-47fa-949d-d17e5a44f544",
+               "id": "1035",
+               "name": "https://www.barbarianmeetscoding.com/series/5-minutes-vim",
+               "type": "url",
+               "url": "https://www.barbarianmeetscoding.com/series/5-minutes-vim"
+            }, {
+               "date_added": "13277623876094325",
+               "guid": "6f8ab10c-6b10-4f6f-a3bc-8de17d82d15c",
+               "id": "1036",
+               "name": "https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118"
+            }, {
+               "date_added": "13277623885916465",
+               "guid": "fa8a71a6-534d-45aa-9e53-0b4ee446b459",
+               "id": "1037",
+               "name": "https://vim.fandom.com/wiki/Buffers",
+               "type": "url",
+               "url": "https://vim.fandom.com/wiki/Buffers"
+            }, {
+               "date_added": "13277628140420549",
+               "guid": "e088c007-f7cd-4ede-bbdd-84b1d6e5fdaf",
+               "id": "1040",
+               "name": "https://github.com/AndrewRadev/tagalong.vim",
+               "type": "url",
+               "url": "https://github.com/AndrewRadev/tagalong.vim"
             } ],
             "date_added": "13273077609386347",
-            "date_modified": "13277380831018049",
+            "date_modified": "13277628140420549",
             "guid": "5934a8fb-c902-4c38-8ac7-3e7b425f6b4c",
             "id": "740",
             "name": "todo",
