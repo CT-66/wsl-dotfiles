@@ -51,19 +51,22 @@
                 "hidden": false,
                 "icon": "C:\\Users\\iamsh\\AppData\\Local\\Packages\\Microsoft.WindowsTerminalPreview_8wekyb3d8bbwe\\LocalState\\Icons\\Arch_Logo.ico",
                 "name": "Arch",
-                "snapOnInput": false,
+                "source": "Windows.Terminal.Wsl"
+            },
+            {
+                "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
+                "name": "Ubuntu",
+                "icon": "C:\\Users\\iamsh\\AppData\\Local\\Packages\\Microsoft.WindowsTerminalPreview_8wekyb3d8bbwe\\LocalState\\Icons\\ubuntu.ico",
                 "source": "Windows.Terminal.Wsl"
             },
             {
                 "commandline": "powershell.exe -NoLogo",
                 "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
-                "hidden": true,
                 "name": "Windows PowerShell"
             },
             {
                 "commandline": "cmd.exe",
                 "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
-                "hidden": true,
                 "name": "Command Prompt"
             },
             {
@@ -72,12 +75,6 @@
                 "name": "Azure Cloud Shell",
                 "source": "Windows.Terminal.Azure"
             },
-            {
-                "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
-                "name": "Ubuntu",
-                /* "icon": "C:\\Users\\iamsh\\AppData\\Local\\Packages\\Microsoft.WindowsTerminalPreview_8wekyb3d8bbwe\\LocalState\\Icons\\Arch_Logo.ico", */
-                "source": "Windows.Terminal.Wsl"
-            }
         ]
     },
     "schemes":
