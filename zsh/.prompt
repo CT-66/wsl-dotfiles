@@ -2,11 +2,11 @@
 # source ~/.config/zsh/plugins/powerlevel10k/.p10k.zsh
 
 
-# fpath+=$HOME/.config/zsh/plugins/pure
-# autoload -U promptinit; promptinit
+fpath+=$HOME/.config/zsh/plugins/pure
+autoload -U promptinit; promptinit
 
-# prompt pure
+prompt pure
 
 # RPROMPT="$(date +"%I:%M %p")"
 
-source ~/.config/zsh/plugins/powerlevel10k/powerlevel10k.zsh-theme
+# source ~/.config/zsh/plugins/powerlevel10k/powerlevel10k.zsh-theme
