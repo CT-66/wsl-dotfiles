@@ -46,7 +46,7 @@
         "list":
         [
             {
-                "commandline": "wsl.exe ~",
+                "commandline": "wsl.exe ~ --distribution Arch",
                 "guid": "{a5a97cb8-8961-5535-816d-772efe0c6a3f}",
                 "hidden": false,
                 "icon": "C:\\Users\\iamsh\\AppData\\Local\\Packages\\Microsoft.WindowsTerminalPreview_8wekyb3d8bbwe\\LocalState\\Icons\\Arch_Logo.ico",
@@ -54,7 +54,7 @@
                 "source": "Windows.Terminal.Wsl"
             },
             {
-                "commandline": "wsl.exe ~",
+                "commandline": "wsl.exe ~ --distribution Ubuntu ",
                 "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
                 "name": "Ubuntu",
                 "icon": "C:\\Users\\iamsh\\AppData\\Local\\Packages\\Microsoft.WindowsTerminalPreview_8wekyb3d8bbwe\\LocalState\\Icons\\ubuntu.ico",

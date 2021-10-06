@@ -14,6 +14,8 @@ alias .date='date +"%d %b, %Y | %I:%M %p"'
 alias grep="grep -in --color=auto"
 alias find='find -iname'
 alias .history='nvim ~/.cache/zsh/history'
+alias g=git
+alias p=pacman
 
 alias cd..='cd ../'
 alias ..='cd ../'

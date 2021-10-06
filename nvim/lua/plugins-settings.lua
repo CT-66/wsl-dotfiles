@@ -50,3 +50,6 @@ vim.g.bufferline = {
     icon_close_tab_modified = '●',
 
 }
+
+-- nvim-tree.lua
+require'nvim-tree'.setup()

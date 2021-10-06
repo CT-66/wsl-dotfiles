@@ -5,12 +5,12 @@
 " let NERDTreeShowHidden=1
 
 " nvim-tree.lua
-" let g:nvim_tree_side = 'left'
-" let g:nvim_tree_ignore = [ '.git', 'node_modules', '.cache', '__pycache__'  ]
-" nnoremap <C-n> :NvimTreeToggle<CR>
+let g:nvim_tree_side = 'left'
+let g:nvim_tree_ignore = [ '.git', 'node_modules', '.cache', '__pycache__'  ]
+nnoremap <C-n> :NvimTreeToggle<CR>
 
 " nnn.vim
-nnoremap <C-n> :NnnPicker %:p:h<CR>
+" nnoremap <C-n> :NnnPicker %:p:h<CR>
 
 " telescope.nvim
 nnoremap <C-p> <cmd>Telescope find_files<cr>
@@ -57,7 +57,7 @@ let g:better_whitespace_filetypes_blacklist=[]
   " \ 'coc-pyright',
 " ]
 
-let g:coc_global_extensions = ['coc-pyright', 'coc-pairs', 'coc-json', 'coc-markdownlint', 'coc-sh', 'coc-tsserver', 'coc-html']
+let g:coc_global_extensions = ['coc-pyright', 'coc-pairs', 'coc-json', 'coc-sh', 'coc-tsserver', 'coc-html']
 
 
 if has("win32")
