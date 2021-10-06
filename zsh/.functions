@@ -1,5 +1,5 @@
 # Make a directory and switch to it immediately
-function mcd() {
+mcd() {
     mkdir $1
     cd $1
 }
@@ -53,8 +53,7 @@ extract () {
 }
 
 # cd on quit (nnn)
-n ()
-{
+n () {
     # Block nesting of nnn in subshells
     if [ -n $NNNLVL ] && [ "${NNNLVL:-0}" -ge 1 ]; then
         echo "nnn is already running"
@@ -78,4 +77,8 @@ n ()
             . "$NNN_TMPFILE"
             rm -f "$NNN_TMPFILE" > /dev/null
     fi
+}
+
+trash () {
+    mv "$1" "$HOME/.Trash"
 }
