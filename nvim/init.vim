@@ -124,7 +124,7 @@ autocmd FileType * setlocal formatoptions-=c formatoptions-=r formatoptions-=o
 autocmd FileType json set filetype=jsonc
 
 " autocomplete closing tags for html
-autocmd FileType html inoremap <buffer> > ></<C-x><C-o><C-y><C-o>%<CR><C-o>O
+" autocmd FileType html inoremap <buffer> > ></<C-x><C-o><C-y><C-o>%<CR><C-o>O
 
 " set default filetype for new file as `.md`
 autocmd BufEnter * if &filetype == "" | setlocal ft=markdown | endif
