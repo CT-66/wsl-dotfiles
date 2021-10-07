@@ -1,6 +1,12 @@
+
 {
   "settingsVersion": "1.67",
-  "exclusionRules": [],
+  "exclusionRules": [
+    {
+      "pattern": "*://www.google.com/*",
+      "passKeys": "jk"
+    }
+  ],
   "filterLinkHints": false,
   "waitForEnterForFilteredHints": true,
   "hideHud": true,
