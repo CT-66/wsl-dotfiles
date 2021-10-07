@@ -113,6 +113,10 @@ zle -N vi-yank-custom
 bindkey -M vicmd 'y' vi-yank-custom
 
 autopair-init
+
+# bind alt+s -> sudo !!
+bindkey -s "^[s" "sudo \$\(fc -ln -1\)"
+
 # cat ~/reminders.md
 echo "~/reminders.md"
 
