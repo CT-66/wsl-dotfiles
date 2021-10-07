@@ -32,6 +32,6 @@ Plug 'nvim-lua/plenary.nvim'
 Plug 'nvim-telescope/telescope.nvim'
 " Plug 'AndrewRadev/tagalong.vim'
 Plug 'tpope/vim-eunuch'
-
+Plug 'dstein64/nvim-scrollview'
 
 call plug#end()
