@@ -56,6 +56,9 @@ nmap d<Right> d$
 nmap y<Left> y^
 nmap y<Right> y$
 
+nmap c<Left> c^
+nmap c<Right> c$
+
 vnoremap <left> ^
 vnoremap <right> $
 
