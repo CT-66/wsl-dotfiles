@@ -1,5 +1,5 @@
 {
-   "checksum": "9f78c3c2989728e0b1d9a2a331ae0f31",
+   "checksum": "220bd047925e954fba9b5271bd315e82",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -339,13 +339,6 @@
                "type": "folder"
             }, {
                "children": [ {
-                  "date_added": "13256210617829759",
-                  "guid": "c9a7f501-9599-4221-9385-13b034fcfd6d",
-                  "id": "62",
-                  "name": "Vim Tutorial - YouTube",
-                  "type": "url",
-                  "url": "https://www.youtube.com/watch?v=IiwGbcd8S7I&t=1289s"
-               }, {
                   "date_added": "13256210621043606",
                   "guid": "4aa9c4bd-f4ff-4c18-95bf-7bfa19e283d5",
                   "id": "63",
