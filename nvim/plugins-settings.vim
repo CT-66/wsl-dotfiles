@@ -7,6 +7,10 @@
 " nvim-tree.lua
 let g:nvim_tree_side = 'left'
 let g:nvim_tree_ignore = [ '.git', 'node_modules', '.cache', '__pycache__'  ]
+let g:nvim_tree_hide_dotfiles = 0
+let g:nvim_tree_highlight_opened_files = 1
+let g:nvim_tree_add_trailing = 1
+let g:nvim_tree_symlink_arrow = ' -> '
 nnoremap <C-n> :NvimTreeToggle<CR>
 
 " nnn.vim
