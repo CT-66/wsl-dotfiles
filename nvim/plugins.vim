@@ -31,6 +31,7 @@ Plug 'romgrk/barbar.nvim'
 Plug 'nvim-lua/plenary.nvim'
 Plug 'nvim-telescope/telescope.nvim'
 " Plug 'AndrewRadev/tagalong.vim'
+Plug 'tpope/vim-eunuch'
 
 
 call plug#end()
