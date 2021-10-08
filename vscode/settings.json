@@ -212,7 +212,7 @@
     ],
     "workbench.editor.tabCloseButton": "off",
     "window.title": "${dirty}${activeEditorShort}${separator}${rootName}",
-    "security.workspace.trust.untrustedFiles": "open",
+    "security.workspace.trust.enabled": false,
     "terminal.integrated.tabs.enabled": false,
     "material-icon-theme.hidesExplorerArrows": true,
     "update.mode": "default",

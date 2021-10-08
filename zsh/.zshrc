@@ -115,7 +115,7 @@ bindkey -M vicmd 'y' vi-yank-custom
 autopair-init
 
 # bind alt+s -> sudo !!
-bindkey -s "^[s" "sudo \$\(fc -ln -1\)"
+bindkey -s "^[s" "sudo !!"
 
 # cat ~/reminders.md
 echo "~/reminders.md"
