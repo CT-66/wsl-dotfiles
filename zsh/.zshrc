@@ -1,9 +1,12 @@
-# Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.config/zsh//.zshrc.
-# Initialization code that may require console input (password prompts, [y/n]
-# confirmations, etc.) must go above this block; everything else may go below.
-if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
-  source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
-fi
+# cat ~/reminders.md
+echo "~/reminders.md"
+
+. ~/.config/zsh/.prompt
+. ~/.config/zsh/.aliases
+. ~/.config/zsh/.variables
+. ~/.config/zsh/.plugins
+. ~/.config/zsh/.functions
+. ~/.config/zsh/.exports
 
 autoload -U compinit
 compinit -d ~/.cache/zsh/zsh_compinit_dumpfiles
@@ -34,13 +37,6 @@ setopt HIST_REDUCE_BLANKS
 
 # DISABLE_AUTO_UPDATE="true"
 # ENABLE_CORRECTION="true"
-
-. ~/.config/zsh/.aliases
-. ~/.config/zsh/.variables
-. ~/.config/zsh/.plugins
-. ~/.config/zsh/.prompt
-. ~/.config/zsh/.functions
-. ~/.config/zsh/.exports
 
 # vim mode
 bindkey -v
@@ -117,8 +113,4 @@ autopair-init
 # bind alt+s -> sudo !!
 bindkey -s "^[s" "sudo !!"
 
-# cat ~/reminders.md
-echo "~/reminders.md"
-
-# To customize prompt, run `p10k configure` or edit ~/.config/zsh//.p10k.zsh.
 [[ ! -f ~/.config/zsh//.p10k.zsh ]] || source ~/.config/zsh//.p10k.zsh
