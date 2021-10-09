@@ -1,5 +1,5 @@
 # cat ~/reminders.md
-echo "~/reminders.md"
+# neofetch
 
 . ~/.config/zsh/.prompt
 . ~/.config/zsh/.aliases
@@ -33,8 +33,6 @@ setopt HIST_REDUCE_BLANKS
 
 # compinit
 
-# neofetch
-
 # DISABLE_AUTO_UPDATE="true"
 # ENABLE_CORRECTION="true"
 
@@ -57,6 +55,7 @@ bindkey "^?" backward-delete-char
 bindkey '^R' history-incremental-search-backward
 bindkey -M vicmd 'g' vi-beginning-of-line
 bindkey -M vicmd 'G' end-of-line
+bindkey -M menuselect '^[[Z' reverse-menu-complete
 
 # Change cursor shape for different vi modes.
 function zle-keymap-select {
