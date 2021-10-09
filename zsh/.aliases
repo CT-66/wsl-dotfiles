@@ -18,6 +18,7 @@ alias g=git
 alias p='sudo pacman'
 alias yay=paru
 alias sv='sudoedit'
+alias nf=neofetch
 
 alias cd..='cd ../'
 alias ..='cd ../'
