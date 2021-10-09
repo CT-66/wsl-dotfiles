@@ -2,7 +2,6 @@ call plug#begin(has('nvim') ? stdpath('data') . '/plugged' : '~/.vim/plugged')
 
 Plug 'arcticicestudio/nord-vim'
 Plug 'joshdick/onedark.vim'
-" Plug 'rakr/vim-one'
 Plug 'kaicataldo/material.vim'
 
 " Plug 'mg979/vim-visual-multi', {'branch': 'master'}
@@ -33,5 +32,6 @@ Plug 'nvim-telescope/telescope.nvim'
 " Plug 'AndrewRadev/tagalong.vim'
 Plug 'tpope/vim-eunuch'
 Plug 'dstein64/nvim-scrollview'
+Plug 'alvan/vim-closetag'
 
 call plug#end()

@@ -98,6 +98,8 @@ inoremap <silent><expr> <cr> pumvisible() ? coc#_select_confirm()
 " Highlight the symbol and its references when holding the cursor.
 autocmd CursorHold * silent call CocActionAsync('highlight')
 
+let b:coc_pairs_disabled = ['<']
+
 " -----
 
 " hexokinase
@@ -122,3 +124,5 @@ let g:indentLine_concealcursor = ""
 let g:indentLine_setConceal = 0
 
 " -----
+
+" vim-closetag
