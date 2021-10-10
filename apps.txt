@@ -38,3 +38,4 @@ snake (aur)
 pacman4console (aur)
 moon-buggy (aur)
 shellcheck
+unzip
