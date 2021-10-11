@@ -39,3 +39,10 @@ pacman4console (aur)
 moon-buggy (aur)
 shellcheck
 unzip
+firefox
+ungoogled chromium
+vscode
+alacritty
+kitty
+sxiv
+vieb
