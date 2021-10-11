@@ -8,6 +8,8 @@
 . ~/.config/zsh/.functions
 . ~/.config/zsh/.exports
 
+# test -r "~/.config/zsh/nord-dircolors" && eval $(dircolors ~/.config/zsh/nord-dircolors)
+
 autoload -U compinit
 compinit -d ~/.cache/zsh/zsh_compinit_dumpfiles
 _comp_options+=(globdots)		# Autocomplete dotfiles

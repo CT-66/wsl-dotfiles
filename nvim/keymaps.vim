@@ -62,8 +62,8 @@ nmap c<Right> c$
 vnoremap <left> ^
 vnoremap <right> $
 
-imap <left> <C-o>^
-imap <right> <C-o>$
+" imap <left> <C-o>^
+" imap <right> <C-o>$
 
 " disable  ex mode
 nnoremap Q <Nop>
@@ -145,8 +145,8 @@ inoremap <C-j> <down>
 inoremap <C-k> <up>
 inoremap <C-l> <right>
 
-imap <up> <nop>
-imap <down> <nop>
+" imap <up> <nop>
+" imap <down> <nop>
 
 imap jk <esc>
 imap jj <esc>
