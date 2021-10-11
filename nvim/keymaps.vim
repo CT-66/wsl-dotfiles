@@ -148,8 +148,8 @@ inoremap <C-l> <right>
 " imap <up> <nop>
 " imap <down> <nop>
 
-imap jk <esc>
-imap jj <esc>
+" imap jk <esc>
+" imap jj <esc>
 
 
 nnoremap Q qw
