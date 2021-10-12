@@ -33,5 +33,6 @@ Plug 'nvim-telescope/telescope.nvim'
 Plug 'tpope/vim-eunuch'
 Plug 'dstein64/nvim-scrollview'
 Plug 'alvan/vim-closetag'
+Plug 'psf/black', { 'branch': 'stable' }
 
 call plug#end()

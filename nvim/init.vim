@@ -145,6 +145,10 @@ autocmd InsertLeave * :set relativenumber
 au! BufEnter *.md setlocal foldexpr=MarkdownLevel()
 au! BufEnter *.md setlocal foldmethod=expr
 
+" format python file on save
+" autocmd FileType python BufWritePre :Black
+autocmd BufWritePre *.py Black
+
 " -----
 
 set laststatus=2
