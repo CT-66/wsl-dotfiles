@@ -49,18 +49,6 @@ let g:better_whitespace_filetypes_blacklist=[]
 " -----
 
 " coc.nvim
-
-" let g:coc_global_extensions = [
-"   \ 'coc-snippets',
-"   \ 'coc-pairs',
-"   " \ 'coc-tsserver',
-"   \ 'coc-eslint',
-"   " \ 'coc-prettier',
-"   \ 'coc-json',
-"   \ 'coc-clangd',
-  " \ 'coc-pyright',
-" ]
-
 let g:coc_global_extensions = ['coc-pyright', 'coc-pairs', 'coc-json', 'coc-sh', 'coc-tsserver', 'coc-html']
 
 
