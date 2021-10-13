@@ -21,3 +21,5 @@ export FZF_DEFAULT_OPTS=$FZF_DEFAULT_OPTS'
 # export FZF_COMPLETION_TRIGGER=''
 # bindkey '^T' fzf-completion
 # bindkey '^I' $fzf_default_completion
+
+export NNN_OPTS="H"
