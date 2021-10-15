@@ -46,3 +46,4 @@ alacritty
 kitty
 sxiv
 vieb
+lolcat

@@ -53,3 +53,16 @@ vim.g.bufferline = {
 
 -- nvim-tree.lua
 require'nvim-tree'.setup()
+
+-- toggleterm.nvim
+require("toggleterm").setup{
+    open_mapping = [[<c-\>]],
+    direction = 'vertical',
+    size = 50,
+    border = 'curved',
+    insert_mappings = true,
+    shade_terminals = true,
+    shading_factor = '1',
+    close_on_exit = false
+
+}

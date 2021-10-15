@@ -1,5 +1,5 @@
 {
-   "checksum": "db6f09a8cfbf6b32e9dc50039ba53bbb",
+   "checksum": "2ce64daf720fbae5cf11ea617f7859f2",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2152,9 +2152,16 @@
                      "name": "https://www.reddit.com/r/unixporn/comments/pywwlu/sway_just_another_13_year_old_kid_showing_off_his/",
                      "type": "url",
                      "url": "https://www.reddit.com/r/unixporn/comments/pywwlu/sway_just_another_13_year_old_kid_showing_off_his/"
+                  }, {
+                     "date_added": "13278608185017067",
+                     "guid": "202a826e-2245-4380-8d1a-5ae0e59bcce1",
+                     "id": "1044",
+                     "name": "Switched to Endeavour OS from Manjaro and wow its Fast AF! : UsabilityPorn",
+                     "type": "url",
+                     "url": "https://www.reddit.com/r/UsabilityPorn/comments/q79r14/switched_to_endeavour_os_from_manjaro_and_wow_its/"
                   } ],
                   "date_added": "13273873815388362",
-                  "date_modified": "13277623558897233",
+                  "date_modified": "13278608189649380",
                   "guid": "3dc6fb42-5196-4d30-be34-91d41dcc09fb",
                   "id": "844",
                   "name": "Ricing",
@@ -3823,7 +3830,7 @@
                "url": "https://leanpub.com/the-tao-of-tmux/read"
             } ],
             "date_added": "13273077609386347",
-            "date_modified": "13278299526165032",
+            "date_modified": "13278608185017067",
             "guid": "5934a8fb-c902-4c38-8ac7-3e7b425f6b4c",
             "id": "740",
             "name": "todo",
@@ -3849,13 +3856,6 @@
             "name": "Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.",
             "type": "url",
             "url": "https://tailwindcss.com/"
-         }, {
-            "date_added": "13273077654795970",
-            "guid": "e0c55d4b-362e-4100-8588-00ab32ed2133",
-            "id": "839",
-            "name": "Documentation - Sublime Text",
-            "type": "url",
-            "url": "https://www.sublimetext.com/docs/"
          }, {
             "date_added": "13274121477013778",
             "guid": "8fbf3feb-c3df-4459-bbc5-b1ecafb327ff",

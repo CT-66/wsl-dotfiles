@@ -1,4 +1,6 @@
 {
+
+
     "$schema": "https://aka.ms/terminal-profiles-schema",
     "actions":
     [
@@ -17,6 +19,7 @@
                 "dropdownDuration": 20
             },
             "keys": "win+`"
+            /* "keys": ["win+\\", "win+`"] */
         }
     ],
     "alwaysOnTop": false,

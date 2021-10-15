@@ -1,5 +1,5 @@
 # cat ~/reminders.md
-# neofetch
+# neofetch | lolcat
 
 . ~/.config/zsh/.prompt
 . ~/.config/zsh/.aliases

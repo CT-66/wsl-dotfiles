@@ -34,5 +34,6 @@ Plug 'tpope/vim-eunuch'
 Plug 'dstein64/nvim-scrollview'
 Plug 'alvan/vim-closetag'
 Plug 'psf/black', { 'branch': 'stable' }
+Plug 'akinsho/toggleterm.nvim'
 
 call plug#end()
