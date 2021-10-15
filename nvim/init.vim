@@ -32,6 +32,7 @@ set nostartofline
 set wildmenu
 set wildmode=longest:full,full
 set lazyredraw
+set hidden
 
 " -----
 
@@ -135,7 +136,11 @@ au filetype markdown set formatoptions+=ro
 au filetype markdown set comments=b:*,b:-,b:+,b:1.,n:>
 
 " open `:help` as a vertical split
-autocmd FileType help wincmd L
+" autocmd FileType help wincmd L
+
+" open `:help` in a new tab
+cnoreabbrev <expr> h getcmdtype() == ":" && getcmdline() == 'h' ? 'tab help' : 'h'
+cnoreabbrev <expr> help getcmdtype() == ":" && getcmdline() == 'help' ? 'tab help' : 'help'
 
 " enable relative line numbers in normal mode, and regular line numbers in insert mode
 autocmd InsertEnter * :set norelativenumber
