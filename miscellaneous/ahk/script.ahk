@@ -129,3 +129,8 @@ Backspace::
       Send {Backspace}
   }
 #IfWinActive
+
+; Fix ctrl+backspace in file explorer
+#IfWinActive ahk_class CabinetWClass
+	^Backspace::Send ^+{Left}{Backspace}
+#IfWinActive
