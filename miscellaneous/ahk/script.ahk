@@ -114,6 +114,11 @@ return
 ; FnA::run "c:\users\iamsh\appdata\local\microsoft\windowsapps\microsoft.windowsterminalpreview_8wekyb3d8bbwe\wt.exe"
 ; return
 
+#IfWinActive ahk_class ConsoleWindowClass
+^L::Send cls{Enter}
+Return
+#IfWinActive
+
 ; Always in end
 #Esc::DllCall("LockWorkStation")
 return
