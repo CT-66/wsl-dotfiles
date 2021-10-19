@@ -170,6 +170,7 @@ highlight Visual guibg=#434C5E gui=bold
 highlight Search guifg=#C678DD guibg=#4C566A gui=bold
 highlight TabLineSel guifg=#282C34 guibg=#61AFEF gui=bold
 highlight CursorLineNr guifg=#61AFEF gui=bold
+" highlight VertSplit guifg=#61AFEF
 
 " highlight Comment guifg=#7f848e gui=bold
 highlight Comment guifg=#7f848e
