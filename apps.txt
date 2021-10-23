@@ -47,3 +47,4 @@ kitty
 sxiv
 vieb
 lolcat
+htop

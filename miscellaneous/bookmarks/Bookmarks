@@ -1,5 +1,5 @@
 {
-   "checksum": "2ce64daf720fbae5cf11ea617f7859f2",
+   "checksum": "87979c72f160c00de886b469358469f2",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2159,9 +2159,16 @@
                      "name": "Switched to Endeavour OS from Manjaro and wow its Fast AF! : UsabilityPorn",
                      "type": "url",
                      "url": "https://www.reddit.com/r/UsabilityPorn/comments/q79r14/switched_to_endeavour_os_from_manjaro_and_wow_its/"
+                  }, {
+                     "date_added": "13279446131709110",
+                     "guid": "ea4b528d-1730-49ce-bada-694809aff8b9",
+                     "id": "1046",
+                     "name": "How I customize my KDE Plasma Desktop - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=A0LiFu1eaMs"
                   } ],
                   "date_added": "13273873815388362",
-                  "date_modified": "13278608189649380",
+                  "date_modified": "13279446835960196",
                   "guid": "3dc6fb42-5196-4d30-be34-91d41dcc09fb",
                   "id": "844",
                   "name": "Ricing",
@@ -3828,9 +3835,93 @@
                "name": "https://leanpub.com/the-tao-of-tmux/read",
                "type": "url",
                "url": "https://leanpub.com/the-tao-of-tmux/read"
+            }, {
+               "date_added": "13279446835960196",
+               "guid": "49a09da7-8850-4c5d-935d-3fb43a9a9f46",
+               "id": "1047",
+               "name": "enkia/tokyo-night-vscode-theme: A clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.",
+               "type": "url",
+               "url": "https://github.com/enkia/tokyo-night-vscode-theme"
+            }, {
+               "date_added": "13279447635387957",
+               "guid": "e4e204ec-f962-4c1d-b820-877095296e71",
+               "id": "1048",
+               "name": "htop: Quick Guide & Customization",
+               "type": "url",
+               "url": "https://haydenjames.io/htop-quick-guide-customization/"
+            }, {
+               "date_added": "13279447659145099",
+               "guid": "3da4d1eb-5b39-4a7a-acfd-a230cfcfe0ca",
+               "id": "1049",
+               "name": "htop: Here’s how to customize it : commandline",
+               "type": "url",
+               "url": "https://www.reddit.com/r/commandline/comments/9qdknj/htop_heres_how_to_customize_it/"
+            }, {
+               "date_added": "13279447682073772",
+               "guid": "e4b886a6-51c6-4dff-844a-316f078365e6",
+               "id": "1050",
+               "name": "Just found out you can customize HTOP and I somehow love it even more than I did before! : linuxmasterrace",
+               "type": "url",
+               "url": "https://www.reddit.com/r/linuxmasterrace/comments/89r2xn/just_found_out_you_can_customize_htop_and_i/"
+            }, {
+               "date_added": "13279447696849104",
+               "guid": "cd3ba2f3-49a2-4ac8-b2a6-e126236e8f96",
+               "id": "1051",
+               "name": "Vim users rejoice! : linux",
+               "type": "url",
+               "url": "https://www.reddit.com/r/linux/comments/o9p652/vim_users_rejoice/"
+            }, {
+               "date_added": "13279447706693322",
+               "guid": "972d66c4-2fa7-4e7a-b38c-c1a1f6e97d81",
+               "id": "1052",
+               "name": "Linux Guy / HTim · GitLab",
+               "type": "url",
+               "url": "https://gitlab.com/thelinuxguy9/htim"
+            }, {
+               "date_added": "13279447739479366",
+               "guid": "d3d70115-0740-4215-9fc8-04a009b06bbc",
+               "id": "1053",
+               "name": "Linux for Programmers #5 - Processes, htop & top - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=sDpyK4OnbBc"
+            }, {
+               "date_added": "13279447746294517",
+               "guid": "3e2ad8cf-3923-4038-a624-c812cd24f415",
+               "id": "1054",
+               "name": "Linux Tip | How to use Htop - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=Qw2ZUf0hTF8"
+            }, {
+               "date_added": "13279447749831808",
+               "guid": "2c38ac3d-172e-4eec-965b-721506bd8402",
+               "id": "1055",
+               "name": "Using Htop To Monitor Your System - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=DVapUamvqO8"
+            }, {
+               "date_added": "13279447753547713",
+               "guid": "05aaa219-c316-4494-9a85-751e92f0b35b",
+               "id": "1056",
+               "name": "Linux Terminal System Monitors! bpytop / glances / htop - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=hH2ENEew9RI"
+            }, {
+               "date_added": "13279447758035281",
+               "guid": "ffcd4fe1-b3d2-47b6-bd3b-23af4577ec77",
+               "id": "1057",
+               "name": "Bashtop Is An Htop Alternative Written In Bash - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=A6fdSHtPHAM"
+            }, {
+               "date_added": "13279447769190778",
+               "guid": "880a94c1-b17c-4ca4-9f87-9c626b717c90",
+               "id": "1058",
+               "name": "Bashtop: An Htop Like System Monitor But Much More Useful - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=NCArDCpYoiY"
             } ],
             "date_added": "13273077609386347",
-            "date_modified": "13278608185017067",
+            "date_modified": "13279447769190778",
             "guid": "5934a8fb-c902-4c38-8ac7-3e7b425f6b4c",
             "id": "740",
             "name": "todo",
