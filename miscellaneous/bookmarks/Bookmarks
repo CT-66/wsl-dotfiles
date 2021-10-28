@@ -1,5 +1,5 @@
 {
-   "checksum": "1ff92634c08ceefd97ddc56505ceb7d7",
+   "checksum": "e9b449f417308bbb128e4b6aa5d28af1",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3926,9 +3926,16 @@
                "name": "GammaFn / Snippets · GitLab",
                "type": "url",
                "url": "https://gitlab.com/xPMo/snippets"
+            }, {
+               "date_added": "13279882152695751",
+               "guid": "e1e3fe9f-904d-4912-9114-2dd84a45f02b",
+               "id": "1061",
+               "name": "github/copilot.vim: Neovim plugin for GitHub Copilot",
+               "type": "url",
+               "url": "https://github.com/github/copilot.vim"
             } ],
             "date_added": "13273077609386347",
-            "date_modified": "13279447890701354",
+            "date_modified": "13279882152695751",
             "guid": "5934a8fb-c902-4c38-8ac7-3e7b425f6b4c",
             "id": "740",
             "name": "todo",
