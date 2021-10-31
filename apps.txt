@@ -49,3 +49,4 @@ vieb
 lolcat
 htop
 virtualbox
+polybar (aur)

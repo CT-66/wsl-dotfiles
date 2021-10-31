@@ -53,3 +53,5 @@ fi
 # cd $HOME/.local/share/nvim/plugged/vim-hexokinase
 # make hexokinase
 # cd $HOME
+# git clone tpm (tmux) and install plugins
+# try installing tmux plugins from cli
