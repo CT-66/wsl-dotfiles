@@ -54,3 +54,4 @@ i3
 nitrogen
 flameshot
 plank dock
+tty-clock (aur)
