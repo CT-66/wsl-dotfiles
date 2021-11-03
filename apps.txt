@@ -50,3 +50,7 @@ lolcat
 htop
 virtualbox
 polybar (aur)
+i3
+nitrogen
+flameshot
+plank dock
