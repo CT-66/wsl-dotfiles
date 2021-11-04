@@ -113,5 +113,6 @@ autopair-init
 
 # bind alt+s -> sudo !!
 bindkey -s "^[s" "sudo !!"
+bindkey -s "^o" "lfcd\n"
 
 [[ ! -f ~/.config/zsh//.p10k.zsh ]] || source ~/.config/zsh//.p10k.zsh
