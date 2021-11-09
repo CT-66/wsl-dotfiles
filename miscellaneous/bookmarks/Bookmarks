@@ -1,5 +1,5 @@
 {
-   "checksum": "e9b449f417308bbb128e4b6aa5d28af1",
+   "checksum": "3d0919b6b65caae91ffb00791805ab2f",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2159,13 +2159,6 @@
                      "name": "Switched to Endeavour OS from Manjaro and wow its Fast AF! : UsabilityPorn",
                      "type": "url",
                      "url": "https://www.reddit.com/r/UsabilityPorn/comments/q79r14/switched_to_endeavour_os_from_manjaro_and_wow_its/"
-                  }, {
-                     "date_added": "13279446131709110",
-                     "guid": "ea4b528d-1730-49ce-bada-694809aff8b9",
-                     "id": "1046",
-                     "name": "How I customize my KDE Plasma Desktop - YouTube",
-                     "type": "url",
-                     "url": "https://www.youtube.com/watch?v=A0LiFu1eaMs"
                   } ],
                   "date_added": "13273873815388362",
                   "date_modified": "13279446835960196",
@@ -3843,6 +3836,13 @@
                "type": "url",
                "url": "https://github.com/enkia/tokyo-night-vscode-theme"
             }, {
+               "date_added": "13280835522471174",
+               "guid": "3f6257de-e846-4f67-ab10-d3be02fd6ad3",
+               "id": "1063",
+               "name": "htop-dev/htop: htop - an interactive process viewer",
+               "type": "url",
+               "url": "https://github.com/htop-dev/htop"
+            }, {
                "date_added": "13279447635387957",
                "guid": "e4e204ec-f962-4c1d-b820-877095296e71",
                "id": "1048",
@@ -3935,7 +3935,7 @@
                "url": "https://github.com/github/copilot.vim"
             } ],
             "date_added": "13273077609386347",
-            "date_modified": "13279882152695751",
+            "date_modified": "13280835657962182",
             "guid": "5934a8fb-c902-4c38-8ac7-3e7b425f6b4c",
             "id": "740",
             "name": "todo",
@@ -3989,9 +3989,16 @@
             "name": "Rust Programming Language",
             "type": "url",
             "url": "https://www.rust-lang.org/"
+         }, {
+            "date_added": "13280835657962182",
+            "guid": "9f0fb9f9-a097-42f7-add6-251cf636dae3",
+            "id": "1065",
+            "name": "denysdovhan/wtfjs: 🤪 A list of funny and tricky JavaScript examples",
+            "type": "url",
+            "url": "https://github.com/denysdovhan/wtfjs"
          } ],
          "date_added": "13253039366923366",
-         "date_modified": "13276630820278540",
+         "date_modified": "13280835663004135",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks",
