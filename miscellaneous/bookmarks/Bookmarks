@@ -1,5 +1,5 @@
 {
-   "checksum": "3d0919b6b65caae91ffb00791805ab2f",
+   "checksum": "edf8c10d034a2f55cf19b0f1bd9f45a0",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3996,9 +3996,305 @@
             "name": "denysdovhan/wtfjs: 🤪 A list of funny and tricky JavaScript examples",
             "type": "url",
             "url": "https://github.com/denysdovhan/wtfjs"
+         }, {
+            "children": [ {
+               "date_added": "13281704648624900",
+               "guid": "309e6e02-5da0-4b20-9031-33076cf70eab",
+               "id": "1068",
+               "name": "Bookmarks",
+               "type": "url",
+               "url": "chrome://bookmarks/?q=K"
+            }, {
+               "date_added": "13281704648625633",
+               "guid": "e1a28854-56e3-4fd5-9f22-b77a44345f10",
+               "id": "1069",
+               "name": "Bookmarks",
+               "type": "url",
+               "url": "chrome://bookmarks/?id=175"
+            }, {
+               "date_added": "13281704648626113",
+               "guid": "16dc32a5-b174-4194-80b6-89cb3f3e3e3b",
+               "id": "1070",
+               "name": "New Issue · greenshot/greenshot",
+               "type": "url",
+               "url": "https://github.com/greenshot/greenshot/issues/new?assignees=&labels=&template=feature_request.md&title="
+            }, {
+               "date_added": "13281704648626678",
+               "guid": "1acad03f-714d-4dbb-8035-2c6f602ac73f",
+               "id": "1071",
+               "name": "Python Blog Tutorial #1 - Flask Setup and Introduction - YouTube",
+               "type": "url",
+               "url": "chrome-extension://noogafoofpebimajpfpamcfhoaifemoa/suspended.html#ttl=Python%20Blog%20Tutorial%20%231%20-%20Flask%20Setup%20and%20Introduction%20-%20YouTube&pos=0&uri=https://www.youtube.com/watch?v=GQcM8wdduLI&list=PLz8l62B_3hyQkXcMNDRf00G7i2rXANDgM&index=54"
+            }, {
+               "date_added": "13281704648626934",
+               "guid": "558aad35-1d3e-4ae4-8e1f-2c7c791e6b34",
+               "id": "1072",
+               "name": "Curses Programming with Python — Python 3.9.7 documentation",
+               "type": "url",
+               "url": "chrome-extension://noogafoofpebimajpfpamcfhoaifemoa/suspended.html#ttl=Curses%20Programming%20with%20Python%20%E2%80%94%20Python%203.9.7%20documentation&pos=0&uri=https://docs.python.org/3/howto/curses.html"
+            }, {
+               "date_added": "13281704648627120",
+               "guid": "9d1ee589-7657-4274-a385-da76f1c4c4cd",
+               "id": "1073",
+               "name": "Text Based Animations | 101 Computing",
+               "type": "url",
+               "url": "chrome-extension://noogafoofpebimajpfpamcfhoaifemoa/suspended.html#ttl=Text%20Based%20Animations%20%7C%20101%20Computing&pos=0&uri=https://www.101computing.net/text-based-animations/"
+            }, {
+               "date_added": "13281704648627374",
+               "guid": "a357e09f-77f9-4792-87a7-802ef5585850",
+               "id": "1074",
+               "name": "Watch later - YouTube",
+               "type": "url",
+               "url": "chrome-extension://noogafoofpebimajpfpamcfhoaifemoa/suspended.html#ttl=Watch%20later%20-%20YouTube&pos=0&uri=https://www.youtube.com/playlist?list=WL"
+            }, {
+               "date_added": "13281704648627522",
+               "guid": "428e397f-049d-4c7b-9674-9928cd69a148",
+               "id": "1075",
+               "name": "Bookmarks",
+               "type": "url",
+               "url": "chrome://bookmarks/?id=740"
+            }, {
+               "date_added": "13281704648627635",
+               "guid": "b66715ac-a147-4549-bdfd-5b7bf8ab3918",
+               "id": "1076",
+               "name": "3.9.7 Documentation",
+               "type": "url",
+               "url": "chrome-extension://noogafoofpebimajpfpamcfhoaifemoa/suspended.html#ttl=3.9.7%20Documentation&pos=0&uri=https://docs.python.org/3/"
+            }, {
+               "date_added": "13281704648627761",
+               "guid": "9eef27d4-d7fa-452f-a781-e31138d4c146",
+               "id": "1077",
+               "name": "How to Build Command Line Interfaces in Python With argparse – Real Python",
+               "type": "url",
+               "url": "https://realpython.com/command-line-interfaces-python-argparse/"
+            }, {
+               "date_added": "13281704648627901",
+               "guid": "872da6f2-7bc3-4205-80e3-0646aea71ac0",
+               "id": "1078",
+               "name": "Building Beautiful Command Line Interfaces with Python | by Oyetoke Tobi Emmanuel | codeburst",
+               "type": "url",
+               "url": "https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df"
+            }, {
+               "date_added": "13281704648628079",
+               "guid": "ba099e84-9045-43f0-85c8-1fe67a96bd68",
+               "id": "1079",
+               "name": "sioodmy/todo: Simple todo cli program written in rust",
+               "type": "url",
+               "url": "https://github.com/sioodmy/todo"
+            }, {
+               "date_added": "13281704648628367",
+               "guid": "f9412786-7944-49dc-84eb-c045cd851aaa",
+               "id": "1080",
+               "name": "Issues · ogham/exa",
+               "type": "url",
+               "url": "https://github.com/ogham/exa/issues"
+            }, {
+               "date_added": "13281704648628536",
+               "guid": "4a9815fb-ed19-40ca-88b1-c2696a108abd",
+               "id": "1081",
+               "name": "Beginner's Guide To Kdenlive And Video Editing - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=KI93ae_nnyY"
+            }, {
+               "date_added": "13281704648628663",
+               "guid": "fba21a48-3e1d-4c3f-bfae-ac4a70b04eec",
+               "id": "1082",
+               "name": "i3wm: Jump Start (1/3) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=j1I63wGcvU4"
+            }, {
+               "date_added": "13281704648628781",
+               "guid": "1fbb0fd5-a809-4cda-bfb0-7da5553e225a",
+               "id": "1083",
+               "name": "sdushantha/tmpmail: A temporary email right from your terminal written in POSIX sh",
+               "type": "url",
+               "url": "https://github.com/sdushantha/tmpmail"
+            }, {
+               "date_added": "13281704648628912",
+               "guid": "e2aacfbc-b430-40c9-a0e8-f2e9b19ed8f2",
+               "id": "1084",
+               "name": "How to enable Hexokinase for all file types? · Issue #88 · RRethy/vim-hexokinase",
+               "type": "url",
+               "url": "https://github.com/RRethy/vim-hexokinase/issues/88"
+            }, {
+               "date_added": "13281704648629049",
+               "guid": "6fe99db3-efde-4d06-932a-c25926c7b3ea",
+               "id": "1085",
+               "name": "chaoren/vim-wordmotion: More useful word motions for Vim",
+               "type": "url",
+               "url": "https://github.com/chaoren/vim-wordmotion"
+            }, {
+               "date_added": "13281704648629169",
+               "guid": "a62060aa-07e0-4e76-9d61-7c8f79c7a615",
+               "id": "1086",
+               "name": "norcalli/nvim-colorizer.lua: The fastest Neovim colorizer.",
+               "type": "url",
+               "url": "https://github.com/norcalli/nvim-colorizer.lua"
+            }, {
+               "date_added": "13281704648629289",
+               "guid": "d665e2c1-3019-4fda-8b1b-150875397eb3",
+               "id": "1087",
+               "name": "tversteeg/registers.nvim: 📑 NeoVim plugin to preview the contents of the registers",
+               "type": "url",
+               "url": "https://github.com/tversteeg/registers.nvim"
+            }, {
+               "date_added": "13281704648629415",
+               "guid": "7ed01292-0091-48ed-8772-7f979d38335a",
+               "id": "1088",
+               "name": "Explore GitHub",
+               "type": "url",
+               "url": "https://github.com/explore"
+            }, {
+               "date_added": "13281704648629526",
+               "guid": "3275788d-1a00-4250-90db-947c76665e84",
+               "id": "1089",
+               "name": "Make Linux Login Look Better than Windows | LightDM Config - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=_dYqisDIcC0&t=676s"
+            }, {
+               "date_added": "13281704648629653",
+               "guid": "2b451b86-79e4-4e8e-8316-197b3d08a22a",
+               "id": "1090",
+               "name": "LightDM Configuration",
+               "type": "url",
+               "url": "https://www.christitus.com/lightdm-configuration"
+            }, {
+               "date_added": "13281704648629768",
+               "guid": "7680f4f9-3f61-44d9-b9e0-e39c140e25dd",
+               "id": "1091",
+               "name": "Nord - Chrome Web Store",
+               "type": "url",
+               "url": "https://chrome.google.com/webstore/detail/nord/abehfkkfjlplnjadfcjiflnejblfmmpj"
+            }, {
+               "date_added": "13281704648629889",
+               "guid": "21e8938b-3b20-4cc4-8622-eda44d746468",
+               "id": "1092",
+               "name": "thinkpad good : linuxmemes",
+               "type": "url",
+               "url": "https://www.reddit.com/r/linuxmemes/comments/quevto/thinkpad_good/"
+            }, {
+               "date_added": "13281704648630009",
+               "guid": "dbfc222b-9388-404a-8238-1950b9cb59e0",
+               "id": "1093",
+               "name": "CT-66/home",
+               "type": "url",
+               "url": "https://github.com/CT-66/home"
+            }, {
+               "date_added": "13281704648630127",
+               "guid": "4eb00ea2-491c-46e4-bc7f-0b35c8015fb3",
+               "id": "1094",
+               "name": "How to Set Up and Configure Polybar - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=S1jQfGcKjtA"
+            }, {
+               "date_added": "13281704648630251",
+               "guid": "34f98cc7-f571-4cad-a237-ebd02f34e187",
+               "id": "1095",
+               "name": "Python Curses Tutorial #1 - Make GOOD Looking Terminal Apps! - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=Db4oc8qc9RU"
+            }, {
+               "date_added": "13281704648630556",
+               "guid": "f3448267-a0f9-449c-abfc-86b15bb84b2b",
+               "id": "1096",
+               "name": "techwithtim (Tim Ruscica) / Repositories",
+               "type": "url",
+               "url": "https://github.com/techwithtim?tab=repositories"
+            } ],
+            "date_added": "13281704648624429",
+            "date_modified": "13281704648630556",
+            "guid": "70575d73-e0a9-4ea9-8ede-a2d68945cd95",
+            "id": "1067",
+            "name": "Open-Window-1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13281704656951629",
+               "guid": "e3699dcf-1560-4ea1-8a17-bbcc8c7fdf8a",
+               "id": "1098",
+               "name": "Reddit Reply Bot : 10 Steps - Instructables",
+               "type": "url",
+               "url": "https://www.instructables.com/Reddit-Reply-Bot/"
+            }, {
+               "date_added": "13281704656951790",
+               "guid": "f6b81b7b-9c11-4bd2-967e-2d6de239d3be",
+               "id": "1099",
+               "name": "Comment Extraction and Parsing — PRAW 7.4.0 documentation",
+               "type": "url",
+               "url": "https://praw.readthedocs.io/en/stable/tutorials/comments.html#extracting-comments-with-praw"
+            }, {
+               "date_added": "13281704656951936",
+               "guid": "9fb60948-cbc5-4b0e-ab0d-3ad6e5ac8d1d",
+               "id": "1100",
+               "name": "Submission Stream Reply Bot — PRAW 7.4.0 documentation",
+               "type": "url",
+               "url": "https://praw.readthedocs.io/en/stable/tutorials/reply_bot.html"
+            }, {
+               "date_added": "13281704656952109",
+               "guid": "f7b65167-e1bb-4855-ae2a-e50adc624d8a",
+               "id": "1101",
+               "name": "Test-2 : bot_test_sub_2187",
+               "type": "url",
+               "url": "https://www.reddit.com/r/bot_test_sub_2187/comments/q80erb/test2/"
+            }, {
+               "date_added": "13281704656952251",
+               "guid": "d3ca0ade-8d97-403d-8a34-371197e2688f",
+               "id": "1102",
+               "name": "Comment Reply Bot using PRAW : redditdev",
+               "type": "url",
+               "url": "https://www.reddit.com/r/redditdev/comments/fj06x8/comment_reply_bot_using_praw/"
+            }, {
+               "date_added": "13281704656952376",
+               "guid": "c1be2f1a-b411-4ad1-bc3c-6e3803ccfa15",
+               "id": "1103",
+               "name": "New to Js and I have a couple of questions : learnjavascript",
+               "type": "url",
+               "url": "https://www.reddit.com/r/learnjavascript/comments/qfhm0d/new_to_js_and_i_have_a_couple_of_questions/"
+            }, {
+               "date_added": "13281704656952505",
+               "guid": "76914294-7a8e-4780-b230-acb889f0009b",
+               "id": "1104",
+               "name": "Fetch",
+               "type": "url",
+               "url": "https://javascript.info/fetch"
+            }, {
+               "date_added": "13281704656952617",
+               "guid": "edc6bf04-7957-4c35-8b21-123cf7eea6c7",
+               "id": "1105",
+               "name": "JS - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/playlist?list=PLz8l62B_3hyQG-X7XOIZ1LlEvQ-gC0tBY"
+            }, {
+               "date_added": "13281704656952739",
+               "guid": "3c3989e9-177a-4080-9148-a8ada8f8edf4",
+               "id": "1106",
+               "name": "Javascript - Programming Language | Tutorial - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpPQbcrA-SzALJeFm23tPrAI"
+            }, {
+               "date_added": "13281704656952864",
+               "guid": "c8c0bbed-9581-4a06-9de2-e1f7490d9061",
+               "id": "1107",
+               "name": "Introduction to Web Development - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/playlist?list=PLZlA0Gpn_vH-cEDOofOujFIknfZZpIk3a"
+            }, {
+               "date_added": "13281704656953009",
+               "guid": "c0d84f29-4f6d-45fc-b51f-406a837d2bfb",
+               "id": "1108",
+               "name": "JavaScript For Beginners #1 - Environment Setup and \"Hello World!\" - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=ykoxwrm0Seo&list=PLzMcBGfZo4-njtc5xy3qli4cN2zlKsoxd"
+            } ],
+            "date_added": "13281704656951358",
+            "date_modified": "13281704656953009",
+            "guid": "add21e98-7507-485c-a2ee-aae1395f142d",
+            "id": "1097",
+            "name": "Open-Window-2",
+            "type": "folder"
          } ],
          "date_added": "13253039366923366",
-         "date_modified": "13280835663004135",
+         "date_modified": "13281704656953374",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks",
